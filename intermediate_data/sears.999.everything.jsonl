@@ -1,0 +1,999 @@
+{"evidence": [[[156130, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Brent Mydland is a member of the Grateful Dead .", "id": 0}
+{"evidence": [[[109893, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Dodo has been depicted with a grey and red head .", "id": 1}
+{"evidence": [[[76261, 87561, "Indian_Army", 16], [76261, 87561, "Volunteer_military", 0]]], "label": "SUPPORTS", "claim": "Fred Seibert just produces for satellite television .", "id": 2}
+{"evidence": [[[20622, 25261, "Kendall_Jenner", 0]], [[20622, 25262, "Kendall_Jenner", 1]], [[20622, 25263, "Kendall_Jenner", 4]], [[20622, 25264, "Kendall_Jenner", 5]]], "label": "SUPPORTS", "claim": "Charlotte , North Carolina banned a corporation headquarters forever .", "id": 3}
+{"evidence": [[[182208, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Jarhead , a 2005 American biographical war drama , was led by Jim Jarmusch .", "id": 4}
+{"evidence": [[[64381, 75142, "The_Mod_Squad", 0]]], "label": "SUPPORTS", "claim": "the oldest branch of physics is astronomy .", "id": 5}
+{"evidence": [[[241358, 242911, "Brad_Wilk", 4], [241358, 242911, "Greta_-LRB-band-RRB-", 0]]], "label": "SUPPORTS", "claim": "Henri Kontinen won the Australian Open men championship in 2011 .", "id": 6}
+{"evidence": [[[235717, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a relative of Elizabeth I was executed .", "id": 7}
+{"evidence": [[[100677, 113981, "Magic_Johnson", 1]], [[100677, 113982, "Magic_Johnson", 16]]], "label": "REFUTES", "claim": "The Invisible Man was an action film with no science fiction elements .", "id": 8}
+{"evidence": [[[240379, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Saturn Award for Best Fantasy Film is presented to the best film in a genre .", "id": 9}
+{"evidence": [[[264583, 262007, "A&E_-LRB-TV_channel-RRB-", 0]]], "label": "REFUTES", "claim": "Estelle Getty was a stand - .", "id": 10}
+{"evidence": [[[181016, 193320, "Heavy_metal_music", 0]]], "label": "SUPPORTS", "claim": "The Pakistan Movement was a result of shifts in Afghan society , government , and ways of thinking .", "id": 11}
+{"evidence": [[[239932, 241610, "Goosebumps_-LRB-film-RRB-", 1]]], "label": "SUPPORTS", "claim": "the Fly is an American film from 1986 .", "id": 12}
+{"evidence": [[[208602, 216601, "Wentworth_Miller", 2]]], "label": "REFUTES", "claim": "the Big Country's basis was a serialized magazine novel .", "id": 13}
+{"evidence": [[[246631, 247103, "Excuse_My_French_-LRB-album-RRB-", 0]]], "label": "REFUTES", "claim": "the Paper stars Jennifer Lawrence .", "id": 14}
+{"evidence": [[[70457, 81325, "Penguin_Books", 2]]], "label": "REFUTES", "claim": "Bob Ross created ABC drama the Joy of Painting .", "id": 15}
+{"evidence": [[[128396, 143110, "Recovery_-LRB-Eminem_album-RRB-", 0], [128396, 143110, "Eminem", 0]]], "label": "SUPPORTS", "claim": "the Punisher is a TV series starring Jon Bernthal .", "id": 16}
+{"evidence": [[[29480, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Chaperone ( film ) is a 2011 film .", "id": 17}
+{"evidence": [[[217676, 224167, "Asylum_Records", 0]]], "label": "REFUTES", "claim": "Scaramouche is a character in commedia dell'arte .", "id": 18}
+{"evidence": [[[191491, 202336, "Roswell_-LRB-TV_series-RRB-", 0]]], "label": "SUPPORTS", "claim": "Raja Hindustani was led solely by Mariah Carey .", "id": 19}
+{"evidence": [[[97569, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Syco is a entertainment corporation .", "id": 20}
+{"evidence": [[[101068, 114324, "Ashley_Graham_-LRB-model-RRB-", 6]]], "label": "SUPPORTS", "claim": "Foot Locker operates in just 11 countries .", "id": 21}
+{"evidence": [[[167224, 181049, "San_Diego_Comic-Con", 1]]], "label": "SUPPORTS", "claim": "Sausage Party was released in 2011 .", "id": 22}
+{"evidence": [[[179666, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Monster is a gosepl song .", "id": 23}
+{"evidence": [[[191998, 202760, "Johanna_Braddy", 3]], [[191998, 202761, "Johanna_Braddy", 4], [191998, 202761, "Quantico_-LRB-TV_series-RRB-", 0]]], "label": "REFUTES", "claim": "the current Duke of York is a person .", "id": 24}
+{"evidence": [[[35576, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Hunger Games film series had no directors .", "id": 25}
+{"evidence": [[[268482, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the New Jersey Turnpike has 13 toll booths .", "id": 26}
+{"evidence": [[[95666, 108700, "Martin_Van_Buren", 1]], [[95666, 108701, "Martin_Van_Buren", 12]], [[95666, 108702, "Martin_Van_Buren", 14]]], "label": "SUPPORTS", "claim": "Ang Lee is has led more than 4 films .", "id": 27}
+{"evidence": [[[20414, 24999, "Monster", 0]]], "label": "SUPPORTS", "claim": "the Africa Cup of Nations is held in odd - numbered years due to conflict with the World Cup .", "id": 28}
+{"evidence": [[[46614, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Beverly Hillbillies ranked as a number one series of the year .", "id": 29}
+{"evidence": [[[37925, 45839, "Meteora_-LRB-album-RRB-", 0]]], "label": "SUPPORTS", "claim": "Sierra Morena is English .", "id": 30}
+{"evidence": [[[234479, 237345, "Boyhood_-LRB-film-RRB-", 1]]], "label": "SUPPORTS", "claim": "In some cultures , candy is given away when Trick - or - Treating .", "id": 31}
+{"evidence": [[[98066, 111202, "Yale_University", 23]]], "label": "SUPPORTS", "claim": "the Wonder Years was a boardgame .", "id": 32}
+{"evidence": [[[147917, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Guthrie Theater's first building stopped operating in 2006 .", "id": 33}
+{"evidence": [[[94954, 107919, "Francis_I_of_France", 0]]], "label": "SUPPORTS", "claim": "the Romani people have music .", "id": 34}
+{"evidence": [[[273652, 269024, "Working_animal", 0]]], "label": "REFUTES", "claim": "The Love Club EP is short to qualify as an LP .", "id": 35}
+{"evidence": [[[101139, 114394, "Indian_Army", 16]]], "label": "SUPPORTS", "claim": "Golf is a club and ball sport .", "id": 36}
+{"evidence": [[[198611, 208405, "Selena_Gomez_&_the_Scene", 3]]], "label": "REFUTES", "claim": "Sausage Party was just directed by Donald Trump .", "id": 37}
+{"evidence": [[[246631, 247103, "Excuse_My_French_-LRB-album-RRB-", 0]]], "label": "REFUTES", "claim": "a Paper stars Jennifer Lawrence .", "id": 38}
+{"evidence": [[[166011, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Exit a King is by Eugene Ionesco .", "id": 39}
+{"evidence": [[[149221, 164220, "Kleshas_-LRB-Buddhism-RRB-", 0]]], "label": "REFUTES", "claim": "a staging area is only an unused piece of land .", "id": 40}
+{"evidence": [[[149069, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Dan Brown is a author .", "id": 41}
+{"evidence": [[[250997, 250966, "Brick_-LRB-film-RRB-", 0]], [[251002, 250970, "Brick_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "Dawood Ibrahim is from Iceland .", "id": 42}
+{"evidence": [[[45068, null, null, null], [47248, null, null, null], [49828, null, null, null], [302283, null, null, null], [304083, null, null, null], [304087, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Education is a drama commercial .", "id": 43}
+{"evidence": [[[199908, 209547, "Anne_Sullivan", 0]]], "label": "SUPPORTS", "claim": "The Washington Monument is a world's shortest obelisk .", "id": 44}
+{"evidence": [[[46015, 54972, "Advertising", 0]]], "label": "SUPPORTS", "claim": "Anthony Scaramucci is an entrepreneur .", "id": 45}
+{"evidence": [[[183996, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the soundtrack of Far from the Madding Crowd was only by George Clooney .", "id": 46}
+{"evidence": [[[227205, 231608, "Kim_Jong-il", 0]]], "label": "SUPPORTS", "claim": "No Strings Attached came out in 2007 .", "id": 47}
+{"evidence": [[[66772, 77608, "West_Virginia", 1]], [[66772, 77609, "West_Virginia", 12]]], "label": "SUPPORTS", "claim": "Gray Matters was just directed by Ron Howard .", "id": 48}
+{"evidence": [[[208610, 216606, "Wentworth_Miller", 2]], [[208613, 216608, "Wentworth_Miller", 2]]], "label": "REFUTES", "claim": "the Visigoths converted .", "id": 49}
+{"evidence": [[[227049, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Fritz Lang directed a film The Good German .", "id": 50}
+{"evidence": [[[201868, 211223, "Artpop", 13]]], "label": "REFUTES", "claim": "the Beverly Hillbillies ranked as the number one series .", "id": 51}
+{"evidence": [[[83764, 95762, "Blue_Jasmine", 0]], [[83764, 95763, "Blue_Jasmine", 1]], [[83764, 95764, "Blue_Jasmine", 2]], [[83764, 95765, "Blue_Jasmine", 6]], [[83764, 95766, "Blue_Jasmine", 8]], [[83764, 95767, "Blue_Jasmine", 7]]], "label": "SUPPORTS", "claim": "Riz Ahmed is an award nominated actor .", "id": 52}
+{"evidence": [[[49052, 58394, "New_York_Knicks", 1]]], "label": "SUPPORTS", "claim": "the Suite Life of Zack & Cody was created by John Wayne .", "id": 53}
+{"evidence": [[[71266, 82215, "The_Godfather_Part_II", 7]]], "label": "SUPPORTS", "claim": "Hammer Film Productions produced the Woman in Black in Canada .", "id": 54}
+{"evidence": [[[118441, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a ovary's purpose is the production of bile .", "id": 55}
+{"evidence": [[[159658, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Jed Whedon has ever lived on Mars .", "id": 56}
+{"evidence": [[[145542, 160553, "Saw_-LRB-franchise-RRB-", 14], [145542, 160553, "Saw_-LRB-2004_film-RRB-", 0], [145542, 160553, "Saw_II", 0]], [[145543, 160554, "Saw_-LRB-franchise-RRB-", 14], [145543, 160554, "Saw_-LRB-2004_film-RRB-", 0], [145543, 160554, "Saw_II", 0]]], "label": "SUPPORTS", "claim": "Warcraft is in production .", "id": 57}
+{"evidence": [[[75951, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Annabelle is at the Museum of Natural History .", "id": 58}
+{"evidence": [[[253971, 253756, "Gray_Matter_Interactive", 0]]], "label": "REFUTES", "claim": "Bonobos live south of a river .", "id": 59}
+{"evidence": [[[217665, 224158, "Asylum_Records", 0]]], "label": "SUPPORTS", "claim": "Prague's historic center has been on UNESCO of World Heritage Sites since 1992 .", "id": 60}
+{"evidence": [[[164860, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Dodo has been depicted with feet .", "id": 61}
+{"evidence": [[[154530, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Washington Monument is constructed from marble , granite , and bluestone gneiss .", "id": 62}
+{"evidence": [[[70200, 81078, "Noel_Fisher", 1]]], "label": "SUPPORTS", "claim": "Joseph Goebbels , with his Propaganda Ministry , controlled a news media , arts , and information in Germany .", "id": 63}
+{"evidence": [[[127807, 142486, "Rupert_Murdoch", 13]]], "label": "REFUTES", "claim": "Coughing in the morning is one symptom of pulmonary embolism .", "id": 64}
+{"evidence": [[[69043, 79841, "Touchscreen", 9]]], "label": "SUPPORTS", "claim": "the Indian National Congress was founded only before December 1884 .", "id": 65}
+{"evidence": [[[122849, 137145, "Global_warming", 15]]], "label": "REFUTES", "claim": "The Washington Monument is a world's tallest statue .", "id": 66}
+{"evidence": [[[199904, 209541, "Anne_Sullivan", 0]]], "label": "SUPPORTS", "claim": "There was just a passing thought to incorporate Cyprus into Greece .", "id": 67}
+{"evidence": [[[70362, 81236, "Francis_I_of_France", 0]]], "label": "SUPPORTS", "claim": "the Pakistan Movement was the result of a series of enemy raids in Pakistan .", "id": 68}
+{"evidence": [[[183996, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The soundtrack of Far from the Madding Crowd was just by George Clooney .", "id": 69}
+{"evidence": [[[28467, 34800, "A_View_to_a_Kill", 6]]], "label": "SUPPORTS", "claim": "the Giver is only a comedy .", "id": 70}
+{"evidence": [[[111471, 125126, "XHamster", 6], [111471, 125126, "The_Sex_Factor", 0]]], "label": "SUPPORTS", "claim": "a site of the battle of the Trebia was south from the confluence of the Po and Trebbia rivers .", "id": 71}
+{"evidence": [[[191686, 202504, "Anne_Rice", 5]]], "label": "REFUTES", "claim": "a spectator has a velvet seat in an all - seater stadium .", "id": 72}
+{"evidence": [[[62832, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a ovary is found in Venezuela .", "id": 73}
+{"evidence": [[[58562, 68862, "House_-LRB-TV_series-RRB-", 10]]], "label": "SUPPORTS", "claim": "Brian De Palma is British .", "id": 74}
+{"evidence": [[[152645, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Love Club EP is a debut extended play by Jayden Smith .", "id": 75}
+{"evidence": [[[157487, 172056, "Villa_Park", 14]]], "label": "REFUTES", "claim": "the Maze Runner had a budget of $ 39 million .", "id": 76}
+{"evidence": [[[141744, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Challenge XXX : Dirty 30 is a season of a show .", "id": 77}
+{"evidence": [[[110664, 124322, "Microbiologist", 14]]], "label": "REFUTES", "claim": "Sacre - Coeur , Paris is dedicated to the Sacred Heart of Jesus .", "id": 78}
+{"evidence": [[[134100, 148984, "The_Road_to_El_Dorado", 2]]], "label": "REFUTES", "claim": "a soundtrack of Far from the Madding Crowd was by at least one person .", "id": 79}
+{"evidence": [[[17966, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Mars is from Olympus Mons .", "id": 80}
+{"evidence": [[[22193, 27313, "Stephen_Hillenburg", 4]]], "label": "SUPPORTS", "claim": "Freddie Highmore is a actor on the television series Bates Motel .", "id": 81}
+{"evidence": [[[70774, 81648, "Paris_-LRB-Paris_Hilton_album-RRB-", 9]]], "label": "SUPPORTS", "claim": "the Love Club EP is n't long enough to qualify as an album .", "id": 82}
+{"evidence": [[[295412, 287526, "Tiber_Oil_Field", 0]], [[340823, 325359, "Tiber_Oil_Field", 0]], [[340835, 325368, "Tiber_Oil_Field", 0]]], "label": "REFUTES", "claim": "a thunderstorm is a type of carnival .", "id": 83}
+{"evidence": [[[91403, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Melilla has a area of 11.3 km2 .", "id": 84}
+{"evidence": [[[235578, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the X - Files starred an actor .", "id": 85}
+{"evidence": [[[134391, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Premier League Asia Trophy is held biennially in a grave .", "id": 86}
+{"evidence": [[[240801, 242413, "Glee.com", 1]]], "label": "SUPPORTS", "claim": "The soundtrack of Far from the Madding Crowd was by a French composer .", "id": 87}
+{"evidence": [[[148891, 163935, "Hush_-LRB-2016_film-RRB-", 2]]], "label": "SUPPORTS", "claim": "Mom ( TV series ) has been nominated for Best Comedy Series at a Critics' Choice Television Awards .", "id": 88}
+{"evidence": [[[101660, 114915, "Matthew_Gray_Gubler", 0]]], "label": "REFUTES", "claim": "London is a birthplace of William Blackstone .", "id": 89}
+{"evidence": [[[92667, 105474, "YouTube", 15]]], "label": "REFUTES", "claim": "a 66th Primetime Emmy Awards was hosted by the host of Late Night .", "id": 90}
+{"evidence": [[[81514, 93268, "Sheryl_Lee", 7]]], "label": "SUPPORTS", "claim": "Ron Dennis is an owner .", "id": 91}
+{"evidence": [[[14196, 17744, "Ashton_Kutcher", 4]], [[14197, 17745, "Ashton_Kutcher", 2]], [[14197, 17746, "Ashton_Kutcher", 4]], [[14197, 17747, "Ashton_Kutcher", 8]]], "label": "SUPPORTS", "claim": "the Siege of Fort Stanwix took place in 1900 .", "id": 92}
+{"evidence": [[[95635, 108675, "Underdog_-LRB-film-RRB-", 1], [95635, 108675, "Underdog_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "Pierce County , Washington is a location of the highest mountain of the Cascade Range of the Pacific Northwest .", "id": 93}
+{"evidence": [[[131589, null, null, null], [133621, null, null, null], [135041, null, null, null], [309274, null, null, null], [309276, null, null, null], [309277, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Chadwick Boseman was in a movie 24 .", "id": 94}
+{"evidence": [[[120118, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Raja Hindustani is a 1996 drama romance film led by Michael Fassbender .", "id": 95}
+{"evidence": [[[231955, 235258, "Luke_Cage", 2]]], "label": "SUPPORTS", "claim": "a thunderstorm is n't a storm .", "id": 96}
+{"evidence": [[[288085, 281348, "Jack_Falahee", 0], [288085, 281348, "Jack_Falahee", 1]], [[333194, 319432, "Jack_Falahee", 1]], [[333197, 319433, "Jack_Falahee", 0], [333197, 319433, "Jack_Falahee", 1]]], "label": "REFUTES", "claim": "Nobody took Hebe after her .", "id": 97}
+{"evidence": [[[107348, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Beverly Hillbillies ranked among the top 20 clothing stores in America .", "id": 98}
+{"evidence": [[[108760, 122448, "Microbiologist", 14]]], "label": "REFUTES", "claim": "a cinematography of Far from the Madding Crowd was only by a Portuguese cinematographer .", "id": 99}
+{"evidence": [[[107187, 120567, "Justin_Chatwin", 7]]], "label": "REFUTES", "claim": "Trouble with a Curve is only a podcast .", "id": 100}
+{"evidence": [[[135380, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "1984 was a year The Hit was released .", "id": 101}
+{"evidence": [[[38362, 46312, "Aristotle", 2]]], "label": "SUPPORTS", "claim": "The Little Prince ( 2015 film ) is a English - language show .", "id": 102}
+{"evidence": [[[19563, 24029, "Soyuz_-LRB-spacecraft-RRB-", 0]], [[19563, 24030, "Soyuz_-LRB-spacecraft-RRB-", 1]]], "label": "SUPPORTS", "claim": "Jon Bernthal stars in the Punisher .", "id": 103}
+{"evidence": [[[62067, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Pakistan - industrialized economy is the 25th largest in the world in purchasing power parity .", "id": 104}
+{"evidence": [[[28463, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Woodrow Wilson formed a belief system Wilsonianism .", "id": 105}
+{"evidence": [[[186081, 197998, "Baz_Luhrmann", 2], [186081, 197998, "Nicole_Kidman", 0]]], "label": "SUPPORTS", "claim": "Color of Night won a award for an Olympic Event .", "id": 106}
+{"evidence": [[[210329, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Stanford prison experiment was an investigation into the causes of difficulties between guards and civilians .", "id": 107}
+{"evidence": [[[96727, 109880, "Amyotrophic_lateral_sclerosis", 15]]], "label": "SUPPORTS", "claim": "the Paper was directed by Ron Howard in 2001 .", "id": 108}
+{"evidence": [[[280833, 275228, "EA_Black_Box", 0]], [[281060, 275446, "EA_Black_Box", 0]], [[281060, 275447, "EA_Black_Box", 2]], [[328730, 315718, "EA_Black_Box", 0]]], "label": "REFUTES", "claim": "Children just get apples from Trick - or - Treating .", "id": 109}
+{"evidence": [[[26858, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a person afflicted with Parkinson's disease is Michael J. Fox .", "id": 110}
+{"evidence": [[[138591, 153674, "Scotty_Moore", 0]]], "label": "SUPPORTS", "claim": "Zac Efron just acts .", "id": 111}
+{"evidence": [[[110000, 123624, "Guillermo_del_Toro", 0]]], "label": "REFUTES", "claim": "Pink was September 8 , 1979 .", "id": 112}
+{"evidence": [[[99530, 112636, "In_the_End", 6]], [[101703, 114961, "In_the_End", 6]], [[102757, 116064, "In_the_End", 6]], [[306937, 297510, "In_the_End", 6]], [[307817, 298256, "In_the_End", 6]]], "label": "SUPPORTS", "claim": "The IPhone 4 has a simple mobile operating system .", "id": 113}
+{"evidence": [[[237500, 239705, "North_Vietnam", 0]]], "label": "REFUTES", "claim": "the Visigoths adapted .", "id": 114}
+{"evidence": [[[238520, 240520, "Tinker_Tailor_Soldier_Spy_-LRB-film-RRB-", 2]]], "label": "REFUTES", "claim": "Baadshah are the same name .", "id": 115}
+{"evidence": [[[101995, null, null, null], [103093, null, null, null], [307152, null, null, null], [307838, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "David Lloyd George has yet to be a subject of any vote .", "id": 116}
+{"evidence": [[[88207, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the UFC signed Nate Diaz .", "id": 117}
+{"evidence": [[[103734, 117201, "Michael_B._Jordan", 0]]], "label": "SUPPORTS", "claim": "Pakistan is the 25th largest in the world in purchasing power parity .", "id": 118}
+{"evidence": [[[42079, 50605, "The_dress", 7]]], "label": "SUPPORTS", "claim": "Baadshah was dubbed into two other languages .", "id": 119}
+{"evidence": [[[112832, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Baja 1000 had Mickey Thompson as a news correspondent .", "id": 120}
+{"evidence": [[[211389, 219109, "Don_Hall_-LRB-filmmaker-RRB-", 0]]], "label": "REFUTES", "claim": "the great white shark prefers to prey on humans .", "id": 121}
+{"evidence": [[[173838, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "James , Viscount Severn has a relation to Prince Edward .", "id": 122}
+{"evidence": [[[74236, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Henry III assumed a throne when he was 9 years old in 1246 .", "id": 123}
+{"evidence": [[[12587, null, null, null], [12590, null, null, null], [12598, null, null, null], [12601, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a player - coach is unable to become a head coach .", "id": 124}
+{"evidence": [[[71651, 82636, "Colombiana", 0]]], "label": "SUPPORTS", "claim": "South Island is sometimes referred to as the novelist .", "id": 125}
+{"evidence": [[[103734, 117201, "Michael_B._Jordan", 0]]], "label": "SUPPORTS", "claim": "Pakistan's economy is the 25th largest in a world in purchasing power parity .", "id": 126}
+{"evidence": [[[102294, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Paper was just directed by Steven Spielberg .", "id": 127}
+{"evidence": [[[151721, 166466, "Peking_University", 1]]], "label": "REFUTES", "claim": "the second most populous municipality of Spain is Barcelona .", "id": 128}
+{"evidence": [[[142840, 157977, "Billboard_Dad", 0]]], "label": "SUPPORTS", "claim": "the Challenge : Rivals III is the 18th season of a reality game show .", "id": 129}
+{"evidence": [[[43716, 52359, "Caroline_Kennedy", 0]]], "label": "SUPPORTS", "claim": "The Invisible Man was a science horror television series .", "id": 130}
+{"evidence": [[[191696, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Alex Jones hosts a radio program Bullseye .", "id": 131}
+{"evidence": [[[85073, 97347, "Randy_Savage", 0]]], "label": "REFUTES", "claim": "Emperor Norton is known .", "id": 132}
+{"evidence": [[[201128, 210578, "The_Endless_River", 0]]], "label": "REFUTES", "claim": "the Giver is only a book .", "id": 133}
+{"evidence": [[[271153, 267093, "Giada_at_Home", 1], [271153, 267093, "Food_Network", 0]]], "label": "SUPPORTS", "claim": "Jack Lowden had an award - winning five - year career .", "id": 134}
+{"evidence": [[[82480, 94264, "Tremont_Street_Subway", 0]]], "label": "REFUTES", "claim": "Oscar Isaac did not appear in Star Wars : the Force Awakens .", "id": 135}
+{"evidence": [[[64752, 75583, "San_Diego_Comic-Con", 1]]], "label": "SUPPORTS", "claim": "There are 30 knockouts part of the career record of Floyd Mayweather Jr.", "id": 136}
+{"evidence": [[[189763, 200982, "Polar_bear", 7]]], "label": "REFUTES", "claim": "Celebrity Rehab with Dr. Drew was ever called by that name .", "id": 137}
+{"evidence": [[[209770, 217563, "Victoria_-LRB-Dance_Exponents_song-RRB-", 0]], [[209770, 217564, "Victoria_-LRB-Dance_Exponents_song-RRB-", 1]]], "label": "SUPPORTS", "claim": "the New England Patriots got to seven Super Bowls .", "id": 138}
+{"evidence": [[[28100, 34396, "Penguin_Books", 2]]], "label": "REFUTES", "claim": "Hammer Film Productions produced a horror movie The Quiet Ones .", "id": 139}
+{"evidence": [[[201858, 211216, "Artpop", 13]]], "label": "REFUTES", "claim": "Florida State University was designated as a \" preeminent \" state university in a 2010s .", "id": 140}
+{"evidence": [[[125421, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Brat Pack appeared together in teen - oriented coming - of - age films in the 1990s .", "id": 141}
+{"evidence": [[[42418, 51048, "Moonlight_-LRB-2016_film-RRB-", 6]]], "label": "REFUTES", "claim": "Adam Lambert is gay .", "id": 142}
+{"evidence": [[[90263, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Charlotte , North Carolina is the fifth - biggest banking center in a country .", "id": 143}
+{"evidence": [[[106721, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Kajol is a woman .", "id": 144}
+{"evidence": [[[161844, 176268, "Murda_Beatz", 0]]], "label": "REFUTES", "claim": "Ang Lee works in a film industry .", "id": 145}
+{"evidence": [[[262160, 260209, "Bullitt", 0]]], "label": "SUPPORTS", "claim": "the Nobel Prize in Chemistry was awarded to a person from anywhere except the Netherlands .", "id": 146}
+{"evidence": [[[263242, 260971, "A&E_-LRB-TV_channel-RRB-", 0]]], "label": "REFUTES", "claim": "the Danish language is spoken in Quebec .", "id": 147}
+{"evidence": [[[214337, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Corsica is at a base of Cap Corse .", "id": 148}
+{"evidence": [[[76912, 88305, "Aristotle", 4]]], "label": "SUPPORTS", "claim": "the phrase to say while Trick - or - Treating is \" Trick or treat \" .", "id": 149}
+{"evidence": [[[57292, 67536, "Sora_-LRB-Kingdom_Hearts-RRB-", 0]]], "label": "SUPPORTS", "claim": "John S. McCain Jr. was expelled from a submarine service .", "id": 150}
+{"evidence": [[[88372, 100989, "Carlos_Santana", 3]]], "label": "REFUTES", "claim": "the last windstorm in Stanley Park was in 2016 .", "id": 151}
+{"evidence": [[[38031, 45949, "Duff_McKagan", 0]]], "label": "REFUTES", "claim": "the Hunger Games is a piece of glass blown art .", "id": 152}
+{"evidence": [[[110717, 124394, "Harvard_University", 0]]], "label": "SUPPORTS", "claim": "Ann Biderman is a writer of American Graffiti .", "id": 153}
+{"evidence": [[[154353, 169103, "Colin_Kaepernick", 5]], [[154353, 169104, "Colin_Kaepernick", 7]]], "label": "REFUTES", "claim": "the Invisible Man was a movie of the science fiction and horror genres .", "id": 154}
+{"evidence": [[[283437, 277461, "14th_Dalai_Lama", 0], [283437, 277461, "Dalai_Lama", 0]], [[285899, 279506, "14th_Dalai_Lama", 0], [285899, 279506, "Dalai_Lama", 0]]], "label": "SUPPORTS", "claim": "It is customary to just wear uniforms while Trick - or - Treating .", "id": 155}
+{"evidence": [[[170685, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Baloch people are part of a writers' union .", "id": 156}
+{"evidence": [[[79330, 91008, "Chrysler_Building", 1]]], "label": "SUPPORTS", "claim": "Charles de Gaulle was a admiral .", "id": 157}
+{"evidence": [[[141124, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Lyon is just a village .", "id": 158}
+{"evidence": [[[226465, 231030, "Eighth_Doctor", 0], [226465, 231030, "The_Doctor_-LRB-Doctor_Who-RRB-", 0]]], "label": "SUPPORTS", "claim": "The Battle of the Trebia took place south of the Trebbia with the Po river .", "id": 159}
+{"evidence": [[[156385, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Mikhail Prokhorov is the former President of Onexim Group .", "id": 160}
+{"evidence": [[[216055, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Battle of the Trebia occurred on the left bank of the Trebbia River .", "id": 161}
+{"evidence": [[[144602, 159615, "The_Road_to_El_Dorado", 0]], [[144611, 159621, "The_Road_to_El_Dorado", 0]], [[144612, 159622, "The_Road_to_El_Dorado", 0]]], "label": "REFUTES", "claim": "The Paper just stars Adam Sandler .", "id": 162}
+{"evidence": [[[130294, 145046, "Otto_I,_Holy_Roman_Emperor", 11]]], "label": "SUPPORTS", "claim": "the Burj Khalifa contains zero elevators .", "id": 163}
+{"evidence": [[[118179, 132023, "West_Ham_United_F.C.", 5]]], "label": "REFUTES", "claim": "a Catcher in the Rye deals with issues of war and peace .", "id": 164}
+{"evidence": [[[43047, 51690, "South_African_Communist_Party", 2]]], "label": "REFUTES", "claim": "the Incredibles 2 is a dog .", "id": 165}
+{"evidence": [[[200754, 210228, "Earl_Scruggs", 0]]], "label": "REFUTES", "claim": "Azithromycin is just available under the brand name Zmax .", "id": 166}
+{"evidence": [[[199078, 208758, "Matteo_Renzi", 0]]], "label": "REFUTES", "claim": "The IPhone 4 is just a computer .", "id": 167}
+{"evidence": [[[186530, 198324, "Tatum_O'Neal", 6]], [[188241, 199711, "Tatum_O'Neal", 6]], [[188241, 199712, "Tatum_O'Neal", 3]], [[190510, 201519, "Tatum_O'Neal", 6]], [[314592, 303947, "Tatum_O'Neal", 3]], [[314592, 303948, "Tatum_O'Neal", 6]], [[314597, 303950, "Tatum_O'Neal", 6]], [[314597, 303951, "Tatum_O'Neal", 3]], [[314598, 303952, "Tatum_O'Neal", 6]], [[314598, 303953, "Tatum_O'Neal", 3]], [[314600, 303954, "Tatum_O'Neal", 6]], [[314601, 303955, "Tatum_O'Neal", 3]], [[314601, 303956, "Tatum_O'Neal", 6]]], "label": "REFUTES", "claim": "The United States dollar is used in a vending machine .", "id": 168}
+{"evidence": [[[208634, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Maze Runner earned over $ 348 million worldwide at the box office .", "id": 169}
+{"evidence": [[[55341, 65396, "Billboard_Dad", 0]]], "label": "SUPPORTS", "claim": "Norman Bates is from a novel Harry Potter .", "id": 170}
+{"evidence": [[[185095, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Brat Pack is just a nickname given to a group of old actors .", "id": 171}
+{"evidence": [[[238978, 240935, "Despicable_Me_2", 1]]], "label": "SUPPORTS", "claim": "the Chaperone ( film ) is an American television show only .", "id": 172}
+{"evidence": [[[21441, 26335, "State_of_Palestine", 1]]], "label": "SUPPORTS", "claim": "The 2003 NCAA Division I Men's Basketball Tournament was a knockout .", "id": 173}
+{"evidence": [[[79669, 91415, "Sean_Penn", 5]]], "label": "REFUTES", "claim": "Dissociative identity disorder , or DID , may be a result of memory disruptions that have been induced by psychological trauma .", "id": 174}
+{"evidence": [[[45780, 54654, "Shadowhunters", 4]]], "label": "SUPPORTS", "claim": "Augutus Prew's mother was a fashion model .", "id": 175}
+{"evidence": [[[170685, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Baloch people are part of a writers .", "id": 176}
+{"evidence": [[[181184, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a staging area is only an unused piece of land .", "id": 177}
+{"evidence": [[[257314, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Lee Daniels has directed terrible films that go unrecognized .", "id": 178}
+{"evidence": [[[221282, 226926, "Yandex", 9]]], "label": "REFUTES", "claim": "the Monster is an EP by Eminem .", "id": 179}
+{"evidence": [[[262154, 260204, "Bullitt", 0]]], "label": "SUPPORTS", "claim": "Trouble with a Curve was directed by a person .", "id": 180}
+{"evidence": [[[84608, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "A dynamic web page is stored on a web server .", "id": 181}
+{"evidence": [[[192755, 203469, "Cadet_Kelly", 0]]], "label": "REFUTES", "claim": "Anthony Scaramucci is a action figure .", "id": 182}
+{"evidence": [[[181870, 194153, "Touchscreen", 9]], [[181870, 194154, "Touchscreen", 11]], [[181870, 194155, "Touchscreen", 10]]], "label": "REFUTES", "claim": "Dissociative identity disorder , or DID , is a result of appetite fluctuations that are caused by severe stress .", "id": 183}
+{"evidence": [[[145297, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Walking Dead ( comic book ) inspired a series of webisode .", "id": 184}
+{"evidence": [[[28019, 34311, "Australia_-LRB-2008_film-RRB-", 4], [28019, 34311, "Bowen,_Queensland", 0]]], "label": "SUPPORTS", "claim": "Camp Flog Gnaw is rejected by Tyler , the Creator and Odd Future .", "id": 185}
+{"evidence": [[[31906, 38712, "Stan_Beeman", 0]]], "label": "REFUTES", "claim": "the 2003 NCAA Division I Men's Basketball Tournament was played in Russia .", "id": 186}
+{"evidence": [[[221674, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Challenge XXX : Dirty 30 is a contestant in a reality show .", "id": 187}
+{"evidence": [[[106105, 119496, "Birthday_Song_-LRB-2_Chainz_song-RRB-", 1]]], "label": "SUPPORTS", "claim": "A near - Earth object is a planet and it is in the universe .", "id": 188}
+{"evidence": [[[162908, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a ability of individuals to connect to the internet is called Internet Access .", "id": 189}
+{"evidence": [[[39579, 47666, "James_VI_and_I", 0]]], "label": "SUPPORTS", "claim": "the Blue Dog coalition was formed by a group of black clad anarchists .", "id": 190}
+{"evidence": [[[134898, 149793, "Underdog_-LRB-film-RRB-", 1], [134898, 149793, "Adam_Rifkin", 0], [134898, 149793, "Brad_Garrett", 0], [134898, 149793, "Jason_Lee_-LRB-actor-RRB-", 0], [134898, 149793, "Jim_Belushi", 0], [134898, 149793, "John_Slattery", 0], [134898, 149793, "Patrick_Warburton", 0], [134898, 149793, "Peter_Dinklage", 0]]], "label": "SUPPORTS", "claim": "the 1998 Canadian documentary The Man in the Iron Mask was written by Randall Wallace .", "id": 191}
+{"evidence": [[[162343, 176657, "Henry_II_of_France", 15]]], "label": "REFUTES", "claim": "the United States dollar is the sole currency in paying employees .", "id": 192}
+{"evidence": [[[126327, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Hit is a painting .", "id": 193}
+{"evidence": [[[21441, 26335, "State_of_Palestine", 1]]], "label": "SUPPORTS", "claim": "the 2003 NCAA Division I Men's Basketball Tournament was a knockout .", "id": 194}
+{"evidence": [[[95251, 108253, "Lost_-LRB-TV_series-RRB-", 0]]], "label": "REFUTES", "claim": "Backing vocalists sing with other singing vocalists .", "id": 195}
+{"evidence": [[[179876, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Mars is from Valles Marineris .", "id": 196}
+{"evidence": [[[100515, 113813, "Wish_Upon", 2]]], "label": "REFUTES", "claim": "Sweet Home Alabama was written in reply to Neil Young Southern Man .", "id": 197}
+{"evidence": [[[213743, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The New England Patriots owns a record for least Super Bowls reached .", "id": 198}
+{"evidence": [[[198602, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "DodgeBall : A True Underdog Story was written and led by Rawson Marshall .", "id": 199}
+{"evidence": [[[27990, 34286, "English_people", 6]]], "label": "SUPPORTS", "claim": "Estelle Getty appeared just in television .", "id": 200}
+{"evidence": [[[28993, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Incredibles 2 will be given an IMAX HD release .", "id": 201}
+{"evidence": [[[239250, 241170, "Avenged_Sevenfold_-LRB-album-RRB-", 0]]], "label": "REFUTES", "claim": "Northwestern University is the private university of the Big Ten Conference .", "id": 202}
+{"evidence": [[[272425, 268126, "Island_Records", 1]]], "label": "REFUTES", "claim": "The Battle of the Trebia took place south of the Trebbia with the Po river in the province of Piacenza .", "id": 203}
+{"evidence": [[[192739, 203458, "Cadet_Kelly", 0]]], "label": "REFUTES", "claim": "Carol Danvers appears just in comic books published by DC .", "id": 204}
+{"evidence": [[[211215, 218886, "So_You_Think_You_Can_Dance_-LRB-U.S._TV_series-RRB-", 2]]], "label": "SUPPORTS", "claim": "NXT Tag Team Championship is a pacifist protest against a forms of violent entertainment .", "id": 205}
+{"evidence": [[[229600, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a 66th Primetime Emmy Awards was hosted by the host of a show .", "id": 206}
+{"evidence": [[[290285, 283322, "Pene\u0301lope_Cruz", 12]], [[291628, 284537, "Pene\u0301lope_Cruz", 12]], [[293742, 286173, "Pene\u0301lope_Cruz", 12]], [[338093, 323364, "Pene\u0301lope_Cruz", 12]], [[338094, 323365, "Pene\u0301lope_Cruz", 12]], [[338095, 323366, "Pene\u0301lope_Cruz", 12]]], "label": "SUPPORTS", "claim": "a creator of NXT Tag Team Championship is the Disney Channel .", "id": 207}
+{"evidence": [[[260890, 259226, "Capsicum_chinense", 0]]], "label": "REFUTES", "claim": "a county council of Cambridgeshire is Cambridgeshire County Council .", "id": 208}
+{"evidence": [[[137548, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the American Civil War took place in Canada .", "id": 209}
+{"evidence": [[[190455, 201476, "Tom_Baker_-LRB-English_actor-RRB-", 15]]], "label": "SUPPORTS", "claim": "South Island only has New Zealand .", "id": 210}
+{"evidence": [[[133609, 148463, "Billie_Joe_Armstrong", 0]]], "label": "SUPPORTS", "claim": "Yvonne Strahovski has just worked on movies .", "id": 211}
+{"evidence": [[[89909, 102611, "Sheryl_Lee", 7], [89909, 102611, "Laura_Palmer", 0], [89909, 102611, "Laura_Palmer", 1]]], "label": "SUPPORTS", "claim": "B. R. Ambedkar is referred to by that name .", "id": 212}
+{"evidence": [[[226444, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the American Civil War took place in North America .", "id": 213}
+{"evidence": [[[241275, 242815, "Cretaceous", 0]], [[241275, 242816, "Cretaceous", 1]], [[241275, 242817, "Cretaceous", 5]]], "label": "REFUTES", "claim": "The Punisher is a anime .", "id": 214}
+{"evidence": [[[174601, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Siege of Fort Stanwix ended in in December .", "id": 215}
+{"evidence": [[[237504, 239708, "North_Vietnam", 0]]], "label": "REFUTES", "claim": "Greg Tiernan and Conrad Vernon led Sausage Party .", "id": 216}
+{"evidence": [[[19926, 24478, "Victoria_Palace_Theatre", 0]]], "label": "SUPPORTS", "claim": "Louie ( season 1 ) is written and led by two different people .", "id": 217}
+{"evidence": [[[273652, 269024, "Working_animal", 0]]], "label": "REFUTES", "claim": "the Love Club EP is too short to qualify as an LP .", "id": 218}
+{"evidence": [[[135705, 150553, "Mount_Rushmore", 2]], [[135705, 150554, "Mount_Rushmore", 15]]], "label": "REFUTES", "claim": "a Visigoths gradually adopted the culture of their Hispano - Roman subjects under Reccared I in 589 .", "id": 219}
+{"evidence": [[[30328, 36922, "Black_Canary", 13]]], "label": "SUPPORTS", "claim": "Mike Friedrich is German .", "id": 220}
+{"evidence": [[[132565, 147473, "Duane_Chapman", 0]]], "label": "REFUTES", "claim": "the Hunger Games are series of three films .", "id": 221}
+{"evidence": [[[210329, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Stanford prison experiment was a investigation into the causes of difficulties between guards and civilians .", "id": 222}
+{"evidence": [[[84203, 96325, "No_Country_for_Old_Men_-LRB-film-RRB-", 11]]], "label": "SUPPORTS", "claim": "The ABC Islands are known as the Lesser Antilles in Asia .", "id": 223}
+{"evidence": [[[183437, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Wonder Years was only a documentary .", "id": 224}
+{"evidence": [[[92386, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Trouble with a Curve is a television show .", "id": 225}
+{"evidence": [[[263261, 260980, "A&E_-LRB-TV_channel-RRB-", 0]]], "label": "SUPPORTS", "claim": "Great white sharks are responsible for the largest number of reported and identified fatal unprovoked shark attacks on humans since a 1960s .", "id": 226}
+{"evidence": [[[171669, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Burbank , California is all of the U-2 spy planes were produced .", "id": 227}
+{"evidence": [[[124367, 138723, "Vedam_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "the New England Patriots owns the record for Super Bowls .", "id": 228}
+{"evidence": [[[216150, 222860, "CHiPs_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "Balibo ( film ) involves a accountant name Roger East .", "id": 229}
+{"evidence": [[[114541, 128301, "Stephen_Colbert", 0]]], "label": "SUPPORTS", "claim": "Rebel in the Rye just aired in 2005 .", "id": 230}
+{"evidence": [[[166987, 180806, "Prescott,_Arizona", 0]], [[166987, 180807, "Prescott,_Arizona", 2], [166987, 180807, "Yavapai_County,_Arizona", 0]], [[166987, 180808, "Prescott,_Arizona", 3], [166987, 180808, "Fort_Whipple,_Arizona", 0]], [[166987, 180809, "Prescott,_Arizona", 4], [166987, 180809, "Tucson,_Arizona", 0]], [[166987, 180810, "Prescott,_Arizona", 5], [166987, 180810, "Phoenix,_Arizona", 0]], [[166987, 180811, "Prescott,_Arizona", 8], [166987, 180811, "Prescott_Valley,_Arizona", 0]], [[166987, 180812, "Prescott,_Arizona", 9], [166987, 180812, "Yavapai_County,_Arizona", 0]], [[166987, 180813, "Prescott,_Arizona", 11], [166987, 180813, "Yavapai_County,_Arizona", 0]], [[166987, 180814, "Prescott,_Arizona", 14], [166987, 180814, "Yavapai_County,_Arizona", 0]]], "label": "SUPPORTS", "claim": "the Washington Monument is the world's tallest obelisk .", "id": 231}
+{"evidence": [[[137861, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Pythagoras was considered to be a founder of the Pythagoreanism movement .", "id": 232}
+{"evidence": [[[160997, 175452, "Riddick_-LRB-character-RRB-", 0]], [[161006, 175467, "Riddick_-LRB-character-RRB-", 0]]], "label": "SUPPORTS", "claim": "Meghan Markle is a animal rights activist .", "id": 233}
+{"evidence": [[[237563, 239762, "Live_Through_This", 0]], [[237563, 239763, "Live_Through_This", 2]], [[237563, 239764, "Live_Through_This", 3]], [[237563, 239765, "Live_Through_This", 4]], [[237563, 239766, "Live_Through_This", 5]], [[237563, 239767, "Live_Through_This", 8]], [[237563, 239768, "Live_Through_This", 9]], [[237563, 239769, "Live_Through_This", 10]], [[237563, 239770, "Live_Through_This", 11]]], "label": "REFUTES", "claim": "Donald Duck typically wears just a bracelet .", "id": 234}
+{"evidence": [[[213736, 220893, "Finding_Dory", 1]]], "label": "SUPPORTS", "claim": "the basis for The Beguiled is a novel with a setting in the American South .", "id": 235}
+{"evidence": [[[178015, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "In 2015 , among Americans , 11% of adults had consumed alcoholic drink at a point .", "id": 236}
+{"evidence": [[[218152, 224517, "Bermuda_Triangle", 0]]], "label": "SUPPORTS", "claim": "Carey Hayes is an American film producer responsible for a motion picture \" The Boss Baby \" .", "id": 237}
+{"evidence": [[[241415, 242943, "Brad_Wilk", 4]]], "label": "SUPPORTS", "claim": "The Battle of the Trebia took place south of the Trebbia with the Seine river .", "id": 238}
+{"evidence": [[[75694, 86946, "The_Road_to_El_Dorado", 2]]], "label": "REFUTES", "claim": "The Challenge XXX : Dirty 30 is a season of a reality game show .", "id": 239}
+{"evidence": [[[126970, 141442, "Lost_-LRB-TV_series-RRB-", 0]], [[126970, 141443, "Lost_-LRB-TV_series-RRB-", 15]]], "label": "REFUTES", "claim": "the Mormon population has grown significantly in recent tips .", "id": 240}
+{"evidence": [[[17963, 22118, "YouTube", 15]]], "label": "SUPPORTS", "claim": "the Thin Red Line ( 1998 film ) has an all - British cast .", "id": 241}
+{"evidence": [[[197412, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the entire cast of Ghost is comprised of actual ghosts .", "id": 242}
+{"evidence": [[[98021, 111156, "Touchscreen", 9], [98021, 111156, "Video_game_console", 0]]], "label": "SUPPORTS", "claim": "the Selma to Montgomery marches were organized by writers .", "id": 243}
+{"evidence": [[[257098, 256147, "Homer_Hickam", 2]]], "label": "SUPPORTS", "claim": "Maria Theresa was a mother of Emperor Charles VI .", "id": 244}
+{"evidence": [[[26829, 32942, "The_dress", 7]], [[26832, 32944, "The_dress", 7]]], "label": "SUPPORTS", "claim": "The University of Leicester discovered remains in 1999 .", "id": 245}
+{"evidence": [[[259719, 258274, "Hanford_Site", 23]]], "label": "SUPPORTS", "claim": "Innovation is also viewed as the application of a way to go around new requirements .", "id": 246}
+{"evidence": [[[90712, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Woman in Black was produced by Hammer Film Productions in 2012 .", "id": 247}
+{"evidence": [[[227656, 232000, "Happiness_in_Slavery", 0]]], "label": "SUPPORTS", "claim": "the Icelandic Coast Guard is responsible for Iceland's aeronautical search and destroy .", "id": 248}
+{"evidence": [[[73454, null, null, null], [78546, null, null, null], [305825, null, null, null], [305826, null, null, null], [305828, null, null, null], [305830, null, null, null], [305831, null, null, null], [305835, null, null, null], [305843, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Aphrodite is a daughter of a Titaness in Homer's Iliad .", "id": 249}
+{"evidence": [[[161860, 176284, "Janet_Leigh", 0]]], "label": "SUPPORTS", "claim": "Meghan Markle occurs in August .", "id": 250}
+{"evidence": [[[227784, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Gaius Julius Caesar was the mother of Gaius Julius Caesar .", "id": 251}
+{"evidence": [[[38671, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The University of Leicester contributed to a identification of the money of King Richard III .", "id": 252}
+{"evidence": [[[74495, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Times was printed in compact format for 219 years .", "id": 253}
+{"evidence": [[[36106, 43634, "Meteora_-LRB-album-RRB-", 0]]], "label": "SUPPORTS", "claim": "Therasia is a island in the island group of Santorini in the Greek Cyclades .", "id": 254}
+{"evidence": [[[25490, 31421, "Sheryl_Lee", 7]], [[300042, 291343, "Sheryl_Lee", 7]]], "label": "SUPPORTS", "claim": "the 66th Primetime Emmy Awards occurred in 1970 .", "id": 255}
+{"evidence": [[[110630, 124282, "James_Jones_-LRB-basketball_player-RRB-", 17]]], "label": "REFUTES", "claim": "Ron Howard led The Paper .", "id": 256}
+{"evidence": [[[199064, 208748, "Matteo_Renzi", 0]]], "label": "SUPPORTS", "claim": "In states still using the electric chair to execute people , a prisoner is allowed the choice of an alternative method .", "id": 257}
+{"evidence": [[[105085, 118496, "Uranium-235", 6]]], "label": "REFUTES", "claim": "the Quiet is a horror film .", "id": 258}
+{"evidence": [[[234955, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Mercedes - Benz is not a automobile manufacturer .", "id": 259}
+{"evidence": [[[214284, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the 1998 spaghetti western The Man in the Iron Mask was produced by Randall Wallace .", "id": 260}
+{"evidence": [[[76182, 87480, "Basildon", 13]]], "label": "SUPPORTS", "claim": "Tye Sheridan was a actor in Mud .", "id": 261}
+{"evidence": [[[46522, 55494, "Basildon", 0]], [[46522, 55495, "Basildon", 3], [46522, 55495, "Chelmsford", 0]], [[46522, 55496, "Basildon", 4], [46522, 55496, "Billericay", 0]], [[46522, 55497, "Basildon", 5], [46522, 55497, "London_overspill", 0]], [[46522, 55498, "Basildon", 6], [46522, 55498, "Borough_of_Basildon", 0]], [[46522, 55499, "Basildon", 9], [46522, 55499, "Wickford", 0]]], "label": "SUPPORTS", "claim": "the American actor that plays Chumlee was born on December .", "id": 262}
+{"evidence": [[[49416, 58743, "Prowler_-LRB-comics-RRB-", 1]]], "label": "REFUTES", "claim": "a novel that was written by Alice Hoffman is the basis of Practical Magic .", "id": 263}
+{"evidence": [[[239921, 241601, "Goosebumps_-LRB-film-RRB-", 0]], [[239931, 241609, "Goosebumps_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "the Fame has sold over 4.5 million copies .", "id": 264}
+{"evidence": [[[295583, null, null, null], [297229, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Research is used to test a validity of instruments .", "id": 265}
+{"evidence": [[[64638, 75450, "Raees_-LRB-film-RRB-", 1], [64638, 75450, "Shah_Rukh_Khan", 0]]], "label": "SUPPORTS", "claim": "Trouble with the Curve was just released in 2013 .", "id": 266}
+{"evidence": [[[218298, 224609, "Eva_Mendes", 0]]], "label": "REFUTES", "claim": "July 1974 is a birthday of Jed Whedon .", "id": 267}
+{"evidence": [[[84023, 96142, "The_dress", 0]]], "label": "REFUTES", "claim": "the Church of Jesus Christ of Latter - day Saints has always refused to make a law on fasting .", "id": 268}
+{"evidence": [[[25490, 31421, "Sheryl_Lee", 7]], [[300042, 291343, "Sheryl_Lee", 7]]], "label": "SUPPORTS", "claim": "a 66th Primetime Emmy Awards occurred in 1970 .", "id": 269}
+{"evidence": [[[168686, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Jiang Wen is American .", "id": 270}
+{"evidence": [[[133703, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Gray Matters is just a podcast .", "id": 271}
+{"evidence": [[[268491, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Nice Guys was released in 2010 .", "id": 272}
+{"evidence": [[[143719, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Brat Pack is a type of name given to a group .", "id": 273}
+{"evidence": [[[28071, 34361, "Pirates_of_the_Caribbean_-LRB-attraction-RRB-", 2]]], "label": "SUPPORTS", "claim": "the Office ( US ) ran for ten seasons .", "id": 274}
+{"evidence": [[[21171, 26000, "The_Adventures_of_Pluto_Nash", 0]]], "label": "SUPPORTS", "claim": "David Lloyd George was a subject of a controversial vote in 2002 .", "id": 275}
+{"evidence": [[[260654, 258997, "Valencia", 0]], [[260658, 258998, "Valencia", 0]]], "label": "SUPPORTS", "claim": "Night of the Living Dead was originally directed by George A. Romero and created a image of the modern zombie .", "id": 276}
+{"evidence": [[[100608, 113904, "House_-LRB-TV_series-RRB-", 0]], [[100608, 113905, "House_-LRB-TV_series-RRB-", 23]], [[106553, 119963, "House_-LRB-TV_series-RRB-", 0]], [[307922, 298388, "House_-LRB-TV_series-RRB-", 0]], [[307922, 298389, "House_-LRB-TV_series-RRB-", 23]], [[309181, 299444, "House_-LRB-TV_series-RRB-", 0]], [[309183, 299445, "House_-LRB-TV_series-RRB-", 0]], [[309192, 299451, "House_-LRB-TV_series-RRB-", 0]]], "label": "SUPPORTS", "claim": "a Catcher in the Rye is a novel by J.D. Salinger .", "id": 277}
+{"evidence": [[[109014, 122721, "Numb_-LRB-Linkin_Park_song-RRB-", 12], [109014, 122721, "Rock_Band_3", 0]]], "label": "SUPPORTS", "claim": "Richard Dawson was not a game host in the United States .", "id": 278}
+{"evidence": [[[63305, 74036, "Rachel_Green", 1]], [[63305, 74037, "Rachel_Green", 2], [63305, 74037, "Monica_Geller", 1]], [[63305, 74038, "Rachel_Green", 7]], [[63305, 74039, "Rachel_Green", 9]], [[63305, 74040, "Rachel_Green", 20]], [[63305, 74041, "Rachel_Green", 21]]], "label": "REFUTES", "claim": "Timur participated in a election .", "id": 279}
+{"evidence": [[[75686, 86939, "Joe_Rogan", 7]]], "label": "SUPPORTS", "claim": "Ted Cruz dog is Loser .", "id": 280}
+{"evidence": [[[41311, 49645, "Bee_Gees", 11], [41311, 49645, "Spicks_and_Specks_-LRB-song-RRB-", 0]], [[41311, 49646, "Bee_Gees", 4]]], "label": "SUPPORTS", "claim": "Iceland is sometimes considered a part of Scandinavia .", "id": 281}
+{"evidence": [[[164931, 179120, "Colosseum", 13]]], "label": "SUPPORTS", "claim": "The Giver received a People's Choice Award nomination for Favorite Dramatic Movie .", "id": 282}
+{"evidence": [[[232781, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Romani people have settled .", "id": 283}
+{"evidence": [[[174943, 188037, "Sean_Penn", 5]]], "label": "REFUTES", "claim": "the English Wikipedia is an Arabic - language edition of Wikipedia .", "id": 284}
+{"evidence": [[[292293, 285103, "Diana,_Princess_of_Wales", 18], [292293, 285103, "Funeral_of_Diana,_Princess_of_Wales", 0]], [[294304, 286641, "Diana,_Princess_of_Wales", 18], [294304, 286641, "Funeral_of_Diana,_Princess_of_Wales", 0]], [[294918, 287142, "Diana,_Princess_of_Wales", 18], [294918, 287142, "Funeral_of_Diana,_Princess_of_Wales", 0]], [[339651, 324548, "Diana,_Princess_of_Wales", 18], [339651, 324548, "Funeral_of_Diana,_Princess_of_Wales", 0]], [[339672, 324562, "Diana,_Princess_of_Wales", 18], [339672, 324562, "Funeral_of_Diana,_Princess_of_Wales", 0]]], "label": "SUPPORTS", "claim": "A near - Earth object is a large orbiting body .", "id": 285}
+{"evidence": [[[174688, 187841, "Marco_Polo", 11]]], "label": "REFUTES", "claim": "a Education is a drama movie .", "id": 286}
+{"evidence": [[[240254, 241907, "The_Sugarland_Express", 3]]], "label": "REFUTES", "claim": "Annie is a title of a work .", "id": 287}
+{"evidence": [[[30328, 36922, "Black_Canary", 13]]], "label": "SUPPORTS", "claim": "Mike Friedrich is just German .", "id": 288}
+{"evidence": [[[228801, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Danish language is spoken only outside of Sweden .", "id": 289}
+{"evidence": [[[153656, 168497, "Winter's_Tale_-LRB-novel-RRB-", 0], [153656, 168497, "Mark_Helprin", 0]]], "label": "SUPPORTS", "claim": "the fourth highest civilian honour of the country was received by Kojol .", "id": 290}
+{"evidence": [[[279832, 274463, "NRG_Recording_Studios", 0]], [[328376, 315440, "NRG_Recording_Studios", 0]], [[328377, 315441, "NRG_Recording_Studios", 0]], [[328381, 315444, "NRG_Recording_Studios", 0]]], "label": "REFUTES", "claim": "Gaius Julius Caesar just was the mother of a dictator .", "id": 291}
+{"evidence": [[[267473, 264172, "Ralph_Fults", 0]], [[267474, 264173, "Ralph_Fults", 0]]], "label": "SUPPORTS", "claim": "Augutus Prew was an English fashion designer .", "id": 292}
+{"evidence": [[[60846, 71309, "Lemmy", 2]]], "label": "SUPPORTS", "claim": "the Invisible Man was a romantic film .", "id": 293}
+{"evidence": [[[35783, 43326, "Sidse_Babett_Knudsen", 0]]], "label": "REFUTES", "claim": "the Originals ( TV series ) is from the United States .", "id": 294}
+{"evidence": [[[93177, 106097, "Due_Date", 2]]], "label": "SUPPORTS", "claim": "The Tenth Doctor travels alone in a End of Time .", "id": 295}
+{"evidence": [[[157155, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Ayananka Bose is a actress .", "id": 296}
+{"evidence": [[[179219, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Virginia keeps a computer chips manufactured within the state for use in Virginian electronics .", "id": 297}
+{"evidence": [[[214308, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Gaius Julius Caesar was just Spanish .", "id": 298}
+{"evidence": [[[46942, 55993, "Indian_Army", 0]]], "label": "SUPPORTS", "claim": "The Brat Pack just frequently appeared together in films in the 1960s .", "id": 299}
+{"evidence": [[[218089, null, null, null], [218090, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Indiana Pacers were in the American Basketball Association .", "id": 300}
+{"evidence": [[[245429, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Office ( US ) had 201 one hour long episodes .", "id": 301}
+{"evidence": [[[39374, 47402, "The_Cincinnati_Kid", 0]]], "label": "REFUTES", "claim": "ASAP Rocky has only led music videos for himself .", "id": 302}
+{"evidence": [[[279964, null, null, null], [328627, null, null, null], [329293, null, null, null], [329296, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Cyclades are in the Dead Sea .", "id": 303}
+{"evidence": [[[166674, 180467, "Quran", 0]]], "label": "REFUTES", "claim": "Resident Evil is the first installment in the Resident Evil film series based off of a video game series of the same name .", "id": 304}
+{"evidence": [[[58037, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Bengal tiger is a member of the largest dog species .", "id": 305}
+{"evidence": [[[279921, 274527, "Jack_Falahee", 0]], [[281629, 275992, "Jack_Falahee", 1], [281629, 275992, "Mercy_Street_-LRB-TV_series-RRB-", 2], [281629, 275992, "Jack_Falahee", 0]], [[283741, 277692, "Jack_Falahee", 1], [283741, 277692, "Mercy_Street_-LRB-TV_series-RRB-", 2], [283741, 277692, "Mercy_Street_-LRB-TV_series-RRB-", 5]], [[328550, 315571, "Jack_Falahee", 0]], [[329234, 316100, "Jack_Falahee", 0], [329234, 316100, "Jack_Falahee", 1]], [[329237, 316102, "Jack_Falahee", 0]], [[329237, 316103, "Jack_Falahee", 1], [329237, 316103, "How_to_Get_Away_with_Murder", 0]]], "label": "REFUTES", "claim": "Pakistan - industrialized economy is the 25th largest in purchasing power parity in the world .", "id": 306}
+{"evidence": [[[152645, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Love Club EP is the debut extended play by Jayden Smith .", "id": 307}
+{"evidence": [[[168835, 182541, "Magic_Johnson", 22]]], "label": "SUPPORTS", "claim": "Richard Fortus refuses to be a member of Guns N' Roses .", "id": 308}
+{"evidence": [[[160478, 174982, "Paul_Nicholls_-LRB-actor-RRB-", 1]]], "label": "REFUTES", "claim": "Conservative Democrats formed the Blue Dog Coalition .", "id": 309}
+{"evidence": [[[250978, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Latvian Soviet Socialist Republic is never known as Soviet Latvia .", "id": 310}
+{"evidence": [[[290455, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the ovary is an organ involved in the creation of new life .", "id": 311}
+{"evidence": [[[159899, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Cyclades are a peninsula group .", "id": 312}
+{"evidence": [[[266040, 263142, "The_Disaster_Artist_-LRB-film-RRB-", 5]]], "label": "SUPPORTS", "claim": "the Monster is a work of art .", "id": 313}
+{"evidence": [[[169350, 182993, "Otto_I,_Holy_Roman_Emperor", 11]]], "label": "REFUTES", "claim": "the Indian National Congress was founded on December 20th , 1885 .", "id": 314}
+{"evidence": [[[66154, 76990, "Dakota_Fanning", 0]]], "label": "REFUTES", "claim": "The 1998 science musical The Man in the Iron Mask was directed by Randall Wallace .", "id": 315}
+{"evidence": [[[189735, 200957, "Polar_bear", 7]]], "label": "SUPPORTS", "claim": "a ovary is found in symmetrical pairs along the midline of the body .", "id": 316}
+{"evidence": [[[205355, 213955, "Dub_music", 0]]], "label": "SUPPORTS", "claim": "the American Civil War lasted 4 decades .", "id": 317}
+{"evidence": [[[51256, 60980, "T2_Trainspotting", 0]]], "label": "SUPPORTS", "claim": "Chinatown is a 1974 novel just .", "id": 318}
+{"evidence": [[[84490, 96655, "Hedda_Gabler", 1]]], "label": "SUPPORTS", "claim": "Raja Hindustani is an American movie .", "id": 319}
+{"evidence": [[[100677, 113981, "Magic_Johnson", 1]], [[100677, 113982, "Magic_Johnson", 16]]], "label": "REFUTES", "claim": "The Invisible Man was just an action film with no science fiction elements .", "id": 320}
+{"evidence": [[[67040, 77827, "Peking_University", 0]], [[67040, 77828, "Peking_University", 1], [67040, 77828, "Guam", 0], [67040, 77828, "Guam", 1]], [[67040, 77829, "Peking_University", 2], [67040, 77829, "Guam", 0], [67040, 77829, "Guam", 1]], [[67040, 77830, "Peking_University", 4], [67040, 77830, "Guam", 0], [67040, 77830, "Guam", 1]]], "label": "REFUTES", "claim": "One of Macklemore was number one in Canada in 2010 .", "id": 321}
+{"evidence": [[[194729, 205109, "Middle-earth", 0]]], "label": "REFUTES", "claim": "Hammer Film Productions produced the Woman in Black in 2017 .", "id": 322}
+{"evidence": [[[105514, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Kevin Bacon was in a film led by Christopher Nolan .", "id": 323}
+{"evidence": [[[97982, 111117, "Aristotle", 2]], [[97982, 111118, "Aristotle", 4]]], "label": "REFUTES", "claim": "Physics' main goal is to understand a behavior of the universe through the study of matter and its movement .", "id": 324}
+{"evidence": [[[78410, 89941, "Chaka_Khan", 4]]], "label": "SUPPORTS", "claim": "the Little Prince ( 2015 film ) is a 2016 television show .", "id": 325}
+{"evidence": [[[200454, 209958, "Sancho_Panza", 0]]], "label": "REFUTES", "claim": "Catherine Hardwicke is an just child .", "id": 326}
+{"evidence": [[[70527, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Red Bull Racing has ever been a Formula Two racing team .", "id": 327}
+{"evidence": [[[181056, 193350, "Poldark_-LRB-2015_TV_series-RRB-", 6]]], "label": "SUPPORTS", "claim": "Azithromycin is sold under many trade names worldwide .", "id": 328}
+{"evidence": [[[251500, 251342, "Miracle_at_St._Anna", 2]], [[251501, 251343, "Miracle_at_St._Anna", 2], [251501, 251343, "Tuscany", 0]], [[251526, 251361, "Miracle_at_St._Anna", 2]]], "label": "REFUTES", "claim": "Menace II Society is just set in Mexico .", "id": 329}
+{"evidence": [[[205325, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Monster is just a song by an German rapper .", "id": 330}
+{"evidence": [[[259472, 258044, "Libya", 2]]], "label": "REFUTES", "claim": "a Education is only a romance film .", "id": 331}
+{"evidence": [[[228223, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Silver Surfer is portrayed in comic books of American origin .", "id": 332}
+{"evidence": [[[84203, 96325, "No_Country_for_Old_Men_-LRB-film-RRB-", 11]]], "label": "SUPPORTS", "claim": "the ABC Islands are only known as the Lesser Antilles in Asia .", "id": 333}
+{"evidence": [[[229583, 233504, "Fortunes_of_War_-LRB-TV_series-RRB-", 2]]], "label": "SUPPORTS", "claim": "B. R. Ambedkar did not win a awards .", "id": 334}
+{"evidence": [[[108822, 122518, "Terry_Crews", 0]], [[108822, 122519, "Terry_Crews", 9]]], "label": "SUPPORTS", "claim": "Benjamin Walker ( actor ) is a stand .", "id": 335}
+{"evidence": [[[234941, 237721, "Tijuana", 0]], [[234941, 237722, "Tijuana", 1]]], "label": "SUPPORTS", "claim": "the Walking Dead ( comic book ) inspired a piece of media .", "id": 336}
+{"evidence": [[[260883, 259220, "Capsicum_chinense", 0]]], "label": "SUPPORTS", "claim": "The Hunger Games is just a novel .", "id": 337}
+{"evidence": [[[194769, 205136, "Manmohan_Singh", 1]]], "label": "REFUTES", "claim": "the Challenge XXX : Dirty 30 is not a season of a TV series .", "id": 338}
+{"evidence": [[[201559, 210999, "The_Beach_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "Mars is a site of Olympus Mons .", "id": 339}
+{"evidence": [[[186369, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Latvian Soviet Socialist Republic was a republic of the Americas .", "id": 340}
+{"evidence": [[[120170, 134343, "Knocked_Up", 0]]], "label": "SUPPORTS", "claim": "The phrase to say while Trick - or - Treating has just ever been , \" Give me your money \" .", "id": 341}
+{"evidence": [[[176073, 189038, "Soyuz_-LRB-spacecraft-RRB-", 0]]], "label": "REFUTES", "claim": "the Icelandic Coast Guard is barely known as Landhelgisgaeslan .", "id": 342}
+{"evidence": [[[125242, 139577, "French_Indochina", 0]]], "label": "SUPPORTS", "claim": "IMDb is a website .", "id": 343}
+{"evidence": [[[242980, 244236, "St._Anger", 0]]], "label": "SUPPORTS", "claim": "the New Jersey Turnpike has rest areas .", "id": 344}
+{"evidence": [[[161772, 176195, "Michigan", 2]]], "label": "SUPPORTS", "claim": "the Burj Khalifa contains 8 businesses .", "id": 345}
+{"evidence": [[[186390, 198208, "Robert_Lopez", 1]]], "label": "REFUTES", "claim": "Georgians arose from an ancient kingdom on a coast of the Caspian Sea .", "id": 346}
+{"evidence": [[[47082, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Floyd Mayweather Jr. has a large world win record without a loss .", "id": 347}
+{"evidence": [[[239241, 241162, "Avenged_Sevenfold_-LRB-album-RRB-", 0]], [[239242, 241163, "Avenged_Sevenfold_-LRB-album-RRB-", 0]]], "label": "SUPPORTS", "claim": "Chris Paul just competes at or below the national level .", "id": 348}
+{"evidence": [[[189869, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the SpongeBob SquarePants Movie stars a cat .", "id": 349}
+{"evidence": [[[119529, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Antigua is only known as a name Antigua .", "id": 350}
+{"evidence": [[[108439, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Fly is a science horror film .", "id": 351}
+{"evidence": [[[65682, 76549, "Birthday_Song_-LRB-2_Chainz_song-RRB-", 1]]], "label": "REFUTES", "claim": "Pierce County , Washington is a location of the highest lake in Washington .", "id": 352}
+{"evidence": [[[15227, 18969, "Harold_Macmillan", 0]], [[15227, 18970, "Harold_Macmillan", 1], [15227, 18970, "Supermac_-LRB-cartoon-RRB-", 4]], [[15227, 18971, "Harold_Macmillan", 7]], [[15227, 18972, "Harold_Macmillan", 8]], [[15227, 18973, "Harold_Macmillan", 11]], [[15227, 18974, "Harold_Macmillan", 12]], [[15227, 18975, "Harold_Macmillan", 15]], [[15227, 18976, "Harold_Macmillan", 31]], [[15227, 18977, "Harold_Macmillan", 27]], [[15227, 18978, "Harold_Macmillan", 26]], [[15227, 18979, "Harold_Macmillan", 18], [15227, 18979, "United_Kingdom_general_election,_1959", 1]], [[19650, 24146, "Harold_Macmillan", 0]], [[19650, 24147, "Harold_Macmillan", 7]], [[19650, 24148, "Harold_Macmillan", 8]], [[19650, 24149, "Harold_Macmillan", 11]], [[19650, 24150, "Harold_Macmillan", 12]], [[19650, 24151, "Harold_Macmillan", 26]], [[19650, 24152, "Harold_Macmillan", 31]], [[24311, 30047, "Harold_Macmillan", 0]], [[24311, 30048, "Harold_Macmillan", 1], [24311, 30048, "Supermac_-LRB-cartoon-RRB-", 4]], [[24311, 30049, "Harold_Macmillan", 7]], [[24311, 30050, "Harold_Macmillan", 8]], [[24311, 30051, "Harold_Macmillan", 11]], [[24311, 30052, "Harold_Macmillan", 12]], [[24311, 30053, "Harold_Macmillan", 15]], [[24311, 30054, "Harold_Macmillan", 21]], [[24311, 30055, "Harold_Macmillan", 22]], [[24311, 30056, "Harold_Macmillan", 23]], [[24311, 30057, "Harold_Macmillan", 27]], [[24311, 30058, "Harold_Macmillan", 26]], [[24311, 30059, "Harold_Macmillan", 31]], [[299420, 290801, "Harold_Macmillan", 0]], [[299420, 290802, "Harold_Macmillan", 7]], [[299420, 290803, "Harold_Macmillan", 8]], [[299420, 290804, "Harold_Macmillan", 11]], [[299420, 290805, "Harold_Macmillan", 12]], [[299420, 290806, "Harold_Macmillan", 27]], [[299420, 290807, "Harold_Macmillan", 31]]], "label": "SUPPORTS", "claim": "the Raven ( 2012 film ) was awarded in Ireland in 2012 .", "id": 353}
+{"evidence": [[[39255, 47289, "Efraim_Diveroli", 0]]], "label": "SUPPORTS", "claim": "The Tenth Doctor makes his penultimate appearance in Journey .", "id": 354}
+{"evidence": [[[203227, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "John Perry Barlow is a member of the Grateful Dead .", "id": 355}
+{"evidence": [[[209601, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "There was a attempt to change Cyprus .", "id": 356}
+{"evidence": [[[80016, 91778, "Janet_Leigh", 0]]], "label": "REFUTES", "claim": "Deepika Padukone just acts in tragedies .", "id": 357}
+{"evidence": [[[190455, 201476, "Tom_Baker_-LRB-English_actor-RRB-", 15]]], "label": "SUPPORTS", "claim": "South Island has New Zealand's citizens .", "id": 358}
+{"evidence": [[[238967, 240926, "Despicable_Me_2", 1]], [[238969, 240928, "Despicable_Me_2", 1]]], "label": "SUPPORTS", "claim": "Issa Rae appears in Awkward Black girl .", "id": 359}
+{"evidence": [[[54305, 64301, "Armenian_Genocide", 5]]], "label": "REFUTES", "claim": "the American Civil War took place in the United States .", "id": 360}
+{"evidence": [[[241394, 242932, "Brad_Wilk", 4]]], "label": "REFUTES", "claim": "Clueless ( film ) was followed by a spin - sitcom with the same name .", "id": 361}
+{"evidence": [[[153675, 168515, "Men_in_Black_II", 0]]], "label": "REFUTES", "claim": "Timur was ever a peasant .", "id": 362}
+{"evidence": [[[206511, 214854, "World_Trade_Center_-LRB-1973\u20132001-RRB-", 1]]], "label": "REFUTES", "claim": "the English Wikipedia is the English - language edition of a television show .", "id": 363}
+{"evidence": [[[116508, 130392, "In_the_End", 1]]], "label": "REFUTES", "claim": "The Burj Khalifa contains just 4 elevators .", "id": 364}
+{"evidence": [[[179248, 191776, "Brazzers", 0]]], "label": "SUPPORTS", "claim": "Freddie Highmore has been nominated for a Critics' Choice Television Award .", "id": 365}
+{"evidence": [[[246263, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Caesar is a 1937 adaptation of the Tempest .", "id": 366}
+{"evidence": [[[55907, 66009, "Steve_Wozniak", 5]]], "label": "REFUTES", "claim": "A polynomial is an expression .", "id": 367}
+{"evidence": [[[116943, 130838, "Civilization_IV", 12]]], "label": "REFUTES", "claim": "Python supports multiple programming paradigms and is usable .", "id": 368}
+{"evidence": [[[53012, 62953, "Highway_to_Heaven", 0]]], "label": "REFUTES", "claim": "the Group of 15 denounced Kenya .", "id": 369}
+{"evidence": [[[76019, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Mercedes - Benz is a automobile manufacturer .", "id": 370}
+{"evidence": [[[223637, 228606, "Riddick_-LRB-character-RRB-", 1]], [[227275, 231668, "Riddick_-LRB-character-RRB-", 1]], [[227276, 231669, "Riddick_-LRB-character-RRB-", 1]], [[319781, 308482, "Riddick_-LRB-character-RRB-", 1]]], "label": "REFUTES", "claim": "Finland is considered a part of Scandinavia .", "id": 371}
+{"evidence": [[[115715, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Riz Ahmed acted in an 8-part crime miniseries .", "id": 372}
+{"evidence": [[[226508, 231055, "Captain_America's_shield", 1]], [[226509, 231056, "Captain_America's_shield", 1]]], "label": "SUPPORTS", "claim": "the Thin Red Line ( 1998 film ) features a performance by an American actor born in the 1960s .", "id": 373}
+{"evidence": [[[28100, 34396, "Penguin_Books", 2]]], "label": "REFUTES", "claim": "Hammer Film Productions produced the horror movie the Quiet Ones .", "id": 374}
+{"evidence": [[[146939, 161904, "CONCACAF_Champions_League", 0]], [[146940, 161905, "CONCACAF_Champions_League", 0]]], "label": "REFUTES", "claim": "ASAP Rocky has led music videos for other A$ AP Mob members .", "id": 375}
+{"evidence": [[[117898, 131783, "University_of_Illinois_at_Chicago", 0]]], "label": "SUPPORTS", "claim": "Story of My Life was recorded by a band that consisted of boys .", "id": 376}
+{"evidence": [[[278923, null, null, null], [280572, null, null, null], [280883, null, null, null], [280884, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The University of Leicester just contributed to the demolition of the remains of King Richard III .", "id": 377}
+{"evidence": [[[249778, 249788, "Prescott,_Arizona", 0]], [[249778, 249789, "Prescott,_Arizona", 3]], [[249778, 249790, "Prescott,_Arizona", 11]], [[253157, 253041, "Prescott,_Arizona", 0]], [[253158, 253042, "Prescott,_Arizona", 0]], [[320854, 309359, "Prescott,_Arizona", 0]]], "label": "REFUTES", "claim": "Jimi Hendrix was a amateur parachutist .", "id": 378}
+{"evidence": [[[83540, 95532, "YouTube", 15]]], "label": "REFUTES", "claim": "a cinematography of Far from the Madding Crowd was only by Nick Jonas .", "id": 379}
+{"evidence": [[[260899, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Augutus Prew was a fashion designer .", "id": 380}
+{"evidence": [[[154824, 169576, "How_to_Train_Your_Dragon_2", 0]]], "label": "REFUTES", "claim": "the American Civil War ended on May 8 , 1865 .", "id": 381}
+{"evidence": [[[191456, 202316, "Roswell_-LRB-TV_series-RRB-", 0]]], "label": "SUPPORTS", "claim": "Sausage Party was led by two men .", "id": 382}
+{"evidence": [[[41663, 50092, "Poseidon_-LRB-film-RRB-", 6]]], "label": "SUPPORTS", "claim": "Andrew Moray opposed a occupation of north Scotland by King Edward I.", "id": 383}
+{"evidence": [[[161073, 175563, "Joe_Walsh", 24]]], "label": "SUPPORTS", "claim": "the Last Song ( film ) began filming on June 14th , 2009 .", "id": 384}
+{"evidence": [[[213682, 220862, "Finding_Dory", 1]], [[213686, 220865, "Finding_Dory", 1]]], "label": "REFUTES", "claim": "You Only Live Twice is the first Bond film led by James Cameron .", "id": 385}
+{"evidence": [[[127825, 142517, "Vedam_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "Jerome Flynn is an American .", "id": 386}
+{"evidence": [[[24724, null, null, null], [82786, null, null, null], [299705, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Zoe Saldana is a national holiday .", "id": 387}
+{"evidence": [[[11555, 14519, "The_100_-LRB-TV_series-RRB-", 0], [11555, 14519, "The_100_-LRB-TV_series-RRB-", 4]]], "label": "SUPPORTS", "claim": "Gory Guerrero was African just .", "id": 388}
+{"evidence": [[[292570, null, null, null], [294583, null, null, null], [295170, null, null, null], [340377, null, null, null], [340385, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Donald Duck wears long neck ties .", "id": 389}
+{"evidence": [[[228480, 232657, "Stripes_-LRB-film-RRB-", 1]]], "label": "SUPPORTS", "claim": "the Premier League Asia Trophy is for golf .", "id": 390}
+{"evidence": [[[116901, 130770, "Papua_-LRB-province-RRB-", 3]]], "label": "SUPPORTS", "claim": "the Hunger Games film series' first film was directed by a gorilla .", "id": 391}
+{"evidence": [[[149288, 164269, "Life", 0]], [[149289, 164270, "Life", 0]], [[149291, 164271, "Life", 0]]], "label": "SUPPORTS", "claim": "ASAP Rocky has only led music videos for others .", "id": 392}
+{"evidence": [[[166674, 180467, "Quran", 0]]], "label": "REFUTES", "claim": "Resident Evil is the first installment in the Resident Evil film series based off of the video series of the same name .", "id": 393}
+{"evidence": [[[25878, 31821, "Halsey_-LRB-singer-RRB-", 1]], [[25878, 31822, "Halsey_-LRB-singer-RRB-", 0]]], "label": "REFUTES", "claim": "P.S I Love You ( film ) was incapable of being led by Richard LaGravenese .", "id": 394}
+{"evidence": [[[19567, 24050, "English_people", 6]], [[19567, 24051, "English_people", 7]]], "label": "REFUTES", "claim": "Kate Walsh was unable to be on Grey .", "id": 395}
+{"evidence": [[[297432, null, null, null], [297434, null, null, null], [341855, null, null, null], [341861, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "David Lloyd George lost a bid to become prime minister .", "id": 396}
+{"evidence": [[[74873, 86085, "Halsey_-LRB-singer-RRB-", 1]]], "label": "SUPPORTS", "claim": "a Way Out is by Puff Daddy and credits \" The Family \" .", "id": 397}
+{"evidence": [[[198843, 208553, "The_King_and_I", 1], [198843, 208553, "Margaret_Landon", 0]]], "label": "REFUTES", "claim": "the Times was founded in 1880 .", "id": 398}
+{"evidence": [[[213710, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Monster only features guest vocals from Drake .", "id": 399}
+{"evidence": [[[121831, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Icelandic Coast Guard is also known as Gaeslan and it is important to modern infrastructure .", "id": 400}
+{"evidence": [[[78807, 90380, "Annette_Badland", 1], [78807, 90380, "EastEnders", 0]]], "label": "REFUTES", "claim": "Vampire Academy was just a critical success .", "id": 401}
+{"evidence": [[[251697, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a staging area is a location where vehicles are assembled before Christmas .", "id": 402}
+{"evidence": [[[174767, 187901, "Knocked_Up", 0]]], "label": "REFUTES", "claim": "Atlanta metropolitan area had a population of a few thousand people .", "id": 403}
+{"evidence": [[[199488, 209163, "The_Beach_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "the Dodo has been depicted with orange plumage .", "id": 404}
+{"evidence": [[[72569, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Ellen Show was created by an American comedian .", "id": 405}
+{"evidence": [[[43032, 51677, "Hedda_Gabler", 1]]], "label": "REFUTES", "claim": "The Paper stars Robin Wright .", "id": 406}
+{"evidence": [[[135434, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the 1998 American action drama The Man in the Iron Mask was written by Woody Allen .", "id": 407}
+{"evidence": [[[214298, 221379, "Ernest_Medina", 2], [214298, 221379, "My_Lai_Massacre", 0]]], "label": "SUPPORTS", "claim": "Dan Trachtenberg is a actor .", "id": 408}
+{"evidence": [[[243119, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Tsugumi Ohba wrote a manga that the Japanese television drama series Death Note is based on .", "id": 409}
+{"evidence": [[[213705, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Physics' main goal is to understand the behavior of the universe .", "id": 410}
+{"evidence": [[[59918, 70316, "Magic_Johnson", 0]]], "label": "REFUTES", "claim": "Resident Evil is based on a series of video games .", "id": 411}
+{"evidence": [[[79760, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Independent Spirit Awards are held in a parking lot .", "id": 412}
+{"evidence": [[[45085, 53813, "Saxony", 0]], [[45085, 53814, "Saxony", 4]]], "label": "SUPPORTS", "claim": "the New Jersey Turnpike has abandoned rest areas .", "id": 413}
+{"evidence": [[[191681, 202498, "Anne_Rice", 5]]], "label": "REFUTES", "claim": "the University of Leicester discovered and identified the remains of a princess .", "id": 414}
+{"evidence": [[[145499, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Pakistan is 50th largest in nominal gross domestic product .", "id": 415}
+{"evidence": [[[56923, 67160, "Neil_Diamond", 0]]], "label": "REFUTES", "claim": "See You on the Other Side was involved with the production team of the Matrix .", "id": 416}
+{"evidence": [[[123845, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Hit was released on DVD .", "id": 417}
+{"evidence": [[[210245, 218038, "So_You_Think_You_Can_Dance_-LRB-U.S._TV_series-RRB-", 2]]], "label": "SUPPORTS", "claim": "the Visigoths converted from Arianism to Buddhism .", "id": 418}
+{"evidence": [[[116100, 130015, "Humphrey_Bogart", 0]], [[116100, 130016, "Humphrey_Bogart", 6], [116100, 130016, "The_Petrified_Forest", 0], [116100, 130016, "Angels_with_Dirty_Faces", 0]], [[116100, 130017, "Humphrey_Bogart", 9], [116100, 130017, "High_Sierra_-LRB-film-RRB-", 0], [116100, 130017, "The_Maltese_Falcon_-LRB-1941_film-RRB-", 0]]], "label": "REFUTES", "claim": "The left hand side of the Trebbia River is a location of the Battle of the Trebia .", "id": 419}
+{"evidence": [[[129947, 144654, "Shadowhunters", 5]]], "label": "REFUTES", "claim": "the 2003 NCAA Division I Men's Basketball Tournament was played in HD .", "id": 420}
+{"evidence": [[[241363, 242915, "Brad_Wilk", 4]]], "label": "SUPPORTS", "claim": "Sherilyn Fenn is a acrobat .", "id": 421}
+{"evidence": [[[172631, 185906, "Psych", 2]], [[172631, 185907, "Psych", 3]]], "label": "SUPPORTS", "claim": "the Dodo has been depicted with a grey shoe .", "id": 422}
+{"evidence": [[[44132, 52758, "Noel_Fisher", 1]]], "label": "SUPPORTS", "claim": "Yvonne Strahovski worked on NBC shows .", "id": 423}
+{"evidence": [[[72863, 83964, "Edmund_H._North", 0]]], "label": "REFUTES", "claim": "Vincent D'Onofrio is a Saturn Award winner .", "id": 424}
+{"evidence": [[[95330, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the cinematography of Far from the Madding Crowd was by Nicolas Roeg in 2012 .", "id": 425}
+{"evidence": [[[35446, 42962, "Guillermo_del_Toro", 0]]], "label": "REFUTES", "claim": "Chinatown was led Quentin Tarantino exclusively .", "id": 426}
+{"evidence": [[[64320, null, null, null], [303480, null, null, null], [305334, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Daenerys Targaryen's older brother and living relative is named Viserys .", "id": 427}
+{"evidence": [[[170207, 183764, "AMGTV", 0]]], "label": "REFUTES", "claim": "Richard Dawson was a host of Family Feud in the 1970s in the United States .", "id": 428}
+{"evidence": [[[132540, 147448, "Angelsberg", 0]]], "label": "REFUTES", "claim": "The Times has been a compact since the newspaper's founding .", "id": 429}
+{"evidence": [[[279690, null, null, null], [281390, null, null, null], [328067, null, null, null], [329046, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Argentina is subdivided into one autonomous city .", "id": 430}
+{"evidence": [[[201838, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Night of the Living Dead is not a series of seven zombie films .", "id": 431}
+{"evidence": [[[298108, 289664, "Edgar_Wright", 0], [298108, 289664, "Gemini_-LRB-astrology-RRB-", 1]], [[300227, 291478, "Edgar_Wright", 0], [300227, 291478, "Gemini_-LRB-astrology-RRB-", 1]], [[343204, 327024, "Edgar_Wright", 0], [343204, 327024, "Gemini_-LRB-astrology-RRB-", 1]], [[343211, 327035, "Edgar_Wright", 0], [343211, 327035, "Gemini_-LRB-astrology-RRB-", 1]], [[343261, 327078, "Edgar_Wright", 0]], [[343262, 327079, "Edgar_Wright", 0]]], "label": "REFUTES", "claim": "the first NBA Finals title Chris Bosh won was in 2012 .", "id": 432}
+{"evidence": [[[138721, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Keegan - Michael Key appeared at a premiere .", "id": 433}
+{"evidence": [[[48454, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Castlevania was worked on with a intent of release on the Family Computer Disk System .", "id": 434}
+{"evidence": [[[198023, 207972, "Syracuse,_New_York", 2]]], "label": "REFUTES", "claim": "The Latvian Soviet Socialist Republic is a republic of the Union of Soviet Socialist Republics .", "id": 435}
+{"evidence": [[[109683, 123291, "Pharrell_Williams", 4]]], "label": "SUPPORTS", "claim": "Floyd Mayweather Jr. has made 30 career knockouts in different special event professional boxing fights .", "id": 436}
+{"evidence": [[[190759, 201720, "Alice_Cooper", 0]], [[190771, 201729, "Alice_Cooper", 0]]], "label": "REFUTES", "claim": "a cinematography of Far from the Madding Crowd was by an Italian cinematographer .", "id": 437}
+{"evidence": [[[215825, 222599, "Home_for_the_Holidays_-LRB-1995_film-RRB-", 5], [215825, 222599, "Anne_Bancroft", 0], [215825, 222599, "Charles_Durning", 0]]], "label": "REFUTES", "claim": "the Quiet stars an actress .", "id": 438}
+{"evidence": [[[213736, 220893, "Finding_Dory", 1]]], "label": "SUPPORTS", "claim": "a basis for The Beguiled is a novel with a setting in the American South .", "id": 439}
+{"evidence": [[[238976, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the 2003 NCAA Division I Men's Basketball Tournament was single - elimination .", "id": 440}
+{"evidence": [[[189875, 201067, "Mickey_Rourke", 0]]], "label": "REFUTES", "claim": "the Beguiled's script was written by an American .", "id": 441}
+{"evidence": [[[207887, 216075, "Congressional_Space_Medal_of_Honor", 1]]], "label": "SUPPORTS", "claim": "Heath Ledger just appeared in films inspired by British royalty .", "id": 442}
+{"evidence": [[[56519, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Saw II was released in a digital optical disc format in 2017 .", "id": 443}
+{"evidence": [[[228166, 232414, "Larry_the_Cable_Guy", 14]], [[228167, 232415, "Larry_the_Cable_Guy", 14]]], "label": "REFUTES", "claim": "The Love Club EP is a debut extended play of singer Ella Marija Lani Yelich - O'Connor .", "id": 444}
+{"evidence": [[[237975, 240140, "Tamerlan_Tsarnaev", 1]], [[237975, 240142, "Tamerlan_Tsarnaev", 8]], [[237975, 240143, "Tamerlan_Tsarnaev", 9]]], "label": "SUPPORTS", "claim": "Northwestern University is the private university of the Big Ten Conference since 1968 .", "id": 445}
+{"evidence": [[[124160, 138505, "Halsey_-LRB-singer-RRB-", 1]]], "label": "REFUTES", "claim": "a Education is about a young dog's transition .", "id": 446}
+{"evidence": [[[107344, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a cinematography of Far from the Madding Crowd was by an English film director .", "id": 447}
+{"evidence": [[[116955, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a thunderstorm has an acoustic effect on the Earth's outer atmosphere .", "id": 448}
+{"evidence": [[[64752, 75583, "San_Diego_Comic-Con", 1]]], "label": "SUPPORTS", "claim": "There are 30 knockouts part of a career boxing record of Floyd Mayweather Jr.", "id": 449}
+{"evidence": [[[240282, 241920, "The_Sugarland_Express", 3]]], "label": "SUPPORTS", "claim": "For seven weeks , Revolver was at a top of the UK Albums Chart .", "id": 450}
+{"evidence": [[[156080, 170719, "Bessie_Smith", 0]]], "label": "SUPPORTS", "claim": "General Motors had one automotive - component .", "id": 451}
+{"evidence": [[[214314, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Nottingham Forest F.C. refuse to play soccer .", "id": 452}
+{"evidence": [[[74873, 86085, "Halsey_-LRB-singer-RRB-", 1]]], "label": "SUPPORTS", "claim": "No Way Out is by Puff Daddy and credits \" the Family \" .", "id": 453}
+{"evidence": [[[213729, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Alfred P. Murrah Federal Building was only an Australian federal government complex .", "id": 454}
+{"evidence": [[[180989, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Monster is a song by an American rapper .", "id": 455}
+{"evidence": [[[83764, 95762, "Blue_Jasmine", 0]], [[83764, 95763, "Blue_Jasmine", 1]], [[83764, 95764, "Blue_Jasmine", 2]], [[83764, 95765, "Blue_Jasmine", 6]], [[83764, 95766, "Blue_Jasmine", 8]], [[83764, 95767, "Blue_Jasmine", 7]]], "label": "SUPPORTS", "claim": "Riz Ahmed is not a award nominated actor .", "id": 456}
+{"evidence": [[[146877, 161852, "Leonard_Nimoy", 10]]], "label": "REFUTES", "claim": "a film Watchmen focuses on a group of mostly retired American superheroes .", "id": 457}
+{"evidence": [[[34176, 41448, "West_Ham_United_F.C.", 5]]], "label": "SUPPORTS", "claim": "Maximum Overdrive was written by The United States .", "id": 458}
+{"evidence": [[[95307, 108327, "The_Adventures_of_Pluto_Nash", 1], [95307, 108327, "Luis_Guzma\u0301n", 0]]], "label": "SUPPORTS", "claim": "the soundtrack of Far from the Madding Crowd was by Beethoven .", "id": 459}
+{"evidence": [[[139710, 154717, "Chaka_Khan", 4]], [[139711, 154718, "Chaka_Khan", 4]], [[139712, 154719, "Chaka_Khan", 4]], [[139713, 154720, "Chaka_Khan", 4]], [[139714, 154721, "Chaka_Khan", 4]], [[139715, 154722, "Chaka_Khan", 4]], [[139716, 154723, "Chaka_Khan", 4]], [[139717, 154724, "Chaka_Khan", 4]], [[139718, 154725, "Chaka_Khan", 4]], [[139719, 154726, "Chaka_Khan", 4]], [[139720, 154727, "Chaka_Khan", 4]], [[139721, 154728, "Chaka_Khan", 4]], [[139722, 154729, "Chaka_Khan", 4]], [[139723, 154730, "Chaka_Khan", 4]], [[139724, 154731, "Chaka_Khan", 4]], [[139725, 154733, "Chaka_Khan", 4]], [[139726, 154732, "Chaka_Khan", 4]], [[139727, 154734, "Chaka_Khan", 4]], [[139728, 154735, "Chaka_Khan", 4]], [[139729, 154736, "Chaka_Khan", 4]], [[139730, 154737, "Chaka_Khan", 4]], [[139731, 154738, "Chaka_Khan", 4]], [[139732, 154739, "Chaka_Khan", 4]]], "label": "SUPPORTS", "claim": "the Suite Life of Zack & Cody was created by Danny Kallis .", "id": 460}
+{"evidence": [[[236103, 238637, "Natural_Born_Killers", 5]]], "label": "REFUTES", "claim": "the current Duke of York has no goat heirs .", "id": 461}
+{"evidence": [[[101493, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a polynomial is an entity .", "id": 462}
+{"evidence": [[[61552, 72064, "Jackpot_-LRB-2013_film-RRB-", 0]]], "label": "REFUTES", "claim": "The Washington Monument is a world's most expensive obelisk .", "id": 463}
+{"evidence": [[[71466, 82426, "Michelin_Guide", 0]]], "label": "REFUTES", "claim": "the Challenge XXX : Dirty 30 is a season of an MTV show .", "id": 464}
+{"evidence": [[[47308, 56434, "The_100_-LRB-TV_series-RRB-", 4]]], "label": "REFUTES", "claim": "David Attenborough served as a program director for BBC Television .", "id": 465}
+{"evidence": [[[146650, 161640, "Numb_-LRB-Linkin_Park_song-RRB-", 12]]], "label": "SUPPORTS", "claim": "Sean Gunn has a experience acting .", "id": 466}
+{"evidence": [[[152948, 167715, "Billboard_Dad", 0]]], "label": "REFUTES", "claim": "the Fame has sold over 4.5 billion copies .", "id": 467}
+{"evidence": [[[210305, 218076, "Southpaw_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "See You on the Other Side was partnered with a production team of The Matrix .", "id": 468}
+{"evidence": [[[296487, 288322, "Edgar_Wright", 0]], [[296488, 288323, "Edgar_Wright", 0]], [[298090, 289645, "Edgar_Wright", 0]], [[343372, 327181, "Edgar_Wright", 0]], [[343438, 327223, "Edgar_Wright", 0]]], "label": "SUPPORTS", "claim": "the birthplace of Augustus Prew is Taiwan .", "id": 469}
+{"evidence": [[[183979, 195955, "Dan_O'Bannon", 0]]], "label": "REFUTES", "claim": "Sweet Home Alabama is a song that Lynyrd Skynyrd wrote in reply to Neil Young Alabama .", "id": 470}
+{"evidence": [[[152299, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Pakistan Movement was a result of artistic , musical , and architectural transformations .", "id": 471}
+{"evidence": [[[112813, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Zoey Deutch is an American actress , who started her career in a 1990s .", "id": 472}
+{"evidence": [[[13406, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Oscar Isaac was the main character in Star Wars : the Force Awakens .", "id": 473}
+{"evidence": [[[285761, null, null, null], [285768, null, null, null], [331714, null, null, null], [332349, null, null, null], [332352, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Monster appears on the album The Marshall Mathers LP 2 .", "id": 474}
+{"evidence": [[[80963, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Walking Dead ( comic book ) inspired a charter .", "id": 475}
+{"evidence": [[[24808, 30641, "Knocked_Up", 4]], [[121011, 135303, "Knocked_Up", 4]], [[299737, 291140, "Knocked_Up", 4]]], "label": "SUPPORTS", "claim": "the Burj Khalifa is in Western Asia .", "id": 476}
+{"evidence": [[[153059, 167803, "Prescott,_Arizona", 0]], [[153059, 167804, "Prescott,_Arizona", 2]], [[153059, 167805, "Prescott,_Arizona", 9]], [[153059, 167806, "Prescott,_Arizona", 11]], [[155610, 170245, "Prescott,_Arizona", 0]], [[155832, 170520, "Prescott,_Arizona", 0]], [[311666, 301600, "Prescott,_Arizona", 0]], [[313054, 302733, "Prescott,_Arizona", 0]]], "label": "REFUTES", "claim": "Charles de Gaulle was overlooked in a creation of a French political stance .", "id": 477}
+{"evidence": [[[26829, 32942, "The_dress", 7]], [[26832, 32944, "The_dress", 7]]], "label": "SUPPORTS", "claim": "The University of Leicester just discovered remains in 1999 .", "id": 478}
+{"evidence": [[[180133, 192665, "Aarhus", 1]]], "label": "REFUTES", "claim": "the Beverly Hillbillies is a television show from the 70s .", "id": 479}
+{"evidence": [[[35499, 43013, "Despacito", 11]], [[35499, 43014, "Despacito", 12]], [[35499, 43015, "Despacito", 14]]], "label": "SUPPORTS", "claim": "Maximum Overdrive is just a 1980 romance film .", "id": 480}
+{"evidence": [[[161260, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Ayananka Bose is a actress .", "id": 481}
+{"evidence": [[[174704, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Jarhead negated a account provided in the 2003 memoir of Anthony Swofford .", "id": 482}
+{"evidence": [[[36171, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the vacuum cleaner is one of the ABC Islands .", "id": 483}
+{"evidence": [[[251689, null, null, null], [251690, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Fly is a science fiction character .", "id": 484}
+{"evidence": [[[277062, null, null, null], [278807, null, null, null], [278823, null, null, null], [326842, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Part of the Last Song ( film ) was filmed on a mountain .", "id": 485}
+{"evidence": [[[206697, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Quiet just stars cats .", "id": 486}
+{"evidence": [[[266462, 263442, "Ludwig_van_Beethoven", 5], [266462, 263442, "Bonn", 0]], [[266465, 263445, "Ludwig_van_Beethoven", 5], [266465, 263445, "Bonn", 0], [266465, 263445, "Holy_Roman_Empire", 0]]], "label": "REFUTES", "claim": "Sonny & Cher began in a mid-1950's .", "id": 487}
+{"evidence": [[[166517, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Salman Rushdie just writes non - fiction .", "id": 488}
+{"evidence": [[[174992, 188077, "The_Others_-LRB-2001_film-RRB-", 6]], [[174993, 188078, "The_Others_-LRB-2001_film-RRB-", 6]]], "label": "REFUTES", "claim": "the film An Education is about a young character's transition .", "id": 489}
+{"evidence": [[[33000, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Gamal Abdel Nasser's funeral was in a capital of Egypt .", "id": 490}
+{"evidence": [[[243124, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Samsung entered a construction and shipbuilding industries in the mid-1950s .", "id": 491}
+{"evidence": [[[153621, 168459, "Connie_Nielsen", 2]]], "label": "SUPPORTS", "claim": "Lorelai Gilmore is named Emily .", "id": 492}
+{"evidence": [[[113352, 127211, "Pirates_of_the_Caribbean_-LRB-attraction-RRB-", 0]], [[113352, 127212, "Pirates_of_the_Caribbean_-LRB-attraction-RRB-", 2]], [[113352, 127213, "Pirates_of_the_Caribbean_-LRB-attraction-RRB-", 9]]], "label": "REFUTES", "claim": "Spider - Man 2 was led by Sam Raimi .", "id": 493}
+{"evidence": [[[132859, null, null, null], [132860, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The SpongeBob SquarePants Movie was led by Stephen Hillenburg .", "id": 494}
+{"evidence": [[[15250, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Trouble with the Curve just stars Adam Sandler .", "id": 495}
+{"evidence": [[[88518, 101135, "Wish_Upon", 0]]], "label": "REFUTES", "claim": "the Stanford prison experiment was an examination of the causes of troubles between guards and prisoners .", "id": 496}
+{"evidence": [[[143196, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Love Club EP is an album .", "id": 497}
+{"evidence": [[[262072, 260122, "Raabta_-LRB-song-RRB-", 0]]], "label": "REFUTES", "claim": "the Africa Cup of Nations has only been held in even - numbered years .", "id": 498}
+{"evidence": [[[247521, 247810, "Stadium_Arcadium", 1]]], "label": "REFUTES", "claim": "The Dodo has been depicted with a red head .", "id": 499}
+{"evidence": [[[237495, 239701, "North_Vietnam", 0]]], "label": "SUPPORTS", "claim": "the Paper stars Marisa Tomei .", "id": 500}
+{"evidence": [[[24705, 30504, "Michigan", 0]], [[24705, 30505, "Michigan", 2]], [[24705, 30506, "Michigan", 8], [24705, 30506, "U.S._state", 0]]], "label": "REFUTES", "claim": "Sausage Party was written by Barack Obama .", "id": 501}
+{"evidence": [[[92009, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Louie ( season 1 ) is Louis C.K.", "id": 502}
+{"evidence": [[[286055, 279622, "Tenacious_D", 1], [286055, 279622, "Jack_Black", 0], [286055, 279622, "Kyle_Gass", 0]], [[286064, 279631, "Tenacious_D", 0]], [[286064, 279632, "Tenacious_D", 1], [286064, 279632, "Jack_Black", 0], [286064, 279632, "Kyle_Gass", 0]], [[287761, 281087, "Tenacious_D", 1], [287761, 281087, "Kyle_Gass", 0]], [[332757, 319033, "Tenacious_D", 1], [332757, 319033, "Jack_Black", 0]], [[332758, 319034, "Tenacious_D", 0]]], "label": "REFUTES", "claim": "Tye Sheridan was an actor in the Tree of Life .", "id": 503}
+{"evidence": [[[114889, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Baja 1000 was organized by the National Off - Road Racing Association beginning in 1977 .", "id": 504}
+{"evidence": [[[43433, 52076, "Philomena_-LRB-film-RRB-", 8]], [[43433, 52077, "Philomena_-LRB-film-RRB-", 9]]], "label": "SUPPORTS", "claim": "Linkin Park's second studio album was the Moon and Antarctica .", "id": 505}
+{"evidence": [[[201121, 210571, "The_Endless_River", 0], [201121, 210571, "The_Endless_River", 1]]], "label": "SUPPORTS", "claim": "the Beverly Hillbillies had ten seasons .", "id": 506}
+{"evidence": [[[286228, 279725, "Alexandra_Daddario", 0]], [[287967, 281248, "Alexandra_Daddario", 0]], [[288579, 281798, "Alexandra_Daddario", 0]], [[333031, 319237, "Alexandra_Daddario", 0]], [[334141, 320271, "Alexandra_Daddario", 0]]], "label": "REFUTES", "claim": "the New Jersey Turnpike has lanes that are 12 feet long .", "id": 507}
+{"evidence": [[[109760, 123359, "Terry_Crews", 9]]], "label": "REFUTES", "claim": "the Airbus A380 entered commercial service in 2007 with Singapore Airlines .", "id": 508}
+{"evidence": [[[24705, 30504, "Michigan", 0]], [[24705, 30505, "Michigan", 2]], [[24705, 30506, "Michigan", 8], [24705, 30506, "U.S._state", 0]]], "label": "REFUTES", "claim": "Sausage Party was just written by Barack Obama .", "id": 509}
+{"evidence": [[[141494, 156682, "Australia_-LRB-2008_film-RRB-", 4]]], "label": "SUPPORTS", "claim": "Freddie Highmore starred in a television series Bates Motel .", "id": 510}
+{"evidence": [[[148404, 163419, "Fist_of_Legend", 2]]], "label": "REFUTES", "claim": "Northwestern University is the just public university of the Big Ten Conference .", "id": 511}
+{"evidence": [[[194764, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The University of Leicester contributed to a identification of the remains of King Richard III in 2013 .", "id": 512}
+{"evidence": [[[136736, 151562, "James_Jones_-LRB-basketball_player-RRB-", 17]]], "label": "REFUTES", "claim": "the Dodo has been depicted with yellow feet .", "id": 513}
+{"evidence": [[[113169, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Ed Gein's hometown is Plainfield , Wisconsin .", "id": 514}
+{"evidence": [[[228461, null, null, null], [228463, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Times has been printed since at least 1785 .", "id": 515}
+{"evidence": [[[74878, 86089, "In_the_End", 0]]], "label": "SUPPORTS", "claim": "the science fiction television series Fringe first aired in 2008 .", "id": 516}
+{"evidence": [[[210888, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the WWE was founded after the creation of the NXT Tag Team Championship .", "id": 517}
+{"evidence": [[[275938, null, null, null], [278226, null, null, null], [325120, null, null, null], [326184, null, null, null], [327902, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "John S. McCain Jr. entered a submarine service .", "id": 518}
+{"evidence": [[[266040, 263142, "The_Disaster_Artist_-LRB-film-RRB-", 5]]], "label": "SUPPORTS", "claim": "a Monster is a work of art .", "id": 519}
+{"evidence": [[[63037, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the cinematography of Far from the Madding Crowd was by an English athlete .", "id": 520}
+{"evidence": [[[168103, 181863, "Amyotrophic_lateral_sclerosis", 15]]], "label": "REFUTES", "claim": "Dan Brown is a author of a bestselling novel from 2003 .", "id": 521}
+{"evidence": [[[21562, 26516, "Armenian_Genocide", 0]]], "label": "REFUTES", "claim": "Pitch Perfect 2 centers on a auto - tune singing group .", "id": 522}
+{"evidence": [[[255549, 254983, "Dreamer_-LRB-2005_film-RRB-", 0]]], "label": "SUPPORTS", "claim": "Maximum Overdrive is a 1986 science fiction action horror comedy film written and led by Stephen King .", "id": 523}
+{"evidence": [[[194751, 205119, "Manmohan_Singh", 1]]], "label": "REFUTES", "claim": "Dan Trachtenberg has refused to host a podcasts .", "id": 524}
+{"evidence": [[[201136, 210589, "The_Endless_River", 0], [201136, 210589, "Pink_Floyd", 0]]], "label": "REFUTES", "claim": "the Tracey Fragments had a hiatus on September 12 .", "id": 525}
+{"evidence": [[[221275, 226918, "Yandex", 9]]], "label": "SUPPORTS", "claim": "the Church of Jesus Christ of Latter - day Saints has a mass .", "id": 526}
+{"evidence": [[[182692, 194876, "Penibaetic_System", 0]]], "label": "REFUTES", "claim": "Kareem Abdul - Jabbar is ranked 3rd all - time in rebounds .", "id": 527}
+{"evidence": [[[270830, 266812, "New_Orleans_Pelicans", 1], [270830, 266812, "Western_Conference_-LRB-NBA-RRB-", 20], [270830, 266812, "Western_Conference_-LRB-NBA-RRB-", 21]]], "label": "REFUTES", "claim": "Nero never sparked a brief period of civil wars .", "id": 528}
+{"evidence": [[[270513, null, null, null], [270514, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Washington Monument is made of wood .", "id": 529}
+{"evidence": [[[152513, null, null, null], [152516, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Beverly Hillbillies ranked as the number one series of the year twice .", "id": 530}
+{"evidence": [[[104019, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Office ( US ) ran for nine seasons .", "id": 531}
+{"evidence": [[[275483, null, null, null], [277323, null, null, null], [277827, null, null, null], [277829, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Washington Monument is west of the Lincoln Memorial .", "id": 532}
+{"evidence": [[[129467, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Chinatown is a 1874 film led by Roman Polanski .", "id": 533}
+{"evidence": [[[122766, 137054, "Duane_Chapman", 0]]], "label": "REFUTES", "claim": "the Maltese language is the national language of Malta .", "id": 534}
+{"evidence": [[[264408, 261869, "Brubaker", 0]]], "label": "REFUTES", "claim": "the Icelandic Coast Guard is rarely responsible for Iceland's coastal defense .", "id": 535}
+{"evidence": [[[199062, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Fuller House ( TV series ) is a television series' sequel .", "id": 536}
+{"evidence": [[[108939, 122649, "John_Krasinski", 0]], [[108939, 122650, "John_Krasinski", 1]], [[108939, 122651, "John_Krasinski", 5]], [[108939, 122652, "John_Krasinski", 6]], [[108939, 122653, "John_Krasinski", 2]]], "label": "SUPPORTS", "claim": "Yemen has a area of 203,850 square miles .", "id": 537}
+{"evidence": [[[232005, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Catcher in the Rye is not a novel .", "id": 538}
+{"evidence": [[[127496, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Jeb Bush is Barbara Bush .", "id": 539}
+{"evidence": [[[80404, 92238, "Neil_Diamond", 0]]], "label": "REFUTES", "claim": "Pythagoras is unassociated with Pythagoras .", "id": 540}
+{"evidence": [[[26532, 32571, "How_to_Train_Your_Dragon_2", 11]]], "label": "SUPPORTS", "claim": "a Vandals were first heard of on a phonograph .", "id": 541}
+{"evidence": [[[126646, 141065, "The_Mighty_Ducks", 0]]], "label": "REFUTES", "claim": "the Hunger Games is a book .", "id": 542}
+{"evidence": [[[225655, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Sabbir Khan led Kambakkht Ishq entirely in France .", "id": 543}
+{"evidence": [[[241391, 242929, "Brad_Wilk", 4]]], "label": "SUPPORTS", "claim": "the film The Good German starred George Clooney .", "id": 544}
+{"evidence": [[[218409, 224702, "The_Hurt_Locker", 0]]], "label": "SUPPORTS", "claim": "Heath Ledger won awards while he was alive .", "id": 545}
+{"evidence": [[[236105, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Azithromycin is available under a brand name .", "id": 546}
+{"evidence": [[[183956, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Kevin Bacon was in a film Sleepers .", "id": 547}
+{"evidence": [[[203707, 212676, "Aunt_May", 9]]], "label": "SUPPORTS", "claim": "Jack Dylan Grazer are Angela Lafever and Gavin Grazer .", "id": 548}
+{"evidence": [[[194730, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a thunderstorm produces nothing .", "id": 549}
+{"evidence": [[[147477, 162474, "Sam_Claflin", 1]]], "label": "SUPPORTS", "claim": "Joni Mitchell released a album in India .", "id": 550}
+{"evidence": [[[43165, 51804, "Tottenham_Hotspur_F.C.", 0]], [[43303, 51946, "Tottenham_Hotspur_F.C.", 0]]], "label": "SUPPORTS", "claim": "Raven - Symon\u00e9 turned down a appearances in Empire .", "id": 551}
+{"evidence": [[[237952, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Thin Red Line ( 1998 film ) portrays soldiers .", "id": 552}
+{"evidence": [[[237975, 240140, "Tamerlan_Tsarnaev", 1]], [[237975, 240142, "Tamerlan_Tsarnaev", 8]], [[237975, 240143, "Tamerlan_Tsarnaev", 9]]], "label": "SUPPORTS", "claim": "Northwestern University is the just private university of the Big Ten Conference since 1968 .", "id": 553}
+{"evidence": [[[121339, 135634, "White_House_Press_Secretary", 0]], [[121339, 135635, "White_House_Press_Secretary", 7]]], "label": "SUPPORTS", "claim": "Hammer Film productions produced the Woman in Black in 2012 in Canada .", "id": 554}
+{"evidence": [[[260872, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Marvel Comics character Daredevil is the basis for the TV series of the same name .", "id": 555}
+{"evidence": [[[203324, 212368, "The_Cry_of_the_Owl_-LRB-2009_film-RRB-", 0]]], "label": "REFUTES", "claim": "Morgan Fairchild was Paper Dolls .", "id": 556}
+{"evidence": [[[135232, 150151, "Qui-Gon_Jinn", 0]]], "label": "SUPPORTS", "claim": "the Monster features guest vocals from Mariah Carey .", "id": 557}
+{"evidence": [[[116901, 130770, "Papua_-LRB-province-RRB-", 3]]], "label": "SUPPORTS", "claim": "The Hunger Games film series' first film was directed by a gorilla .", "id": 558}
+{"evidence": [[[225647, 230271, "Ian_Brennan_-LRB-writer-RRB-", 0]], [[225648, 230272, "Ian_Brennan_-LRB-writer-RRB-", 0]]], "label": "SUPPORTS", "claim": "Parkinson causes slowness of voluntary movement .", "id": 559}
+{"evidence": [[[154120, 168895, "Tremont_Street_Subway", 2]], [[154120, 168896, "Tremont_Street_Subway", 5]], [[154120, 168897, "Tremont_Street_Subway", 6]]], "label": "REFUTES", "claim": "a polynomial is an expression and it is important in mathematics .", "id": 560}
+{"evidence": [[[100577, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "January 14th , 2004 is a date when Uta Hagan died .", "id": 561}
+{"evidence": [[[199081, 208765, "Matteo_Renzi", 0]]], "label": "SUPPORTS", "claim": "Sonny & Cher began in a mid-1930's .", "id": 562}
+{"evidence": [[[96415, 109575, "Chris_Eubank_Jr.", 0]]], "label": "REFUTES", "claim": "John DiMaggio did a voice - .", "id": 563}
+{"evidence": [[[50705, 60312, "Henry_II_of_France", 15]]], "label": "SUPPORTS", "claim": "Raja Hindustani is only a 1993 drama film .", "id": 564}
+{"evidence": [[[203213, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Siege of Fort Stanwix ended in disarray .", "id": 565}
+{"evidence": [[[124660, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Research is used to test a validity of procedures .", "id": 566}
+{"evidence": [[[136338, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Robert Lorenz directed Trouble with a Curve .", "id": 567}
+{"evidence": [[[149782, 164726, "Melancholia_-LRB-2011_film-RRB-", 0]]], "label": "REFUTES", "claim": "the Fly is only a Canadian film .", "id": 568}
+{"evidence": [[[48764, 58077, "Duane_Chapman", 0]]], "label": "SUPPORTS", "claim": "Hermit crabs are crustaceans in a superfamily Paguroidea .", "id": 569}
+{"evidence": [[[93934, 106887, "Jose\u0301_Ferrer", 4]]], "label": "SUPPORTS", "claim": "the Washington Monument is a copy of the Lincoln Memorial .", "id": 570}
+{"evidence": [[[237977, 240144, "Tamerlan_Tsarnaev", 8]]], "label": "SUPPORTS", "claim": "the University of Leicester helped to discover the remains of a king .", "id": 571}
+{"evidence": [[[140863, 155999, "Ingushetia", 5]]], "label": "REFUTES", "claim": "Sweet Home Alabama is a song that was written in reply to Neil Young's song Alabama .", "id": 572}
+{"evidence": [[[240857, 242458, "Down_with_Love", 0]]], "label": "SUPPORTS", "claim": "Doug Petrie made a cameo in Dr. Horrible's Sing - Along Blog as \" Professor Normal \" .", "id": 573}
+{"evidence": [[[105317, 118763, "Henry_II_of_France", 15]]], "label": "SUPPORTS", "claim": "Coins of the Swiss franc are just unofficial coins .", "id": 574}
+{"evidence": [[[138085, 153032, "Carlos_Santana", 0]]], "label": "SUPPORTS", "claim": "the New Jersey Turnpike has 10 foot shoulders from mile marker 39 to mile marker 56 .", "id": 575}
+{"evidence": [[[50705, 60312, "Henry_II_of_France", 15]]], "label": "SUPPORTS", "claim": "Raja Hindustani is a 1993 drama romance film .", "id": 576}
+{"evidence": [[[237969, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "General Motors' non - automotive products divested in a 1980s through 2000s .", "id": 577}
+{"evidence": [[[183419, 195421, "Guatemala", 16]]], "label": "SUPPORTS", "claim": "1961 was a year Yves Saint Laurent was founded .", "id": 578}
+{"evidence": [[[227068, 231483, "Bea_Arthur", 0]], [[227069, 231484, "Bea_Arthur", 0]]], "label": "REFUTES", "claim": "the American Civil War was fought by volunteers and conscripts .", "id": 579}
+{"evidence": [[[81530, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Elizabeth of York was British .", "id": 580}
+{"evidence": [[[137469, 152340, "Camden,_New_Jersey", 40]]], "label": "REFUTES", "claim": "Yves Saint Laurent a fashion house was founded in 1961 .", "id": 581}
+{"evidence": [[[132302, 147198, "Heart", 19]]], "label": "SUPPORTS", "claim": "Gray Matters was just released in 2001 .", "id": 582}
+{"evidence": [[[237936, 240102, "Tamerlan_Tsarnaev", 0], [237936, 240102, "Tamerlan_Tsarnaev", 1]], [[237936, 240103, "Tamerlan_Tsarnaev", 9]], [[237936, 240104, "Tamerlan_Tsarnaev", 13]], [[237947, 240110, "Tamerlan_Tsarnaev", 0], [237947, 240110, "Tamerlan_Tsarnaev", 1]], [[237947, 240111, "Tamerlan_Tsarnaev", 1], [237947, 240111, "Dzhokhar_Tsarnaev", 0], [237947, 240111, "Dzhokhar_Tsarnaev", 1]]], "label": "SUPPORTS", "claim": "a 66th Primetime Emmy Awards was hosted by an Iraqi comedian born in 1973 .", "id": 583}
+{"evidence": [[[171166, 184682, "The_Good_Wife", 12]]], "label": "REFUTES", "claim": "Parkinson has afflicted professional boxer Muhammad Ali .", "id": 584}
+{"evidence": [[[69601, 80423, "Sean_Penn", 1], [69601, 80423, "Mystic_River_-LRB-film-RRB-", 0], [69601, 80423, "Milk_-LRB-film-RRB-", 0]], [[69601, 80424, "Sean_Penn", 5], [69601, 80424, "Taps_-LRB-film-RRB-", 0]], [[69601, 80425, "Sean_Penn", 6], [69601, 80425, "Cannes_Film_Festival_Award_for_Best_Actor", 0]], [[69601, 80426, "Sean_Penn", 8], [69601, 80426, "Hurlyburly_-LRB-film-RRB-", 0], [69601, 80426, "21_Grams", 0]]], "label": "SUPPORTS", "claim": "the Visigoths converted from Arianism to Nicene Christianity in 589 under Reccared I.", "id": 585}
+{"evidence": [[[158224, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Henri Kontinen won the Australian Open men championship .", "id": 586}
+{"evidence": [[[26010, null, null, null], [300688, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The thought of a coup d'\u00e9tat was floated in Cyprus .", "id": 587}
+{"evidence": [[[120820, 135125, "Henry_II_of_France", 13]]], "label": "SUPPORTS", "claim": "the Fame sold 4.7 million digital copies through the Apple store .", "id": 588}
+{"evidence": [[[201147, 210600, "The_Endless_River", 0], [201147, 210600, "Pink_Floyd", 0], [201147, 210600, "Pink_Floyd", 5]]], "label": "REFUTES", "claim": "a Catcher in the Rye is a bar .", "id": 589}
+{"evidence": [[[213725, 220885, "Finding_Dory", 1]], [[213726, 220886, "Finding_Dory", 1]]], "label": "REFUTES", "claim": "Raven - Symon\u00e9 plays a role of the protagonist , Olivia .", "id": 590}
+{"evidence": [[[43346, 51999, "T2_Trainspotting", 0]]], "label": "SUPPORTS", "claim": "Phoenix , Arizona is a capital of Arizona .", "id": 591}
+{"evidence": [[[136402, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Weill Cornell Medicine has been a place that has had no affiliation with research whatsoever .", "id": 592}
+{"evidence": [[[270526, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Selma and Montgomery marches were rarely a part of a broader voting rights movement throughout the American South .", "id": 593}
+{"evidence": [[[183989, 195965, "Dan_O'Bannon", 0]]], "label": "REFUTES", "claim": "a Cyclades are a group of landlocked towns in Kentucky .", "id": 594}
+{"evidence": [[[290296, 283330, "Magic_Johnson", 1]], [[291649, 284550, "Magic_Johnson", 1]], [[293768, 286204, "Magic_Johnson", 1]], [[338258, 323482, "Magic_Johnson", 1]], [[338300, 323512, "Magic_Johnson", 1]]], "label": "SUPPORTS", "claim": "the Independent Spirit Awards are held the day before the Academy Awards in Santa Monica .", "id": 595}
+{"evidence": [[[182116, 194383, "Justine_Bateman", 0]], [[182116, 194384, "Justine_Bateman", 1]]], "label": "SUPPORTS", "claim": "Bala has a experience directing .", "id": 596}
+{"evidence": [[[254090, null, null, null], [255756, null, null, null], [320177, null, null, null], [320970, null, null, null], [320972, null, null, null], [320975, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Virginia exports crops .", "id": 597}
+{"evidence": [[[271153, 267093, "Giada_at_Home", 1], [271153, 267093, "Food_Network", 0]]], "label": "SUPPORTS", "claim": "Jack Lowden had a award - winning five - year stage career .", "id": 598}
+{"evidence": [[[218296, 224608, "Eva_Mendes", 0]]], "label": "SUPPORTS", "claim": "the Challenge XXX : Dirty 30 is a season of the year .", "id": 599}
+{"evidence": [[[283005, null, null, null], [284903, null, null, null], [331456, null, null, null], [331463, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the current Duke of York has no male heirs as of 2011 .", "id": 600}
+{"evidence": [[[40607, 48833, "XHamster", 6], [40607, 48833, "The_Sex_Factor", 0]]], "label": "SUPPORTS", "claim": "Issa Rae created the Galactic Empire .", "id": 601}
+{"evidence": [[[203014, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Chinatown's screenplay had a writer .", "id": 602}
+{"evidence": [[[88649, 101279, "Jennifer_Lopez", 4]], [[88663, 101293, "Jennifer_Lopez", 4]], [[88663, 101294, "Jennifer_Lopez", 7], [88663, 101294, "J.Lo_-LRB-album-RRB-", 17]], [[88663, 101295, "Jennifer_Lopez", 13], [88663, 101295, "Como_Ama_una_Mujer", 12]], [[88663, 101296, "Jennifer_Lopez", 14]]], "label": "SUPPORTS", "claim": "Kevin Bacon was in a film Sleepers in 2006 .", "id": 603}
+{"evidence": [[[203381, 212414, "Artpop", 0]], [[203381, 212415, "Artpop", 1]]], "label": "REFUTES", "claim": "the wedding of Prince Charles and Lady Diana was in London , UK .", "id": 604}
+{"evidence": [[[144333, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The IPhone 4 was marketed by Google .", "id": 605}
+{"evidence": [[[237487, 239694, "North_Vietnam", 0]]], "label": "SUPPORTS", "claim": "the Raven ( 2012 film ) was released the United States in 2012 .", "id": 606}
+{"evidence": [[[256008, null, null, null], [256009, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the American Civil War ended in 1860 .", "id": 607}
+{"evidence": [[[252361, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Benjamin Walker ( actor ) is a stand .", "id": 608}
+{"evidence": [[[162873, 177101, "I_Kissed_a_Girl", 0], [162873, 177101, "One_of_the_Boys_-LRB-Katy_Perry_album-RRB-", 0]]], "label": "REFUTES", "claim": "Estelle Getty was a actress .", "id": 609}
+{"evidence": [[[80941, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a End of Time is the Tenth Doctor's final adventure , terminating in his death .", "id": 610}
+{"evidence": [[[166097, 180027, "Charles_Manson", 0]]], "label": "SUPPORTS", "claim": "a staging area is a location where organisms are examined before use .", "id": 611}
+{"evidence": [[[282184, 276402, "The_Bahamas", 1]], [[282184, 276403, "The_Bahamas", 0]], [[284190, 278044, "The_Bahamas", 0]], [[284204, 278058, "The_Bahamas", 0]], [[330168, 316796, "The_Bahamas", 0]], [[330169, 316797, "The_Bahamas", 0], [330169, 316797, "Archipelagic_state", 0]], [[330169, 316798, "The_Bahamas", 1]], [[330169, 316799, "The_Bahamas", 2], [330169, 316799, "Nassau,_Bahamas", 0]], [[330170, 316800, "The_Bahamas", 0]]], "label": "REFUTES", "claim": "the Alfred P. Murrah Federal Building was a United States federal government complex .", "id": 612}
+{"evidence": [[[292584, 285326, "Peking_University", 0]], [[294587, 286831, "Peking_University", 4]], [[340428, 325073, "Peking_University", 0]], [[340428, 325074, "Peking_University", 1]], [[340428, 325075, "Peking_University", 2]]], "label": "REFUTES", "claim": "a Monster is a restaurant by an American rapper .", "id": 613}
+{"evidence": [[[240801, 242413, "Glee.com", 1]]], "label": "SUPPORTS", "claim": "the soundtrack of Far from the Madding Crowd was only by a French composer .", "id": 614}
+{"evidence": [[[118190, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Richard Dawson was a game host in the United States .", "id": 615}
+{"evidence": [[[172283, 185644, "Bee_Gees", 6]]], "label": "SUPPORTS", "claim": "Maria Theresa was born in 1740 .", "id": 616}
+{"evidence": [[[241303, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Maze Runner is a narrative in a visual medium .", "id": 617}
+{"evidence": [[[39626, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "See You on the Other Side was involved with the production team of the Truman Show .", "id": 618}
+{"evidence": [[[106249, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Gettysburg Address was criticized by a politician .", "id": 619}
+{"evidence": [[[262164, 260212, "Bullitt", 0]]], "label": "SUPPORTS", "claim": "the current Duke of York is Prince Andrew as of 2010 .", "id": 620}
+{"evidence": [[[282666, 276808, "Michigan", 2]], [[284597, 278377, "Michigan", 2]], [[285419, 279041, "Michigan", 2]], [[285420, 279042, "Michigan", 2]], [[330829, 317366, "Michigan", 2]], [[330833, 317370, "Michigan", 2]]], "label": "REFUTES", "claim": "Loretta Sanchez is just a lawyer .", "id": 621}
+{"evidence": [[[144562, 159578, "Wish_Upon", 0]]], "label": "REFUTES", "claim": "PBS is British .", "id": 622}
+{"evidence": [[[74202, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Love Club EP is the debut extended play by Banks .", "id": 623}
+{"evidence": [[[103609, 117055, "South_African_Communist_Party", 2], [103609, 117055, "Congress_of_South_African_Trade_Unions", 0], [103609, 117055, "Tripartite_Alliance", 0], [103609, 117055, "African_National_Congress", 0]]], "label": "SUPPORTS", "claim": "the Tracey Fragments played at the 2007 Toronto International Film Festival .", "id": 624}
+{"evidence": [[[111571, 125347, "Uranium-235", 6], [111571, 125347, "Arthur_Jeffrey_Dempster", 0]]], "label": "SUPPORTS", "claim": "Antigua and Barbuda was named after a invocation of the Virgin Mary .", "id": 625}
+{"evidence": [[[154158, null, null, null], [154160, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Bengal tiger is a member of the smallest cat species .", "id": 626}
+{"evidence": [[[91600, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Indiana Pacers were established as an ABA member .", "id": 627}
+{"evidence": [[[61393, 71902, "Reign_Over_Me", 4]], [[61393, 71903, "Reign_Over_Me", 5]]], "label": "SUPPORTS", "claim": "Road House is just a book .", "id": 628}
+{"evidence": [[[123633, 138050, "Jack_Falahee", 0]]], "label": "SUPPORTS", "claim": "Phoenix , Arizona is a capital of the Atlantic Ocean .", "id": 629}
+{"evidence": [[[42204, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Alfred P. Murrah Federal Building was located in the geographic center of the Oklahoma City metropolitan area .", "id": 630}
+{"evidence": [[[236634, null, null, null], [236636, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Joseph Merrick had nothing to do with a play The Elephant Man .", "id": 631}
+{"evidence": [[[214307, 221390, "Ernest_Medina", 2]], [[214307, 221391, "Ernest_Medina", 3]]], "label": "REFUTES", "claim": "There was a show called the Wonder Years .", "id": 632}
+{"evidence": [[[135037, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "China is a world's third largest economy by GDP .", "id": 633}
+{"evidence": [[[116725, 130607, "The_Godfather_Part_II", 0]]], "label": "REFUTES", "claim": "Morgan Fairchild just acts as background characters .", "id": 634}
+{"evidence": [[[175972, 188937, "Penguin_Books", 2]]], "label": "REFUTES", "claim": "Scream incorporates acting by just five actors .", "id": 635}
+{"evidence": [[[93174, 106087, "University_of_Mississippi", 4]]], "label": "SUPPORTS", "claim": "a Catcher in the Rye is a fictional literary work .", "id": 636}
+{"evidence": [[[269547, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "One of Macklemore was born in Texas in May.", "id": 637}
+{"evidence": [[[62478, 73102, "Seohyun", 0]]], "label": "SUPPORTS", "claim": "Padua is a religion of the province of Padua .", "id": 638}
+{"evidence": [[[162342, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The New England Patriots owns a record for least Super Bowls reached .", "id": 639}
+{"evidence": [[[237495, 239701, "North_Vietnam", 0]]], "label": "SUPPORTS", "claim": "a Paper stars Marisa Tomei .", "id": 640}
+{"evidence": [[[139990, 154997, "The_Bahamas", 0]]], "label": "REFUTES", "claim": "The Paper was just released in 1894 .", "id": 641}
+{"evidence": [[[208646, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Beguiled had a script .", "id": 642}
+{"evidence": [[[166201, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Freddie Highmore is not a actor .", "id": 643}
+{"evidence": [[[110206, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Church of Jesus Christ of Latter - day Saints has a fasting law .", "id": 644}
+{"evidence": [[[194099, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Annie is a just a painting .", "id": 645}
+{"evidence": [[[255559, 254992, "Dreamer_-LRB-2005_film-RRB-", 0]], [[255559, 254993, "Dreamer_-LRB-2005_film-RRB-", 1]], [[255559, 254994, "Dreamer_-LRB-2005_film-RRB-", 4]], [[255559, 254995, "Dreamer_-LRB-2005_film-RRB-", 3]], [[255559, 254996, "Dreamer_-LRB-2005_film-RRB-", 5]]], "label": "REFUTES", "claim": "Freddie Highmore starred in a television series Bates Motel as Norman Bates .", "id": 646}
+{"evidence": [[[168709, 182428, "Fidel_Castro", 7]]], "label": "REFUTES", "claim": "Dawood Ibrahim is from a noble family .", "id": 647}
+{"evidence": [[[112593, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a End of Time is a Tenth Doctor adventure .", "id": 648}
+{"evidence": [[[170866, 184420, "Mike_Huckabee", 0]]], "label": "REFUTES", "claim": "Ares is a nephew of Zeus and Hera .", "id": 649}
+{"evidence": [[[289731, null, null, null], [291116, null, null, null], [293222, null, null, null], [337126, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Emmanuel Macron refused to work as a Inspector of Finances .", "id": 650}
+{"evidence": [[[53006, 62949, "Highway_to_Heaven", 0]]], "label": "SUPPORTS", "claim": "a ovary is a Spanish organ .", "id": 651}
+{"evidence": [[[296476, 288313, "Dan_O'Bannon", 0]], [[298062, 289611, "Dan_O'Bannon", 0]], [[300216, 291470, "Dan_O'Bannon", 0]], [[343239, 327060, "Dan_O'Bannon", 0]], [[343809, 327476, "Dan_O'Bannon", 0]]], "label": "REFUTES", "claim": "the Little Prince ( 2015 film ) is a English - language film .", "id": 652}
+{"evidence": [[[226473, 231034, "Eighth_Doctor", 0], [226473, 231034, "BBC", 1]]], "label": "REFUTES", "claim": "a Vandals were first heard of in Krakow .", "id": 653}
+{"evidence": [[[53591, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Benjamin Franklin rarely was a author .", "id": 654}
+{"evidence": [[[30303, 36900, "Aaron_Burr", 9], [30303, 36900, "Burr\u2013Hamilton_duel", 0]]], "label": "REFUTES", "claim": "Nero sparked a brief period of dancing .", "id": 655}
+{"evidence": [[[82122, 93908, "Philomena_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "the Romani people have moved from Brazil to other countries in South America .", "id": 656}
+{"evidence": [[[90738, 103450, "Rachel_Green", 0]]], "label": "REFUTES", "claim": "B. R. Ambedkar was in a military .", "id": 657}
+{"evidence": [[[144145, 159202, "Thomas_Jefferson", 28]]], "label": "REFUTES", "claim": "John S. McCain Jr. registered into a submarine service .", "id": 658}
+{"evidence": [[[28309, 34624, "White_House_Press_Secretary", 0]]], "label": "SUPPORTS", "claim": "the Washington Monument is north of the Lincoln Memorial .", "id": 659}
+{"evidence": [[[298815, 290210, "Tom_Baker_-LRB-English_actor-RRB-", 0]], [[298815, 290211, "Tom_Baker_-LRB-English_actor-RRB-", 1]]], "label": "SUPPORTS", "claim": "Sacre - Coeur , Paris is a embodiment of conservative moral order .", "id": 660}
+{"evidence": [[[105027, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Lorelai Gilmore's father is unshown on a show , and his name remains unknown .", "id": 661}
+{"evidence": [[[226473, 231034, "Eighth_Doctor", 0], [226473, 231034, "BBC", 1]]], "label": "REFUTES", "claim": "the Vandals were first heard of in Krakow .", "id": 662}
+{"evidence": [[[70409, 81271, "John_Deighton", 15]]], "label": "SUPPORTS", "claim": "The Block ( album ) was released by a band the New Kids on the Block in 1998 .", "id": 663}
+{"evidence": [[[228779, 232897, "Albert_S._Ruddy", 0]]], "label": "REFUTES", "claim": "Alexandria serves 80% of Egypt and exports .", "id": 664}
+{"evidence": [[[47876, 57150, "Trevor_Griffiths", 0]]], "label": "REFUTES", "claim": "Timur was a emir .", "id": 665}
+{"evidence": [[[60923, 71384, "Murda_Beatz", 0]]], "label": "SUPPORTS", "claim": "There is one season of GLOW at present .", "id": 666}
+{"evidence": [[[53500, 63498, "Stan_Beeman", 0]]], "label": "SUPPORTS", "claim": "the Fly is exclusively a novel .", "id": 667}
+{"evidence": [[[223869, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Premier League Asia Trophy was formerly called the Academy Award .", "id": 668}
+{"evidence": [[[149838, 164765, "Duane_Chapman", 0]]], "label": "REFUTES", "claim": "Moscovium is a element .", "id": 669}
+{"evidence": [[[298233, 289768, "Kesha", 0]], [[343532, 327302, "Kesha", 0]], [[343538, 327310, "Kesha", 0]]], "label": "SUPPORTS", "claim": "Joseph Merrick was a inspiration for The Elephant Man beer .", "id": 670}
+{"evidence": [[[269609, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Lorelai Gilmore's mother remains a offscreen and unvoiced character for the entire length of the show .", "id": 671}
+{"evidence": [[[259717, 258272, "Hanford_Site", 23], [259717, 258272, "Pacific_Northwest_National_Laboratory", 0]]], "label": "SUPPORTS", "claim": "the Punisher is exclusively a comic book .", "id": 672}
+{"evidence": [[[58266, 68507, "Kellogg's", 0]], [[58266, 68508, "Kellogg's", 1]], [[58266, 68509, "Kellogg's", 2]], [[58266, 68510, "Kellogg's", 6]], [[58266, 68511, "Kellogg's", 7]], [[58266, 68512, "Kellogg's", 8]]], "label": "REFUTES", "claim": "Aphrodite is a daughter of a lawyer in Homer's Iliad .", "id": 673}
+{"evidence": [[[211411, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Medical school around a world vary in admission criteria .", "id": 674}
+{"evidence": [[[121831, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Icelandic Coast Guard is known as Gaeslan and it is important to modern infrastructure .", "id": 675}
+{"evidence": [[[239338, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a X - Files had award - winning seasons .", "id": 676}
+{"evidence": [[[231955, 235258, "Luke_Cage", 2]]], "label": "SUPPORTS", "claim": "A thunderstorm is a storm .", "id": 677}
+{"evidence": [[[201112, 210563, "The_Endless_River", 0]], [[201114, 210564, "The_Endless_River", 0]]], "label": "REFUTES", "claim": "John Goodman starred in a awards show .", "id": 678}
+{"evidence": [[[81024, 92873, "Martin_Van_Buren", 0]]], "label": "REFUTES", "claim": "the New Jersey Turnpike has 12 meter lanes .", "id": 679}
+{"evidence": [[[197398, 207442, "Lalla_Ward", 0]]], "label": "REFUTES", "claim": "the Burj Khalifa is a tall building with 163 floors .", "id": 680}
+{"evidence": [[[181184, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "A staging area is an unused piece of land .", "id": 681}
+{"evidence": [[[72935, 84072, "Kelly_Preston", 3]], [[77157, 88581, "Kelly_Preston", 3]], [[78079, 89568, "Kelly_Preston", 3]], [[305754, 296554, "Kelly_Preston", 3]], [[307034, 297576, "Kelly_Preston", 3]]], "label": "REFUTES", "claim": "the Dodo has been depicted with plumage .", "id": 682}
+{"evidence": [[[172754, 186026, "Edmund_H._North", 0], [172754, 186026, "Pisces_-LRB-astrology-RRB-", 2]]], "label": "REFUTES", "claim": "Stomp a Yard features an American actress born in 1981 in a prominent role .", "id": 683}
+{"evidence": [[[214793, 221786, "Premam", 0]]], "label": "REFUTES", "claim": "Chumlee is a stage name of Tom Brady .", "id": 684}
+{"evidence": [[[60132, 70549, "DNA_-LRB-Little_Mix_album-RRB-", 0]], [[60132, 70550, "DNA_-LRB-Little_Mix_album-RRB-", 4]], [[60132, 70551, "DNA_-LRB-Little_Mix_album-RRB-", 7]]], "label": "SUPPORTS", "claim": "the Hit is a film .", "id": 685}
+{"evidence": [[[255485, 254935, "Private_Lives", 0]]], "label": "REFUTES", "claim": "Nawaz Sharif is from the United States .", "id": 686}
+{"evidence": [[[26277, null, null, null], [28009, null, null, null], [302622, null, null, null], [304351, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Northwestern University is the just private college of the Big Ten Conference .", "id": 687}
+{"evidence": [[[132484, 147401, "Juventus_F.C.", 1]]], "label": "SUPPORTS", "claim": "the Brat Pack frequently appeared together in video games in the 1980s .", "id": 688}
+{"evidence": [[[37985, 45905, "John_Dolmayan", 0]]], "label": "REFUTES", "claim": "the Guthrie Theater's second building stopped operating in 2006 .", "id": 689}
+{"evidence": [[[124998, 139329, "Bee_Gees", 6]]], "label": "REFUTES", "claim": "George Clooney starred in a film The Good German .", "id": 690}
+{"evidence": [[[112420, 126262, "Joe_Walsh", 24]]], "label": "SUPPORTS", "claim": "the New England Patriots won blue Super Bowls .", "id": 691}
+{"evidence": [[[194762, 205128, "Manmohan_Singh", 1]]], "label": "REFUTES", "claim": "Laura Robson lost the Wimbledon Junior Girls .", "id": 692}
+{"evidence": [[[198614, 208408, "Selena_Gomez_&_the_Scene", 3]], [[198618, 208412, "Selena_Gomez_&_the_Scene", 3]]], "label": "REFUTES", "claim": "the Suite Life of Zack & Cody was hated by Danny Kallis .", "id": 693}
+{"evidence": [[[215916, 222667, "Bradley_Fuller", 0]]], "label": "REFUTES", "claim": "One Flew Over the Cuckoo's Nest won the five major Academy Awards a year it was released , the second film to do so .", "id": 694}
+{"evidence": [[[214856, 221836, "Premam", 11]]], "label": "REFUTES", "claim": "Boeing 787 Dreamliner was originally called by a name .", "id": 695}
+{"evidence": [[[51256, 60980, "T2_Trainspotting", 0]]], "label": "SUPPORTS", "claim": "Chinatown is a 1974 novel .", "id": 696}
+{"evidence": [[[255549, 254983, "Dreamer_-LRB-2005_film-RRB-", 0]]], "label": "SUPPORTS", "claim": "Maximum Overdrive is a 1986 science action horror comedy film written and directed by Stephen King .", "id": 697}
+{"evidence": [[[111560, 125324, "Terry_Crews", 0]]], "label": "REFUTES", "claim": "The Challenge XXX : Dirty 30 is a event in The Challenge .", "id": 698}
+{"evidence": [[[47906, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Leonardo DiCaprio passed on the starring role in the Man in the Iron Mask .", "id": 699}
+{"evidence": [[[47764, 57032, "Chris_Kyle", 0]]], "label": "SUPPORTS", "claim": "the Ellen Show only stars Ellen DeGeneres .", "id": 700}
+{"evidence": [[[132872, 147779, "Tim_McGraw", 13], [132872, 147779, "Sandra_Bullock", 0]]], "label": "SUPPORTS", "claim": "the Indian National Congress was founded during the British Malaya .", "id": 701}
+{"evidence": [[[251681, 251500, "Mary-Kate_and_Ashley_Olsen", 0]]], "label": "SUPPORTS", "claim": "the Brat Pack is an award given to a group of young actors .", "id": 702}
+{"evidence": [[[42575, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Burj Khalifa contains 57 unused elevators .", "id": 703}
+{"evidence": [[[108463, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Alberto Contador was stripped of a presidency .", "id": 704}
+{"evidence": [[[236976, 239308, "Varsity_Blues_-LRB-film-RRB-", 5]], [[236979, 239311, "Varsity_Blues_-LRB-film-RRB-", 5], [236979, 239311, "Varsity_Blues_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "Anneliese van der Pol is a actress .", "id": 705}
+{"evidence": [[[206508, 214851, "World_Trade_Center_-LRB-1973\u20132001-RRB-", 1]]], "label": "REFUTES", "claim": "William Howard Taft just accepted offers of appointment to a federal court .", "id": 706}
+{"evidence": [[[104522, 117941, "Juventus_F.C.", 1], [104522, 117941, "Juventus_Stadium", 0]]], "label": "SUPPORTS", "claim": "Riz Ahmed is a award nominated singer .", "id": 707}
+{"evidence": [[[262075, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Danish language is spoken only outside of the United States .", "id": 708}
+{"evidence": [[[239378, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Vandals were an East Germanic tribe or group of tribes .", "id": 709}
+{"evidence": [[[49352, 58687, "Moonlight_-LRB-2016_film-RRB-", 6]]], "label": "SUPPORTS", "claim": "The Stanford prison experiment was a investigation into the causes of difficulties between guards and prisoners .", "id": 710}
+{"evidence": [[[132664, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Moves Like Jagger is on a move .", "id": 711}
+{"evidence": [[[133343, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Adam Lambert ended at number sixteen on the U.S. Billboard 200 chart .", "id": 712}
+{"evidence": [[[63848, null, null, null], [63849, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Cate Blanchett starred in a film The Good German .", "id": 713}
+{"evidence": [[[286456, null, null, null], [288206, null, null, null], [334468, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Hunger Games is a single project .", "id": 714}
+{"evidence": [[[149294, 164272, "Starrcade", 1]]], "label": "REFUTES", "claim": "Emmanuel Macron refused to work as a investment banker .", "id": 715}
+{"evidence": [[[76481, 87773, "David_Spade", 0]], [[76481, 87774, "David_Spade", 1]], [[76481, 87775, "David_Spade", 2], [76481, 87775, "Black_Sheep_-LRB-1996_film-RRB-", 0]]], "label": "SUPPORTS", "claim": "the culture of their Hispano - Roman subjects was gradually adopted by the Visigoths .", "id": 716}
+{"evidence": [[[262054, 260106, "Raabta_-LRB-song-RRB-", 0]]], "label": "SUPPORTS", "claim": "Jiang Wen is a actor .", "id": 717}
+{"evidence": [[[101648, 114895, "Janelle_Mona\u0301e", 0]]], "label": "SUPPORTS", "claim": "the Romani people went extinct around 1,000 years ago .", "id": 718}
+{"evidence": [[[166933, 180751, "Paramore", 0]]], "label": "REFUTES", "claim": "Deepika Padukone has played minor roles .", "id": 719}
+{"evidence": [[[239333, null, null, null], [239334, null, null, null], [239347, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Freddie Highmore has never been nominated for a Critics' Choice Television Award .", "id": 720}
+{"evidence": [[[44783, 53478, "Soyuz_-LRB-spacecraft-RRB-", 0]]], "label": "REFUTES", "claim": "the ovary is part of the male reproductive system .", "id": 721}
+{"evidence": [[[245434, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Sausage Party is a television show .", "id": 722}
+{"evidence": [[[154055, 168855, "Wish_Upon", 0]]], "label": "REFUTES", "claim": "Kojol did not receive the fourth highest civilian honour of a country .", "id": 723}
+{"evidence": [[[221697, 227267, "Matthias_Corvinus", 31], [221697, 227267, "Matthias_Corvinus", 0]]], "label": "SUPPORTS", "claim": "A Good Day to Die Hard was led by John Moore in 2008 .", "id": 724}
+{"evidence": [[[231991, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Tenth Doctor is absent for seasons 2 - 4 of Doctor Who .", "id": 725}
+{"evidence": [[[243005, 244290, "St._Anger", 0]]], "label": "REFUTES", "claim": "The Battle of the Trebia took place in a province of Piacenza in Roman Italy .", "id": 726}
+{"evidence": [[[85692, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Group of 15 is comprised of European countries .", "id": 727}
+{"evidence": [[[88646, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Milk is based on a life of a businessman .", "id": 728}
+{"evidence": [[[244450, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Alfred P. Murrah Federal Building was just located at 300 N.W. 5th Street .", "id": 729}
+{"evidence": [[[172879, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the position Betsy Hodges was elected to had a tenure of four years .", "id": 730}
+{"evidence": [[[149288, 164269, "Life", 0]], [[149289, 164270, "Life", 0]], [[149291, 164271, "Life", 0]]], "label": "SUPPORTS", "claim": "ASAP Rocky has directed music videos for others .", "id": 731}
+{"evidence": [[[84546, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Practical Magic is based on a 1994 novel .", "id": 732}
+{"evidence": [[[93240, 106176, "Janelle_Mona\u0301e", 0]], [[93248, 106179, "Janelle_Mona\u0301e", 0]], [[93248, 106180, "Janelle_Mona\u0301e", 1]], [[93248, 106181, "Janelle_Mona\u0301e", 4]], [[93248, 106182, "Janelle_Mona\u0301e", 6], [93248, 106182, "Tightrope_-LRB-Janelle_Mona\u0301e_song-RRB-", 0]], [[93248, 106183, "Janelle_Mona\u0301e", 10]], [[93248, 106184, "Janelle_Mona\u0301e", 11]], [[93248, 106185, "Janelle_Mona\u0301e", 12]], [[93248, 106186, "Janelle_Mona\u0301e", 13]], [[93248, 106187, "Janelle_Mona\u0301e", 14]], [[93248, 106188, "Janelle_Mona\u0301e", 15]]], "label": "REFUTES", "claim": "Python features automatic memory management and is usable .", "id": 733}
+{"evidence": [[[258099, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the KGB was governed by Russian army laws and regulations .", "id": 734}
+{"evidence": [[[200768, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Aubrey Anderson - Emmons is a actress .", "id": 735}
+{"evidence": [[[25903, 31843, "Saxony", 0]], [[25903, 31844, "Saxony", 8]]], "label": "REFUTES", "claim": "The House of the Spirits is about a life of a young lady named Clara during the military dictatorship in Chile in 1988 .", "id": 736}
+{"evidence": [[[25352, 31268, "Horse", 2]]], "label": "REFUTES", "claim": "Coins of the Swiss franc are used just outside of Switzerland .", "id": 737}
+{"evidence": [[[114927, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Wonder Years was a sitcom .", "id": 738}
+{"evidence": [[[230065, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Catherine Hardwicke is Irish .", "id": 739}
+{"evidence": [[[41689, 50118, "Joe_Rogan", 7]]], "label": "SUPPORTS", "claim": "the Indian National Congress was founded in England .", "id": 740}
+{"evidence": [[[223640, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the New Jersey Turnpike has lanes .", "id": 741}
+{"evidence": [[[291503, 284423, "Camden,_New_Jersey", 0]], [[291503, 284424, "Camden,_New_Jersey", 2]], [[291503, 284425, "Camden,_New_Jersey", 4]], [[291503, 284426, "Camden,_New_Jersey", 6]], [[293586, 286068, "Camden,_New_Jersey", 2]], [[337652, 323019, "Camden,_New_Jersey", 0]], [[337665, 323029, "Camden,_New_Jersey", 0]]], "label": "REFUTES", "claim": "Jonah Hill ranked 28th on Forbes magazine of world's highest paid feet from June 2014 to June 2015 .", "id": 742}
+{"evidence": [[[200757, 210230, "Earl_Scruggs", 0]], [[200757, 210231, "Earl_Scruggs", 6]]], "label": "REFUTES", "claim": "the Ukrainian Soviet Socialist Republic became Ukraine before the founding of the United Nations .", "id": 743}
+{"evidence": [[[75530, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Maria Theresa reigned for just one year .", "id": 744}
+{"evidence": [[[183996, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The soundtrack of Far from the Madding Crowd was by George Clooney .", "id": 745}
+{"evidence": [[[120886, 135179, "Aristotle", 0]]], "label": "SUPPORTS", "claim": "the Nice Guys is an American photography magazine .", "id": 746}
+{"evidence": [[[22468, 27677, "Hundred_Years'_War", 21]]], "label": "SUPPORTS", "claim": "The Paper stars Samuel L. Jackson .", "id": 747}
+{"evidence": [[[160947, 175411, "Uranium-235", 6]]], "label": "SUPPORTS", "claim": "Bonaire was excluded from the Netherlands Antilles until a country's dissolution .", "id": 748}
+{"evidence": [[[67975, null, null, null], [70135, null, null, null], [70750, null, null, null], [303810, null, null, null], [305510, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Innovation is also viewed as the application of much better solutions that meet new requirements .", "id": 749}
+{"evidence": [[[101772, 115023, "Connie_Nielsen", 2]]], "label": "SUPPORTS", "claim": "Fred Seibert just has a career as a gospel record producer .", "id": 750}
+{"evidence": [[[236586, 239019, "Regina_King", 0]], [[236586, 239020, "Regina_King", 1]], [[236586, 239021, "Regina_King", 2]], [[236586, 239022, "Regina_King", 3]], [[236586, 239023, "Regina_King", 4]], [[236586, 239024, "Regina_King", 7]], [[236594, 239029, "Regina_King", 0]], [[236594, 239030, "Regina_King", 1]], [[236594, 239031, "Regina_King", 2]], [[236594, 239032, "Regina_King", 3]], [[236594, 239033, "Regina_King", 4]], [[236594, 239034, "Regina_King", 7]]], "label": "SUPPORTS", "claim": "Pitch Perfect 2 centers on an a cappella group .", "id": 751}
+{"evidence": [[[50160, 59688, "Byron_Howard", 1], [50160, 59688, "Zootopia", 0], [50160, 59688, "Zootopia", 2]], [[50160, 59689, "Byron_Howard", 2], [50160, 59689, "Zootopia", 2]]], "label": "REFUTES", "claim": "Henry III was a son of King John .", "id": 752}
+{"evidence": [[[18678, 22918, "Flaked", 2]]], "label": "SUPPORTS", "claim": "the Hunger Games is unwritten .", "id": 753}
+{"evidence": [[[93237, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Love Club EP is by Ella Marija Lani Yelich - O'Connor .", "id": 754}
+{"evidence": [[[168191, 181944, "AMGTV", 0]]], "label": "REFUTES", "claim": "Alex Jones's views are further right than the standard political right on a left - right spectrum .", "id": 755}
+{"evidence": [[[76311, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Challenge : Rivals III was on ABC .", "id": 756}
+{"evidence": [[[200468, 209972, "Sancho_Panza", 0]]], "label": "REFUTES", "claim": "the Raven ( 2012 film ) is unreleased .", "id": 757}
+{"evidence": [[[31011, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Pakistan Movement was the result of a series of transformations in Iraq .", "id": 758}
+{"evidence": [[[172861, 186110, "Poseidon_-LRB-film-RRB-", 6]]], "label": "REFUTES", "claim": "the mother of Elizabeth I was executed .", "id": 759}
+{"evidence": [[[75542, 86803, "Hush_-LRB-2016_film-RRB-", 2]]], "label": "SUPPORTS", "claim": "the Nottingham Forest F.C. is based outside Nottingham , England .", "id": 760}
+{"evidence": [[[127701, 142313, "Kesha", 0]]], "label": "REFUTES", "claim": "The Love Club EP is a sophomore extended play by Lorde .", "id": 761}
+{"evidence": [[[113169, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Ed Gein is not Plainfield , Wisconsin .", "id": 762}
+{"evidence": [[[216575, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the first series of Sensitive Skin aired in mid-2007 .", "id": 763}
+{"evidence": [[[30830, 37473, "Kendall_Jenner", 0]], [[30830, 37474, "Kendall_Jenner", 5]], [[30830, 37475, "Kendall_Jenner", 6]]], "label": "SUPPORTS", "claim": "a ovary is found in the legs .", "id": 764}
+{"evidence": [[[230054, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Aphrodite is married to Hephaestus .", "id": 765}
+{"evidence": [[[228773, 232891, "Albert_S._Ruddy", 0]]], "label": "REFUTES", "claim": "the Danish language is spoken in Egypt .", "id": 766}
+{"evidence": [[[75724, 86984, "Pearl_Jam", 8]], [[75724, 86985, "Pearl_Jam", 13]], [[75724, 86986, "Pearl_Jam", 14]]], "label": "SUPPORTS", "claim": "the Tenth Doctor is on the show through season 6 .", "id": 767}
+{"evidence": [[[114804, 128541, "Caroline_Kennedy", 0], [114804, 128541, "Twilight_-LRB-novel_series-RRB-", 0]]], "label": "REFUTES", "claim": "the Hit is a car .", "id": 768}
+{"evidence": [[[13131, 16426, "Colin_Kaepernick", 5]], [[13133, 16428, "Colin_Kaepernick", 5]]], "label": "REFUTES", "claim": "Award - winning four - year career is something Jack Lowden had .", "id": 769}
+{"evidence": [[[227049, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Fritz Lang led the film The Good German .", "id": 770}
+{"evidence": [[[108145, 121668, "Sean_Penn", 5]], [[108145, 121669, "Sean_Penn", 7]]], "label": "REFUTES", "claim": "the Gettysburg Address is a speech .", "id": 771}
+{"evidence": [[[201111, 210562, "The_Endless_River", 0]]], "label": "SUPPORTS", "claim": "Southern Hospitality was listed at number 23 on Rolling Stone's greatest songs of a time list .", "id": 772}
+{"evidence": [[[75924, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Clueless ( film ) was followed by a spin - sitcom .", "id": 773}
+{"evidence": [[[262166, 260214, "Bullitt", 0]], [[262167, 260215, "Bullitt", 0]]], "label": "REFUTES", "claim": "The Indian National Congress was founded outside of India .", "id": 774}
+{"evidence": [[[21370, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "MS-13 is .", "id": 775}
+{"evidence": [[[226496, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Boeing 767 is used for local flights .", "id": 776}
+{"evidence": [[[30451, 37052, "Luke_Cage", 6]]], "label": "SUPPORTS", "claim": "the Guthrie Theater's first building began operating in Texas .", "id": 777}
+{"evidence": [[[201864, 211220, "Artpop", 13]]], "label": "REFUTES", "claim": "Uranium uses a symbol U since 1963 .", "id": 778}
+{"evidence": [[[56550, 66742, "Bret_Easton_Ellis", 20], [56550, 66742, "The_Canyons_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "Dawood Ibrahim is originally from a monarchy of the Indian state of Maharashtra .", "id": 779}
+{"evidence": [[[118594, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Multicellular organisms excludes a animals .", "id": 780}
+{"evidence": [[[38279, 46218, "Faroe_Islands", 9]]], "label": "REFUTES", "claim": "Carey Hayes of birth was in April of 1961 .", "id": 781}
+{"evidence": [[[269574, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the SpongeBob SquarePants Movie is only a TV show .", "id": 782}
+{"evidence": [[[86602, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Maggie Q acts on stage .", "id": 783}
+{"evidence": [[[95707, 108750, "Sebastian_Stan", 1]]], "label": "SUPPORTS", "claim": "the soundtrack of Far from the Madding Crowd was by an English singer .", "id": 784}
+{"evidence": [[[199918, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Catherine Keener was passed up for a roles in Get Out .", "id": 785}
+{"evidence": [[[31456, 38182, "Shane_Black", 0]]], "label": "SUPPORTS", "claim": "the United States dollar is printed .", "id": 786}
+{"evidence": [[[210316, 218086, "Southpaw_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "the House of the Spirits lost German Film Awards .", "id": 787}
+{"evidence": [[[113838, 127701, "Kellyanne_Conway", 4]]], "label": "SUPPORTS", "claim": "Camp Flog Gnaw was created before Tyler , the Creator and Odd Future were born .", "id": 788}
+{"evidence": [[[276268, 271338, "Riverdale_-LRB-2017_TV_series-RRB-", 2]], [[278535, 273299, "Riverdale_-LRB-2017_TV_series-RRB-", 2]], [[280382, 274850, "Riverdale_-LRB-2017_TV_series-RRB-", 2]], [[280398, 274859, "Riverdale_-LRB-2017_TV_series-RRB-", 2]], [[325846, 313459, "Riverdale_-LRB-2017_TV_series-RRB-", 2]]], "label": "SUPPORTS", "claim": "the Punisher has nothing to do with Frank Castle .", "id": 789}
+{"evidence": [[[236647, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Adam Lambert was the first openly gay artist to top a album charts .", "id": 790}
+{"evidence": [[[90150, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Antigua is a airport .", "id": 791}
+{"evidence": [[[111471, 125126, "XHamster", 6], [111471, 125126, "The_Sex_Factor", 0]]], "label": "SUPPORTS", "claim": "the site of the battle of the Trebia was south from the confluence of the Po and Trebbia rivers .", "id": 792}
+{"evidence": [[[202999, 212126, "Christian_Gottlob_Neefe", 0]]], "label": "REFUTES", "claim": "The Atlanta metropolitan area spans just 10 counties .", "id": 793}
+{"evidence": [[[240814, 242426, "Glee.com", 1]], [[240815, 242427, "Glee.com", 1]]], "label": "REFUTES", "claim": "The University of Leicester contributed to a identification of the remains of King Richard III .", "id": 794}
+{"evidence": [[[124715, 139061, "Edison_Machine_Works", 0]]], "label": "SUPPORTS", "claim": "the Burj Khalifa contains escalators .", "id": 795}
+{"evidence": [[[200474, 209977, "Sancho_Panza", 0]]], "label": "SUPPORTS", "claim": "Nawaz Sharif has a record in politics .", "id": 796}
+{"evidence": [[[69435, 80236, "Aparshakti_Khurana", 0]], [[69435, 80237, "Aparshakti_Khurana", 2]]], "label": "SUPPORTS", "claim": "Anneliese van der Pol is a actress best known for her role as Chelsea Daniels .", "id": 797}
+{"evidence": [[[85986, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "John DiMaggio did a voice - in a series created by Alex Hirsch .", "id": 798}
+{"evidence": [[[275883, null, null, null], [275884, null, null, null], [325060, null, null, null], [325063, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Alfred P. Murrah Federal Building was located in Downtown Oklahoma City , Oklahoma .", "id": 799}
+{"evidence": [[[205325, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Monster is a song by an German rapper .", "id": 800}
+{"evidence": [[[23335, 28750, "The_Winds_of_Winter_-LRB-Game_of_Thrones-RRB-", 12]]], "label": "REFUTES", "claim": "The Africa Cup of Nations is a football championship of Asia .", "id": 801}
+{"evidence": [[[70962, 81853, "Yale_University", 23]]], "label": "SUPPORTS", "claim": "Chris Mullin played with a professional basketball team in a 1990s .", "id": 802}
+{"evidence": [[[144552, 159565, "Saw_-LRB-franchise-RRB-", 0]], [[144552, 159566, "Saw_-LRB-franchise-RRB-", 19]], [[311155, 301177, "Saw_-LRB-franchise-RRB-", 0]]], "label": "SUPPORTS", "claim": "Sacre - Coeur , Paris is dedicated to the Sacred Heart of Jesus .", "id": 803}
+{"evidence": [[[111248, 124875, "Bhagat_Singh", 16], [111248, 124875, "Murder", 0]], [[111256, 124881, "Bhagat_Singh", 16]]], "label": "REFUTES", "claim": "A Pet has just ever developed social issues .", "id": 804}
+{"evidence": [[[207448, 215712, "World_Trade_Center_-LRB-1973\u20132001-RRB-", 1]]], "label": "REFUTES", "claim": "Carey Hayes is just a German lawyer .", "id": 805}
+{"evidence": [[[213716, 220875, "Finding_Dory", 1], [213716, 220875, "Andrew_Stanton", 0]]], "label": "REFUTES", "claim": "a Monster is a gospel song by Eminem .", "id": 806}
+{"evidence": [[[289373, null, null, null], [335797, null, null, null], [335802, null, null, null], [335804, null, null, null], [335811, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Matt Bomer is just German .", "id": 807}
+{"evidence": [[[196620, 206726, "Michael_Vick", 0]], [[196620, 206727, "Michael_Vick", 3], [196620, 206727, "Michael_Vick", 6]]], "label": "SUPPORTS", "claim": "Spider - Man 2 was led by a nameless robot .", "id": 808}
+{"evidence": [[[214273, 221354, "Kenneth_Lonergan", 0]]], "label": "SUPPORTS", "claim": "Kenny Chesney is a country singer from Mobile , Alabama .", "id": 809}
+{"evidence": [[[134062, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Kevin Bacon acted in the Woodsman when he was 93 years old .", "id": 810}
+{"evidence": [[[171192, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Google Search is not a product of an American multinational technology company .", "id": 811}
+{"evidence": [[[160144, 174656, "Melancholia_-LRB-2011_film-RRB-", 0]], [[160144, 174657, "Melancholia_-LRB-2011_film-RRB-", 1]], [[160144, 174658, "Melancholia_-LRB-2011_film-RRB-", 4]], [[160144, 174659, "Melancholia_-LRB-2011_film-RRB-", 5]], [[160144, 174660, "Melancholia_-LRB-2011_film-RRB-", 6]], [[160144, 174661, "Melancholia_-LRB-2011_film-RRB-", 9]], [[160144, 174662, "Melancholia_-LRB-2011_film-RRB-", 10]], [[160144, 174663, "Melancholia_-LRB-2011_film-RRB-", 13]], [[160144, 174664, "Melancholia_-LRB-2011_film-RRB-", 15]], [[160144, 174665, "Melancholia_-LRB-2011_film-RRB-", 14]]], "label": "REFUTES", "claim": "A Backing vocalist includes singing with the other backing vocalists .", "id": 812}
+{"evidence": [[[89601, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Revolver topped America's Billboard Top LP for only two weeks .", "id": 813}
+{"evidence": [[[223837, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Monster is a restaurant .", "id": 814}
+{"evidence": [[[199054, 208736, "Matteo_Renzi", 0]], [[199054, 208737, "Matteo_Renzi", 1], [199054, 208737, "Italian_constitutional_referendum,_2016", 4]]], "label": "SUPPORTS", "claim": "the Tracey Fragments had a premiere on August 12 .", "id": 815}
+{"evidence": [[[164908, 179098, "Tim_McGraw", 13], [164908, 179098, "Flicka", 0], [164908, 179098, "Four_Christmases", 0], [164908, 179098, "Friday_Night_Lights_-LRB-film-RRB-", 0], [164908, 179098, "The_Blind_Side_-LRB-film-RRB-", 0], [164908, 179098, "The_Kingdom_-LRB-film-RRB-", 0], [164908, 179098, "Tomorrowland_-LRB-film-RRB-", 0]], [[167037, 180882, "Tim_McGraw", 13], [167037, 180882, "Country_Strong", 0], [167037, 180882, "Flicka", 0], [167037, 180882, "Four_Christmases", 0], [167037, 180882, "Friday_Night_Lights_-LRB-film-RRB-", 0], [167037, 180882, "The_Blind_Side_-LRB-film-RRB-", 0], [167037, 180882, "The_Kingdom_-LRB-film-RRB-", 0], [167037, 180882, "Tomorrowland_-LRB-film-RRB-", 0]], [[169104, 182778, "Tim_McGraw", 13]], [[312304, 302116, "Tim_McGraw", 13]], [[313551, 303136, "Tim_McGraw", 13]], [[313553, 303138, "Tim_McGraw", 13]]], "label": "SUPPORTS", "claim": "a Catcher in the Rye is a movie script .", "id": 816}
+{"evidence": [[[240386, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Robert Singer ( producer ) led at least one television show .", "id": 817}
+{"evidence": [[[188625, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Andrew Moray refused to cede a territory he gained to John Balliol .", "id": 818}
+{"evidence": [[[27990, 34286, "English_people", 6]]], "label": "SUPPORTS", "claim": "Estelle Getty appeared in television .", "id": 819}
+{"evidence": [[[166596, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Malta has a archdiocese that shuttered during the Crusades .", "id": 820}
+{"evidence": [[[123535, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Quay premiered in a 2010s .", "id": 821}
+{"evidence": [[[177243, 190102, "Wish_Upon", 0]]], "label": "REFUTES", "claim": "the world's largest economy by purchasing power parity is China .", "id": 822}
+{"evidence": [[[286384, 279837, "Kellogg's", 6]], [[288123, 281406, "Kellogg's", 6]], [[288616, 281836, "Kellogg's", 6]], [[333255, 319474, "Kellogg's", 6]], [[333259, 319476, "Kellogg's", 6]]], "label": "SUPPORTS", "claim": "Shape of You was only on a singles charts of Hungary and Poland .", "id": 823}
+{"evidence": [[[194706, 205078, "Middle-earth", 0]]], "label": "REFUTES", "claim": "Issa Rae stars in the Galactic Empire .", "id": 824}
+{"evidence": [[[223832, 228758, "Keith_Urban_-LRB-1999_album-RRB-", 0]]], "label": "REFUTES", "claim": "The IPhone 4 was designed by Microsoft .", "id": 825}
+{"evidence": [[[262152, 260201, "Bullitt", 0]], [[262152, 260202, "Bullitt", 9]], [[262152, 260203, "Bullitt", 8]]], "label": "REFUTES", "claim": "a Catcher in the Rye is a young adult novel .", "id": 826}
+{"evidence": [[[95253, 108255, "Ashley_Cole", 0], [95253, 108255, "LA_Galaxy", 4]]], "label": "REFUTES", "claim": "American Library Association is the oldest of its kind and it is in a world .", "id": 827}
+{"evidence": [[[255471, 254925, "Private_Lives", 0]]], "label": "SUPPORTS", "claim": "the expression to say while Trick - or - Treating is \" Trick or treat \" .", "id": 828}
+{"evidence": [[[235705, 238276, "Tom_DeLonge", 4]]], "label": "REFUTES", "claim": "the Indian National Congress was founded during a foreign rule .", "id": 829}
+{"evidence": [[[81697, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Pulmonary embolism is indicated by high blood levels .", "id": 830}
+{"evidence": [[[216058, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Dodo has been depicted with yellow hairs .", "id": 831}
+{"evidence": [[[231957, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Malta lies far to a south of the historical Melita .", "id": 832}
+{"evidence": [[[102387, 115657, "Greek_language", 13]], [[102387, 115658, "Greek_language", 14]]], "label": "SUPPORTS", "claim": "the Winds of Winter is being written by Stephen King .", "id": 833}
+{"evidence": [[[44500, 53167, "Justine_Bateman", 0]]], "label": "SUPPORTS", "claim": "Chris Paul is a four - time NBA assist leader and six - time leader .", "id": 834}
+{"evidence": [[[46942, 55993, "Indian_Army", 0]]], "label": "SUPPORTS", "claim": "the Brat Pack only frequently appeared together in films in the 1960s .", "id": 835}
+{"evidence": [[[243015, 244303, "St._Anger", 0]]], "label": "SUPPORTS", "claim": "the Ellen Show slandered Ellen DeGeneres .", "id": 836}
+{"evidence": [[[152299, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Pakistan Movement was the result of artistic , musical , and architectural transformations .", "id": 837}
+{"evidence": [[[106551, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Colbert Report was taped Monday through Friday .", "id": 838}
+{"evidence": [[[105000, 118418, "Thomas_Jefferson", 10]]], "label": "REFUTES", "claim": "Mamata Banerjee has ever been called Mamata Banerjee .", "id": 839}
+{"evidence": [[[189867, 201062, "Mickey_Rourke", 13]]], "label": "SUPPORTS", "claim": "Augustus Prew was a British photographer .", "id": 840}
+{"evidence": [[[26034, 31985, "TakePart", 0]], [[26034, 31986, "TakePart", 1]]], "label": "REFUTES", "claim": "The Alfred P. Murrah Federal Building was just located outside of the geographic center of the Oklahoma City metropolitan area .", "id": 841}
+{"evidence": [[[64245, 74987, "The_Good_Wife", 12]], [[65936, 76806, "The_Good_Wife", 12]], [[303472, 294439, "The_Good_Wife", 12]], [[305329, 296159, "The_Good_Wife", 12]]], "label": "REFUTES", "claim": "the Beverly Hillbillies had nine seasons .", "id": 842}
+{"evidence": [[[216097, 222809, "CHiPs_-LRB-film-RRB-", 0]], [[216097, 222810, "CHiPs_-LRB-film-RRB-", 1]], [[216097, 222811, "CHiPs_-LRB-film-RRB-", 5]]], "label": "REFUTES", "claim": "Backing vocalists can sing .", "id": 843}
+{"evidence": [[[160108, 174620, "Otto_I,_Holy_Roman_Emperor", 11]], [[160108, 174621, "Otto_I,_Holy_Roman_Emperor", 12]]], "label": "SUPPORTS", "claim": "the Chaperone ( film ) was directed by Michael Bay only .", "id": 844}
+{"evidence": [[[52022, 61910, "Psych", 2], [52022, 61910, "James_Roday", 0]]], "label": "SUPPORTS", "claim": "the Hunger Games is a thought process .", "id": 845}
+{"evidence": [[[68534, 79395, "West_Virginia", 1]]], "label": "SUPPORTS", "claim": "Brick Mansions is a just a book .", "id": 846}
+{"evidence": [[[114937, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Petyr Baelish is a real character .", "id": 847}
+{"evidence": [[[229595, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "1635 is a year when the widow of Henry Condell was buried .", "id": 848}
+{"evidence": [[[217301, 223919, "The_Hunchback_of_Notre_Dame_-LRB-1923_film-RRB-", 5], [217301, 223919, "Quasimodo", 0]]], "label": "SUPPORTS", "claim": "The English Wikipedia is a edition of a free online encyclopedia .", "id": 849}
+{"evidence": [[[164371, 178650, "Telemundo", 0]], [[164383, 178660, "Telemundo", 0]], [[164383, 178661, "Telemundo", 1], [164383, 178661, "Univision", 0]]], "label": "SUPPORTS", "claim": "the Monster is a work of music by an American rapper .", "id": 850}
+{"evidence": [[[80969, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the basis of characters in many authors' books in Emperor Norton .", "id": 851}
+{"evidence": [[[260897, 259232, "Capsicum_chinense", 0], [260897, 259232, "Capsicum", 0], [260897, 259232, "Chili_pepper", 0]]], "label": "REFUTES", "claim": "The Independent Spirit Awards are held in a hotel before the Academy Awards .", "id": 852}
+{"evidence": [[[234479, 237345, "Boyhood_-LRB-film-RRB-", 1]]], "label": "SUPPORTS", "claim": "In a cultures , only candy is given away when Trick - or - Treating .", "id": 853}
+{"evidence": [[[270769, 266775, "Roar_-LRB-song-RRB-", 0]]], "label": "SUPPORTS", "claim": "A Good Day to Die Hard was led by John Moore .", "id": 854}
+{"evidence": [[[211978, 219586, "Saturn_Corporation", 0]]], "label": "REFUTES", "claim": "the Paper stars a cat .", "id": 855}
+{"evidence": [[[130089, 144826, "Jack_Falahee", 0]]], "label": "REFUTES", "claim": "the Gettysburg Address is a well - known speech delivered by Herbert Hoover .", "id": 856}
+{"evidence": [[[227228, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Kate Walsh was on Grey .", "id": 857}
+{"evidence": [[[102403, 115681, "Paramore", 0]]], "label": "SUPPORTS", "claim": "Cars 3 will be directed by someone working for a computer company .", "id": 858}
+{"evidence": [[[282405, 276585, "Aarhus", 1]], [[284408, 278240, "Aarhus", 1]], [[285293, 278959, "Aarhus", 1]], [[285294, 278960, "Aarhus", 1]], [[285297, 278962, "Aarhus", 1]]], "label": "REFUTES", "claim": "US Airways Flight 1549 did not have a people on board .", "id": 859}
+{"evidence": [[[129958, 144661, "Sidse_Babett_Knudsen", 0]]], "label": "REFUTES", "claim": "the Catcher in the Rye never deals with issues of innocence and connection .", "id": 860}
+{"evidence": [[[81521, 93282, "AMGTV", 0]]], "label": "SUPPORTS", "claim": "There are at least four feature films that Bala has led .", "id": 861}
+{"evidence": [[[21034, 25827, "Sidse_Babett_Knudsen", 0]], [[22733, 28037, "Sidse_Babett_Knudsen", 0]], [[23864, 29536, "Sidse_Babett_Knudsen", 0]], [[301526, 292625, "Sidse_Babett_Knudsen", 0]], [[302550, 293537, "Sidse_Babett_Knudsen", 0]], [[304469, 295281, "Sidse_Babett_Knudsen", 0]]], "label": "SUPPORTS", "claim": "Temple Grandin is just a 2013 documentary film .", "id": 862}
+{"evidence": [[[217680, 224171, "Asylum_Records", 0]]], "label": "SUPPORTS", "claim": "the End of Time is the Tenth Doctor's most - watched adventure .", "id": 863}
+{"evidence": [[[73568, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "American Sniper ( book ) is about cats and dogs just .", "id": 864}
+{"evidence": [[[91940, 104734, "Chris_Kyle", 0]]], "label": "REFUTES", "claim": "Medical school around a world shares the same structure .", "id": 865}
+{"evidence": [[[153715, 168571, "Bones_-LRB-TV_series-RRB-", 0]], [[153715, 168572, "Bones_-LRB-TV_series-RRB-", 5]], [[153715, 168573, "Bones_-LRB-TV_series-RRB-", 1]], [[153715, 168574, "Bones_-LRB-TV_series-RRB-", 12]]], "label": "REFUTES", "claim": "Gray Matters was led by Sue Kramer in 2001 .", "id": 866}
+{"evidence": [[[33565, 40729, "Global_warming", 11]]], "label": "REFUTES", "claim": "Stephen Hillenburg led The SpongeBob SquarePants Movie .", "id": 867}
+{"evidence": [[[80361, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Agent Raghav \u2013 Crime Branch lacked a nominations .", "id": 868}
+{"evidence": [[[28011, 34306, "Ron_Weasley", 0]]], "label": "REFUTES", "claim": "the American actor that plays Chumlee was born on the 10th .", "id": 869}
+{"evidence": [[[42786, 51422, "Joe_Rogan", 7], [42786, 51422, "Hardball_-LRB-1994_TV_series-RRB-", 0]]], "label": "SUPPORTS", "claim": "I Want to Know What Love Is is a book .", "id": 870}
+{"evidence": [[[251012, 250981, "Brick_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "the Airbus A380 entered commercial service on October 25 , 2007 .", "id": 871}
+{"evidence": [[[283437, 277461, "14th_Dalai_Lama", 0], [283437, 277461, "Dalai_Lama", 0]], [[285899, 279506, "14th_Dalai_Lama", 0], [285899, 279506, "Dalai_Lama", 0]]], "label": "SUPPORTS", "claim": "It is customary to wear uniforms while Trick - or - Treating .", "id": 872}
+{"evidence": [[[199107, 208787, "Entourage_-LRB-film-RRB-", 3]]], "label": "REFUTES", "claim": "Adidas just designs posters .", "id": 873}
+{"evidence": [[[161629, 176060, "Melancholia_-LRB-2011_film-RRB-", 0], [161629, 176060, "Lars_von_Trier", 0]]], "label": "REFUTES", "claim": "Natasha Lyonne is known as Natasha Bianca Lyonne Braunstein .", "id": 874}
+{"evidence": [[[47633, 56851, "San_Diego_Comic-Con", 1]]], "label": "REFUTES", "claim": "a soundtrack of Far from the Madding Crowd was by Richard Rodney Bennett in 2012 .", "id": 875}
+{"evidence": [[[179526, 192105, "Melancholia_-LRB-2011_film-RRB-", 0], [179526, 192105, "Charlotte_Gainsbourg", 0]]], "label": "REFUTES", "claim": "Sennacherib had a children .", "id": 876}
+{"evidence": [[[196601, 206701, "Michael_Vick", 0]]], "label": "REFUTES", "claim": "Alcoholic drink is one of the most widely used recreational drugs on a planet .", "id": 877}
+{"evidence": [[[120312, 134532, "Tiber_Oil_Field", 1]], [[120313, 134533, "Tiber_Oil_Field", 1]]], "label": "REFUTES", "claim": "the Gettysburg Address was delivered by a Secretary of the United States .", "id": 878}
+{"evidence": [[[158390, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Paper stars a horse .", "id": 879}
+{"evidence": [[[190474, 201488, "Tom_Baker_-LRB-English_actor-RRB-", 15]]], "label": "SUPPORTS", "claim": "Death Note is a Japanese television series based on an acclaimed manga series that was illustrated by Takeshi Obata .", "id": 880}
+{"evidence": [[[219129, 225230, "The_Sterile_Cuckoo", 3]]], "label": "REFUTES", "claim": "A.J. Styles was a winner of a WWE Championship .", "id": 881}
+{"evidence": [[[142991, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Jamie Lee Curtis just starred in Rob Zombie's Halloween .", "id": 882}
+{"evidence": [[[194808, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Littlefinger is a nickname for Petyr Baelish .", "id": 883}
+{"evidence": [[[266016, 263119, "The_Disaster_Artist_-LRB-film-RRB-", 5]]], "label": "SUPPORTS", "claim": "the Beverly Hillbillies is a show that lost the opportunity to appear on television .", "id": 884}
+{"evidence": [[[211250, 218935, "Southpaw_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "the Tenth Doctor spends time traveling alone .", "id": 885}
+{"evidence": [[[26034, 31985, "TakePart", 0]], [[26034, 31986, "TakePart", 1]]], "label": "REFUTES", "claim": "The Alfred P. Murrah Federal Building was located outside of the geographic center of the Oklahoma City metropolitan area .", "id": 886}
+{"evidence": [[[157120, 171674, "Tim_McGraw", 13], [157120, 171674, "The_Blind_Side_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "A.J. Styles is a athlete in a combat sport .", "id": 887}
+{"evidence": [[[121550, 135823, "Ann_Richards", 0]], [[121550, 135824, "Ann_Richards", 2]], [[121550, 135825, "Ann_Richards", 3]]], "label": "SUPPORTS", "claim": "Samsung entered a entertainment industry in India .", "id": 888}
+{"evidence": [[[275914, 270987, "San_Diego_Comic-Con", 1]], [[278202, 273085, "San_Diego_Comic-Con", 1]], [[278203, 273086, "San_Diego_Comic-Con", 1]], [[278204, 273087, "San_Diego_Comic-Con", 1]], [[325097, 312872, "San_Diego_Comic-Con", 1]], [[325097, 312873, "San_Diego_Comic-Con", 8]], [[325101, 312876, "San_Diego_Comic-Con", 1]]], "label": "REFUTES", "claim": "Raja Hindustani is a drama movie from 1996 .", "id": 889}
+{"evidence": [[[33565, 40729, "Global_warming", 11]]], "label": "REFUTES", "claim": "Stephen Hillenburg directed the SpongeBob SquarePants Movie .", "id": 890}
+{"evidence": [[[180989, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Monster is a song by an American rapper .", "id": 891}
+{"evidence": [[[79477, 91192, "Basildon", 13]]], "label": "SUPPORTS", "claim": "A polynomial consists of coefficients .", "id": 892}
+{"evidence": [[[42533, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Monster is a work of music .", "id": 893}
+{"evidence": [[[216094, 222803, "CHiPs_-LRB-film-RRB-", 0]]], "label": "REFUTES", "claim": "Vedic Sanskrit is a language of texts of law .", "id": 894}
+{"evidence": [[[238953, 240909, "Despicable_Me_2", 1]]], "label": "SUPPORTS", "claim": "the Washington Monument is made of a rare type of marble , granite , and bluestone gneiss .", "id": 895}
+{"evidence": [[[237590, null, null, null], [237594, null, null, null], [237625, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Chaperone ( film ) is a comedy television show just .", "id": 896}
+{"evidence": [[[255562, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Nice Guys is a Belgian film .", "id": 897}
+{"evidence": [[[169174, 182844, "The_dress", 1]], [[171068, 184588, "The_dress", 1]], [[173193, 186457, "The_dress", 7]], [[312599, 302375, "The_dress", 1]], [[313719, 303257, "The_dress", 1]], [[313719, 303258, "The_dress", 7]]], "label": "REFUTES", "claim": "Joseph Merrick was a inspiration of the play The Elephant Man .", "id": 898}
+{"evidence": [[[114317, 128097, "Paramore", 0]]], "label": "REFUTES", "claim": "Matthew Vaughn is in a film industry .", "id": 899}
+{"evidence": [[[47790, 57054, "Chris_Kyle", 0]]], "label": "REFUTES", "claim": "Trouble with a Curve was released in 2002 .", "id": 900}
+{"evidence": [[[234513, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Kevin Bacon has acted in stage productions .", "id": 901}
+{"evidence": [[[82815, 94673, "Eva_Green", 1]]], "label": "REFUTES", "claim": "James Brolin has acted in daytime serials .", "id": 902}
+{"evidence": [[[281668, 276018, "Battle_of_France", 0]], [[281668, 276019, "Battle_of_France", 1]], [[281668, 276020, "Battle_of_France", 2]], [[281681, 276030, "Battle_of_France", 0]]], "label": "REFUTES", "claim": "Sky UK just serves North America .", "id": 903}
+{"evidence": [[[234923, 237709, "Tijuana", 0]]], "label": "REFUTES", "claim": "Jenny McCarthy is a nude model .", "id": 904}
+{"evidence": [[[232005, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Catcher in the Rye is not a novel .", "id": 905}
+{"evidence": [[[263224, 260958, "A&E_-LRB-TV_channel-RRB-", 0]]], "label": "SUPPORTS", "claim": "Aphrodite is a daughter of Hades and Persephone in Homer's Iliad .", "id": 906}
+{"evidence": [[[120485, 134708, "Always_-LRB-1989_film-RRB-", 0]]], "label": "REFUTES", "claim": "the Gettysburg Address was exclusively a movie .", "id": 907}
+{"evidence": [[[126327, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Hit is a painting .", "id": 908}
+{"evidence": [[[159979, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Punch - Drunk Love were Revolution Studios and New Line Cinema .", "id": 909}
+{"evidence": [[[169174, 182844, "The_dress", 1]], [[171068, 184588, "The_dress", 1]], [[173193, 186457, "The_dress", 7]], [[312599, 302375, "The_dress", 1]], [[313719, 303257, "The_dress", 1]], [[313719, 303258, "The_dress", 7]]], "label": "REFUTES", "claim": "Joseph Merrick was the inspiration of the play the Elephant Man .", "id": 910}
+{"evidence": [[[267518, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Monster is a gospel song by an American rapper .", "id": 911}
+{"evidence": [[[201147, 210600, "The_Endless_River", 0], [201147, 210600, "Pink_Floyd", 0], [201147, 210600, "Pink_Floyd", 5]]], "label": "REFUTES", "claim": "the Catcher in the Rye is a bar .", "id": 912}
+{"evidence": [[[129557, 144293, "Life", 0]]], "label": "REFUTES", "claim": "a day before the Academy Awards is when the Independent Spirit Awards are held .", "id": 913}
+{"evidence": [[[257314, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Lee Daniels has just directed terrible films that go unrecognized .", "id": 914}
+{"evidence": [[[201126, 210576, "The_Endless_River", 0]]], "label": "REFUTES", "claim": "Project Y was to invent the first nukes .", "id": 915}
+{"evidence": [[[58690, 68990, "Ron_Weasley", 0]]], "label": "SUPPORTS", "claim": "Jamie Lee Curtis starred in John Carpenter's Friday a 13th .", "id": 916}
+{"evidence": [[[248530, 248687, "Tie_Your_Mother_Down", 2]], [[248534, 248691, "Tie_Your_Mother_Down", 2]]], "label": "REFUTES", "claim": "the Originals ( TV series ) has yet to air .", "id": 917}
+{"evidence": [[[91822, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The University of Leicester just discovered and identified the remains of a queen .", "id": 918}
+{"evidence": [[[54228, 64228, "Janelle_Mona\u0301e", 0]]], "label": "REFUTES", "claim": "Exit a King is by man .", "id": 919}
+{"evidence": [[[119668, 133752, "YouTube", 15]]], "label": "REFUTES", "claim": "the Indian National Congress was founded in a country .", "id": 920}
+{"evidence": [[[18287, 22463, "Cheese_in_the_Trap_-LRB-TV_series-RRB-", 0]]], "label": "REFUTES", "claim": "The Alfred P. Murrah Federal Building was just located in Downtown Nevada City , Oklahoma .", "id": 921}
+{"evidence": [[[144333, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the IPhone 4 was only marketed by Google .", "id": 922}
+{"evidence": [[[174637, 187798, "Tool_-LRB-band-RRB-", 3]]], "label": "REFUTES", "claim": "the soundtrack of Far from the Madding Crowd was by an English composer .", "id": 923}
+{"evidence": [[[153917, 168738, "Wish_Upon", 0]]], "label": "REFUTES", "claim": "the Times switched to a compact format in 2014 .", "id": 924}
+{"evidence": [[[77984, 89458, "Yale_University", 23]]], "label": "REFUTES", "claim": "A Backing vocalist includes singing with the lead vocalist .", "id": 925}
+{"evidence": [[[69972, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Personality is unaffected by a development of skills .", "id": 926}
+{"evidence": [[[223832, 228758, "Keith_Urban_-LRB-1999_album-RRB-", 0]]], "label": "REFUTES", "claim": "the IPhone 4 was only designed by Microsoft .", "id": 927}
+{"evidence": [[[273654, 269025, "Working_animal", 0]]], "label": "REFUTES", "claim": "the Catcher in the Rye does not deal with the issue of identity .", "id": 928}
+{"evidence": [[[42637, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Samsung exited a electronics industry in the late 1960s .", "id": 929}
+{"evidence": [[[175118, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Maximum Overdrive was Stephen King .", "id": 930}
+{"evidence": [[[127820, 142513, "Aaron_Burr", 9]]], "label": "REFUTES", "claim": "Jenny McCarthy was a winner .", "id": 931}
+{"evidence": [[[289738, 282806, "Vedam_-LRB-film-RRB-", 0], [289738, 282806, "Manchu_Manoj", 0]], [[289747, 282818, "Vedam_-LRB-film-RRB-", 0], [289747, 282818, "Allu_Arjun", 0]], [[336908, 322384, "Vedam_-LRB-film-RRB-", 0], [336908, 322384, "Allu_Arjun", 0]], [[336921, 322395, "Vedam_-LRB-film-RRB-", 0], [336921, 322395, "Allu_Arjun", 0], [336921, 322395, "Anushka_Shetty", 0], [336921, 322395, "Deeksha_Seth", 0], [336921, 322395, "Lekha_Washington", 0], [336921, 322395, "Manchu_Manoj", 0], [336921, 322395, "Manoj_Bajpayee", 0], [336921, 322395, "Saranya_Ponvannan", 0]], [[336925, 322397, "Vedam_-LRB-film-RRB-", 0], [336925, 322397, "Allu_Arjun", 0]]], "label": "REFUTES", "claim": "Maria Theresa died in 1744 .", "id": 932}
+{"evidence": [[[262154, 260204, "Bullitt", 0]]], "label": "SUPPORTS", "claim": "Trouble with the Curve was led by a person .", "id": 933}
+{"evidence": [[[51122, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Gotham premiered in a 2010s .", "id": 934}
+{"evidence": [[[228827, 232934, "Albert_S._Ruddy", 0]], [[228830, 232936, "Albert_S._Ruddy", 0]], [[228834, 232940, "Albert_S._Ruddy", 0]], [[228835, 232941, "Albert_S._Ruddy", 0]]], "label": "REFUTES", "claim": "2 Hearts came out after a death of a father .", "id": 935}
+{"evidence": [[[108392, null, null, null], [108399, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "United States Congressmen make up the Blue Dog Coalition .", "id": 936}
+{"evidence": [[[175088, 188145, "Cheese_in_the_Trap_-LRB-TV_series-RRB-", 0]]], "label": "REFUTES", "claim": "the Thin Red Line ( 1998 film ) features a performance by a dentist .", "id": 937}
+{"evidence": [[[268477, 265055, "Michaela_Watkins", 0]]], "label": "SUPPORTS", "claim": "Kevin Bacon was in a film led by Nicole Kassell in 2005 .", "id": 938}
+{"evidence": [[[227788, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Rob McElhenney plays Mac just on an HBO series .", "id": 939}
+{"evidence": [[[82978, 94870, "Wilhelmina_Slater", 0]]], "label": "REFUTES", "claim": "Richard Dawson is alive .", "id": 940}
+{"evidence": [[[12013, 15049, "Faroe_Islands", 9]], [[12014, 15050, "Faroe_Islands", 9]]], "label": "SUPPORTS", "claim": "Menace II Society is set in a 1800s .", "id": 941}
+{"evidence": [[[152622, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Punisher stars Jon Bernthal .", "id": 942}
+{"evidence": [[[157852, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Truman Capote spent four years writing a book .", "id": 943}
+{"evidence": [[[130489, 145255, "Nestor_Carbonell", 3]], [[130489, 145256, "Nestor_Carbonell", 2]], [[130489, 145257, "Nestor_Carbonell", 1]], [[130491, 145258, "Nestor_Carbonell", 3]], [[130491, 145259, "Nestor_Carbonell", 2]], [[130491, 145260, "Nestor_Carbonell", 1]]], "label": "REFUTES", "claim": "the University of Leicester discovered and identified the remains of a king in 1955 .", "id": 944}
+{"evidence": [[[102924, 116209, "Henry_VIII_-LRB-TV_serial-RRB-", 8], [102924, 116209, "Sean_Bean", 0]]], "label": "SUPPORTS", "claim": "a thunderstorm has no effect on the Earth's atmosphere .", "id": 945}
+{"evidence": [[[168191, 181944, "AMGTV", 0]]], "label": "REFUTES", "claim": "Alex Jones are further right than the standard political right on the left - right spectrum .", "id": 946}
+{"evidence": [[[160788, 175305, "Jennifer_Lopez", 10]]], "label": "SUPPORTS", "claim": "Reccared I destroyed a Visigoths .", "id": 947}
+{"evidence": [[[264406, null, null, null], [264409, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Personality is affected by a hindrance of values .", "id": 948}
+{"evidence": [[[141757, 157013, "Cheese_in_the_Trap_-LRB-TV_series-RRB-", 0]]], "label": "REFUTES", "claim": "Milk is based on a life of a person who never participated in activism .", "id": 949}
+{"evidence": [[[236981, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Indiana Pacers were established .", "id": 950}
+{"evidence": [[[338280, 323497, "Fred_Armisen", 0]]], "label": "REFUTES", "claim": "the Hyksos' chief deity became associated with a god of the ocean .", "id": 951}
+{"evidence": [[[213152, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a Monster appears in the restaurant The Marshall Mathers LP 2 .", "id": 952}
+{"evidence": [[[126156, 140552, "L.A._Reid", 1], [126156, 140552, "Epic_Records", 0]]], "label": "REFUTES", "claim": "the Walking Dead ( comic book ) inspired a franchise .", "id": 953}
+{"evidence": [[[254362, 254054, "DJ_Quik", 0]]], "label": "REFUTES", "claim": "Robert Zemeckis has rarely led movies .", "id": 954}
+{"evidence": [[[112059, null, null, null], [112061, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the film The Good German was directed by Cate Blanchett .", "id": 955}
+{"evidence": [[[226496, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Boeing 767 is used for just local flights .", "id": 956}
+{"evidence": [[[84798, 97028, "Reign_Over_Me", 0]]], "label": "SUPPORTS", "claim": "Benzodiazepines can be taken in small amounts .", "id": 957}
+{"evidence": [[[297770, null, null, null], [343236, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Office ( US ) is a book .", "id": 958}
+{"evidence": [[[67663, 78492, "Billboard_Dad", 0]]], "label": "REFUTES", "claim": "SZA does not combine elements from different genres .", "id": 959}
+{"evidence": [[[255570, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the University of Leicester contributed to the discovery of the remains of King Richard III .", "id": 960}
+{"evidence": [[[235606, 238212, "Natural_Born_Killers", 5]]], "label": "SUPPORTS", "claim": "Grease was a attack on human rights .", "id": 961}
+{"evidence": [[[101910, 115156, "Charles_Manson", 0]], [[101914, 115159, "Charles_Manson", 0]]], "label": "SUPPORTS", "claim": "Blank Space is on a top 100 list in a country Austria .", "id": 962}
+{"evidence": [[[36955, 44610, "Battle_of_France", 0]]], "label": "SUPPORTS", "claim": "The Boeing 767 is a cruise liner .", "id": 963}
+{"evidence": [[[65500, 76376, "Sheryl_Lee", 7], [65500, 76376, "Cafe\u0301_Society_-LRB-film-RRB-", 0]]], "label": "SUPPORTS", "claim": "the Giver is a dramatic movie .", "id": 964}
+{"evidence": [[[122849, 137145, "Global_warming", 15]]], "label": "REFUTES", "claim": "the Washington Monument is the world's tallest statue .", "id": 965}
+{"evidence": [[[95351, 108381, "Meteora_-LRB-album-RRB-", 0]]], "label": "SUPPORTS", "claim": "the Brat Pack is a nickname given to a group of young actors who appeared together in newspapers .", "id": 966}
+{"evidence": [[[42349, 50953, "Heavy_metal_music", 0]]], "label": "SUPPORTS", "claim": "October is a month when the season of Two and a Half Men aired .", "id": 967}
+{"evidence": [[[193486, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Stomp the Yard stars Italian actors .", "id": 968}
+{"evidence": [[[184127, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "a staging area is a location where fish are assembled before use .", "id": 969}
+{"evidence": [[[225824, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Gamal Abdel Nasser's only funeral was in a capital of Iran .", "id": 970}
+{"evidence": [[[239261, 241177, "Avenged_Sevenfold_-LRB-album-RRB-", 0]]], "label": "REFUTES", "claim": "a parent of Jed Whedon was born in the month of August .", "id": 971}
+{"evidence": [[[142418, null, null, null], [142422, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the cinematography of Far from the Madding Crowd was by Roger Deakins .", "id": 972}
+{"evidence": [[[109591, 123210, "The_Mighty_Ducks", 1]]], "label": "REFUTES", "claim": "Death Note is a Japanese television series based on a manga series written by Tsugumi Ohba .", "id": 973}
+{"evidence": [[[162278, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Cars 3 will not be led by someone working for Pixar .", "id": 974}
+{"evidence": [[[49013, 58355, "Trollhunters", 0]]], "label": "REFUTES", "claim": "Georgians arose from a kingdom of Kievan Rus .", "id": 975}
+{"evidence": [[[14822, 18451, "Wilhelmina_Slater", 0]]], "label": "SUPPORTS", "claim": "Brick Mansions is a adaptation .", "id": 976}
+{"evidence": [[[42252, 50843, "Scotty_Moore", 0]]], "label": "REFUTES", "claim": "the Hit was released in 1984 .", "id": 977}
+{"evidence": [[[125421, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "The Brat Pack appeared together in teen - oriented coming - of - age films in a 1990s .", "id": 978}
+{"evidence": [[[173863, 187043, "AMGTV", 0]]], "label": "REFUTES", "claim": "I Want to Know What Love Is has always been kept off Rolling Stone .", "id": 979}
+{"evidence": [[[19747, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Henri Kontinen is currently ranked number 1 in a world for doubles in basketball .", "id": 980}
+{"evidence": [[[244428, 245439, "Samwell_Tarly", 0]]], "label": "REFUTES", "claim": "the mother of Augustus Prew was a fashion designer .", "id": 981}
+{"evidence": [[[128021, 142727, "United_Nations_Charter", 1]]], "label": "REFUTES", "claim": "Andrea Pirlo plays for one team .", "id": 982}
+{"evidence": [[[38826, 46785, "Touchscreen", 9]]], "label": "SUPPORTS", "claim": "Aristocracy is derived from a compound word for \" rule of the best \" .", "id": 983}
+{"evidence": [[[186125, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "Benjamin Franklin earned the title of the Dead Body .", "id": 984}
+{"evidence": [[[40018, 48149, "Ingushetia", 5]]], "label": "SUPPORTS", "claim": "the Premier League Asia Trophy was formerly called the World Cup .", "id": 985}
+{"evidence": [[[296018, 287979, "Jens_Stoltenberg", 4]], [[297522, 289159, "Jens_Stoltenberg", 4]], [[297621, 289256, "Jens_Stoltenberg", 1], [297621, 289256, "List_of_NATO_Secretaries_General", 7]], [[297621, 289257, "Jens_Stoltenberg", 4]]], "label": "REFUTES", "claim": "An American comedian made the Ellen Show .", "id": 986}
+{"evidence": [[[147054, 162053, "Kuching", 0]], [[147054, 162054, "Kuching", 1], [147054, 162054, "Kuching_Division", 0], [147054, 162054, "Taiwan", 0]], [[147054, 162055, "Kuching", 2], [147054, 162055, "Sarawak", 0], [147054, 162055, "Taiwan", 0]], [[147054, 162056, "Kuching", 5], [147054, 162056, "Sarawak", 0], [147054, 162056, "Taiwan", 0]], [[147054, 162057, "Kuching", 6], [147054, 162057, "Sarawak", 0], [147054, 162057, "Taiwan", 0]], [[147054, 162058, "Kuching", 10], [147054, 162058, "Batu_Lintang_camp", 0], [147054, 162058, "Taiwan", 0]], [[147054, 162059, "Kuching", 19], [147054, 162059, "Sarawak", 0], [147054, 162059, "Taiwan", 0]], [[147054, 162060, "Kuching", 21], [147054, 162060, "Taiwan", 0]], [[147054, 162061, "Kuching", 20], [147054, 162061, "Bako_National_Park", 0], [147054, 162061, "Sarawak", 0]]], "label": "REFUTES", "claim": "Sarah Hyland is a Broadway actor .", "id": 987}
+{"evidence": [[[111856, 125683, "Rupert_Murdoch", 3]], [[111856, 125684, "Rupert_Murdoch", 12]], [[111856, 125685, "Rupert_Murdoch", 14]]], "label": "REFUTES", "claim": "Skopje was a capital of the Russian Empire .", "id": 988}
+{"evidence": [[[260485, 258896, "Savages_-LRB-2012_film-RRB-", 3]]], "label": "REFUTES", "claim": "Innovation is also viewed as the application of better technological solutions that meet unarticulated needs .", "id": 989}
+{"evidence": [[[150789, 165643, "Poldark_-LRB-2015_TV_series-RRB-", 0]]], "label": "REFUTES", "claim": "ASAP Rocky has led music videos for himself and Danny Brown .", "id": 990}
+{"evidence": [[[270841, 266821, "New_Orleans_Pelicans", 1], [270841, 266821, "Southwest_Division_-LRB-NBA-RRB-", 0]]], "label": "SUPPORTS", "claim": "Adam Lambert was the second openly gay artist to top a album charts .", "id": 991}
+{"evidence": [[[196608, 206707, "Michael_Vick", 0]], [[196608, 206708, "Michael_Vick", 14]]], "label": "SUPPORTS", "claim": "Samsung entered a ring and shipbuilding industries in the mid-1970s .", "id": 992}
+{"evidence": [[[171040, null, null, null]]], "label": "NOT ENOUGH INFO", "claim": "the Washington Monument is less than 553 ft tall .", "id": 993}
+{"evidence": [[[29375, 35845, "Harris_Jayaraj", 0]]], "label": "SUPPORTS", "claim": "the SpongeBob SquarePants Movie stars Ryan Gosling .", "id": 994}
+{"evidence": [[[244433, 245446, "Samwell_Tarly", 0]]], "label": "REFUTES", "claim": "the Bengal tiger has a coat .", "id": 995}
+{"evidence": [[[40206, 48376, "Heart", 19]]], "label": "SUPPORTS", "claim": "the Suite Life of Zack & Cody was created by John Wayne .", "id": 996}
+{"evidence": [[[257069, 256127, "Chagatai_language", 0]]], "label": "REFUTES", "claim": "the cinematography of Far from the Madding Crowd was by Waluigi .", "id": 997}
+{"evidence": [[[232827, 235915, "New_York_City_Landmarks_Preservation_Commission", 6]]], "label": "REFUTES", "claim": "the Logie Awards took place at a casino for its latest ceremony .", "id": 998}

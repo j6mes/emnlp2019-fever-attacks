@@ -1,0 +1,999 @@
+{"id": "0", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "1", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "2", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "3", "predicted_label": "REFUTES", "predicted_evidence": [["Chumlee", 0]]}
+{"id": "4", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "5", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "6", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "7", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "8", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "9", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "10", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "11", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "12", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "13", "predicted_label": "REFUTES", "predicted_evidence": [["Kung_Fu_Panda", 0]]}
+{"id": "14", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "15", "predicted_label": "REFUTES", "predicted_evidence": [["See.SZA.Run", 5]]}
+{"id": "16", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "17", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "18", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eurotas_-LRB-river-RRB-", 0]]}
+{"id": "19", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "20", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "21", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "22", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "23", "predicted_label": "SUPPORTS", "predicted_evidence": [["Zac_MacGuire", 0]]}
+{"id": "24", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "25", "predicted_label": "REFUTES", "predicted_evidence": [["Jiang_Wen", 0]]}
+{"id": "26", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "27", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "28", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "29", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "30", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "31", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jamie_Lee_Curtis", 1]]}
+{"id": "32", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "33", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "34", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "35", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "36", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "37", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "38", "predicted_label": "SUPPORTS", "predicted_evidence": [["Moscovium", 0], ["Moscovium", 8], ["Moscovium", 9]]}
+{"id": "39", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "40", "predicted_label": "REFUTES", "predicted_evidence": [["David_Attenborough", 4]]}
+{"id": "41", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "42", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "43", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "44", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "45", "predicted_label": "REFUTES", "predicted_evidence": [["Andrea_Pirlo", 0]]}
+{"id": "46", "predicted_label": "REFUTES", "predicted_evidence": [["Westworld_-LRB-TV_series-RRB-", 4]]}
+{"id": "47", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "48", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "49", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "50", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "51", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "52", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "53", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "54", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "55", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "56", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "57", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "58", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "59", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "60", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "61", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "62", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "63", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "64", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "65", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "66", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ted_Cruz", 0]]}
+{"id": "67", "predicted_label": "SUPPORTS", "predicted_evidence": [["Zoe_Saldana", 0]]}
+{"id": "68", "predicted_label": "SUPPORTS", "predicted_evidence": [["Port_of_Spain", 5]]}
+{"id": "69", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "70", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "71", "predicted_label": "SUPPORTS", "predicted_evidence": [["Faye_Resnick", 0], ["Faye_Resnick", 1]]}
+{"id": "72", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "73", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "74", "predicted_label": "REFUTES", "predicted_evidence": [["Hebe_-LRB-mythology-RRB-", 1], ["Hebe_-LRB-mythology-RRB-", 2]]}
+{"id": "75", "predicted_label": "SUPPORTS", "predicted_evidence": [["Joni_Mitchell", 7], ["Joni_Mitchell", 9], ["Joni_Mitchell", 20]]}
+{"id": "76", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "77", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "78", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "79", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "80", "predicted_label": "REFUTES", "predicted_evidence": [["Vincent_D'Onofrio", 4]]}
+{"id": "81", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vedic_Sanskrit", 0]]}
+{"id": "82", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "83", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "84", "predicted_label": "SUPPORTS", "predicted_evidence": [["Romani_people", 9]]}
+{"id": "85", "predicted_label": "REFUTES", "predicted_evidence": [["Deepika_Padukone", 9], ["Deepika_Padukone", 13], ["Deepika_Padukone", 14], ["Deepika_Padukone", 15], ["Deepika_Padukone", 18]]}
+{"id": "86", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "87", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "88", "predicted_label": "SUPPORTS", "predicted_evidence": [["Alvin_and_the_Chipmunks_-LRB-film-RRB-", 0], ["Alvin_and_the_Chipmunks_-LRB-film-RRB-", 5]]}
+{"id": "89", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "90", "predicted_label": "SUPPORTS", "predicted_evidence": [["Romani_people", 15]]}
+{"id": "91", "predicted_label": "SUPPORTS", "predicted_evidence": [["Michael_Hutchence", 0], ["Michael_Hutchence", 15]]}
+{"id": "92", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "93", "predicted_label": "SUPPORTS", "predicted_evidence": [["Watertown,_Massachusetts", 0], ["Watertown,_Massachusetts", 2], ["Watertown,_Massachusetts", 3], ["Watertown,_Massachusetts", 6]]}
+{"id": "94", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "95", "predicted_label": "SUPPORTS", "predicted_evidence": [["Timur", 21]]}
+{"id": "96", "predicted_label": "SUPPORTS", "predicted_evidence": [["Talulah_Riley", 1]]}
+{"id": "97", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "98", "predicted_label": "REFUTES", "predicted_evidence": [["Richard_Dawson", 0]]}
+{"id": "99", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "100", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "101", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "102", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "103", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "104", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "105", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "106", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "107", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "108", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "109", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "110", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "111", "predicted_label": "SUPPORTS", "predicted_evidence": [["Louis_Malle", 0], ["Louis_Malle", 6]]}
+{"id": "112", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "113", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "114", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "115", "predicted_label": "SUPPORTS", "predicted_evidence": [["Yin_and_yang", 10]]}
+{"id": "116", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jamie_Lee_Curtis", 1]]}
+{"id": "117", "predicted_label": "REFUTES", "predicted_evidence": [["Google_Search", 13]]}
+{"id": "118", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "119", "predicted_label": "REFUTES", "predicted_evidence": [["Catherine_Hardwicke", 0], ["Catherine_Hardwicke", 1]]}
+{"id": "120", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "121", "predicted_label": "SUPPORTS", "predicted_evidence": [["KGB", 7]]}
+{"id": "122", "predicted_label": "REFUTES", "predicted_evidence": [["Amancio_Ortega", 0]]}
+{"id": "123", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "124", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "125", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tyler_Perry", 0]]}
+{"id": "126", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "127", "predicted_label": "REFUTES", "predicted_evidence": [["Louis_Malle", 0], ["Louis_Malle", 1], ["Louis_Malle", 6], ["Louis_Malle", 7]]}
+{"id": "128", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "129", "predicted_label": "SUPPORTS", "predicted_evidence": [["Far_from_the_Madding_Crowd_-LRB-1967_film-RRB-", 3]]}
+{"id": "130", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jab_Tak_Hai_Jaan", 14]]}
+{"id": "131", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "132", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "133", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "134", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "135", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "136", "predicted_label": "REFUTES", "predicted_evidence": [["Musala", 0]]}
+{"id": "137", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "138", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "139", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "140", "predicted_label": "REFUTES", "predicted_evidence": [["Pakistan_Movement", 13]]}
+{"id": "141", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "142", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "143", "predicted_label": "SUPPORTS", "predicted_evidence": [["Alberto_Contador", 3]]}
+{"id": "144", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "145", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "146", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "147", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "148", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "149", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "150", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "151", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "152", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "153", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "154", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "155", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "156", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "157", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "158", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "159", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "160", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "161", "predicted_label": "SUPPORTS", "predicted_evidence": [["Unison_-LRB-Celine_Dion_album-RRB-", 1]]}
+{"id": "162", "predicted_label": "SUPPORTS", "predicted_evidence": [["Hezbollah", 17]]}
+{"id": "163", "predicted_label": "SUPPORTS", "predicted_evidence": [["Akon", 0]]}
+{"id": "164", "predicted_label": "SUPPORTS", "predicted_evidence": [["Alberto_Contador", 3]]}
+{"id": "165", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "166", "predicted_label": "SUPPORTS", "predicted_evidence": [["Hinduism", 6], ["Hinduism", 8]]}
+{"id": "167", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "168", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "169", "predicted_label": "REFUTES", "predicted_evidence": [["Scream_2", 0]]}
+{"id": "170", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "171", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "172", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "173", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "174", "predicted_label": "REFUTES", "predicted_evidence": [["Mamata_Banerjee", 0]]}
+{"id": "175", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "176", "predicted_label": "SUPPORTS", "predicted_evidence": [["Benjamin_Franklin", 16]]}
+{"id": "177", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "178", "predicted_label": "SUPPORTS", "predicted_evidence": [["David_Attenborough", 0], ["David_Attenborough", 3], ["David_Attenborough", 4], ["David_Attenborough", 5], ["David_Attenborough", 8]]}
+{"id": "179", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "180", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "181", "predicted_label": "REFUTES", "predicted_evidence": [["Anna_Nicole_Smith", 2]]}
+{"id": "182", "predicted_label": "REFUTES", "predicted_evidence": [["Danish_language", 0], ["Danish_language", 1]]}
+{"id": "183", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "184", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "185", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "186", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "187", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "188", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "189", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "190", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "191", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "192", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "193", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "194", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "195", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vic_Mensa", 0]]}
+{"id": "196", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "197", "predicted_label": "SUPPORTS", "predicted_evidence": [["Alan_Shepard", 16]]}
+{"id": "198", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "199", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "200", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "201", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "202", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tyler_Perry", 0]]}
+{"id": "203", "predicted_label": "SUPPORTS", "predicted_evidence": [["Firefox", 13]]}
+{"id": "204", "predicted_label": "REFUTES", "predicted_evidence": [["Dan_Trachtenberg", 0]]}
+{"id": "205", "predicted_label": "SUPPORTS", "predicted_evidence": [["Atlanta_metropolitan_area", 3]]}
+{"id": "206", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "207", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "208", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "209", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "210", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "211", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vincent_D'Onofrio", 4]]}
+{"id": "212", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "213", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "214", "predicted_label": "REFUTES", "predicted_evidence": [["Chris_Mullin_-LRB-basketball-RRB-", 11]]}
+{"id": "215", "predicted_label": "REFUTES", "predicted_evidence": [["Kajol", 0]]}
+{"id": "216", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "217", "predicted_label": "REFUTES", "predicted_evidence": [["Menace_II_Society", 1]]}
+{"id": "218", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "219", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "220", "predicted_label": "REFUTES", "predicted_evidence": [["God", 11]]}
+{"id": "221", "predicted_label": "REFUTES", "predicted_evidence": [["Lorelai_Gilmore", 3]]}
+{"id": "222", "predicted_label": "SUPPORTS", "predicted_evidence": [["Emma_Stone", 0], ["Emma_Stone", 7], ["Emma_Stone", 10], ["Emma_Stone", 11], ["Emma_Stone", 12]]}
+{"id": "223", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "224", "predicted_label": "REFUTES", "predicted_evidence": [["Catherine_Hardwicke", 0]]}
+{"id": "225", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "226", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "227", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "228", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "229", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "230", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "231", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "232", "predicted_label": "SUPPORTS", "predicted_evidence": [["Padua", 1]]}
+{"id": "233", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "234", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "235", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "236", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "237", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "238", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "239", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "240", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "241", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "242", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "243", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "244", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "245", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "246", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "247", "predicted_label": "REFUTES", "predicted_evidence": [["Loretta_Sanchez", 0]]}
+{"id": "248", "predicted_label": "SUPPORTS", "predicted_evidence": [["RFIQin", 0]]}
+{"id": "249", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "250", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "251", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "252", "predicted_label": "REFUTES", "predicted_evidence": [["Raja_Hindustani", 0]]}
+{"id": "253", "predicted_label": "SUPPORTS", "predicted_evidence": [["Veeraswamy", 0]]}
+{"id": "254", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "255", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "256", "predicted_label": "SUPPORTS", "predicted_evidence": [["Lorelai_Gilmore", 0]]}
+{"id": "257", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jamie_Lee_Curtis", 1]]}
+{"id": "258", "predicted_label": "REFUTES", "predicted_evidence": [["Google_Search", 13]]}
+{"id": "259", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "260", "predicted_label": "REFUTES", "predicted_evidence": [["Ronaldinho", 10]]}
+{"id": "261", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "262", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "263", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "264", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "265", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "266", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "267", "predicted_label": "SUPPORTS", "predicted_evidence": [["Kenny_Chesney", 7]]}
+{"id": "268", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "269", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "270", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "271", "predicted_label": "SUPPORTS", "predicted_evidence": [["David_Attenborough", 4]]}
+{"id": "272", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "273", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "274", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "275", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "276", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "277", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "278", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "279", "predicted_label": "REFUTES", "predicted_evidence": [["Saw_II", 20]]}
+{"id": "280", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "281", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "282", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "283", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "284", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "285", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Book_of_Mormon_-LRB-musical-RRB-", 19]]}
+{"id": "286", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "287", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "288", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "289", "predicted_label": "SUPPORTS", "predicted_evidence": [["L._Ron_Hubbard", 0]]}
+{"id": "290", "predicted_label": "REFUTES", "predicted_evidence": [["Andrea_Pirlo", 0]]}
+{"id": "291", "predicted_label": "SUPPORTS", "predicted_evidence": [["Bob_Ross", 0]]}
+{"id": "292", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "293", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "294", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "295", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "296", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "297", "predicted_label": "REFUTES", "predicted_evidence": [["Sean_Gunn", 0]]}
+{"id": "298", "predicted_label": "REFUTES", "predicted_evidence": [["Hebe_-LRB-mythology-RRB-", 1], ["Hebe_-LRB-mythology-RRB-", 2]]}
+{"id": "299", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "300", "predicted_label": "REFUTES", "predicted_evidence": [["Eric_Bana", 0]]}
+{"id": "301", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "302", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "303", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "304", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "305", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "306", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "307", "predicted_label": "SUPPORTS", "predicted_evidence": [["Veep", 8], ["Veep", 9]]}
+{"id": "308", "predicted_label": "REFUTES", "predicted_evidence": [["Bob_Ross", 1]]}
+{"id": "309", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "310", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "311", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "312", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Maze_Runner_-LRB-film-RRB-", 13]]}
+{"id": "313", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "314", "predicted_label": "REFUTES", "predicted_evidence": [["Brown_University", 19]]}
+{"id": "315", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "316", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tyler_Perry", 0]]}
+{"id": "317", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "318", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "319", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "320", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "321", "predicted_label": "REFUTES", "predicted_evidence": [["Jefferson_Davis", 5]]}
+{"id": "322", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "323", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "324", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "325", "predicted_label": "REFUTES", "predicted_evidence": [["Burj_Khalifa", 0]]}
+{"id": "326", "predicted_label": "SUPPORTS", "predicted_evidence": [["Minor_League_Baseball", 0]]}
+{"id": "327", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "328", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "329", "predicted_label": "REFUTES", "predicted_evidence": [["Samsung", 6]]}
+{"id": "330", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "331", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "332", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "333", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "334", "predicted_label": "REFUTES", "predicted_evidence": [["Port_of_Spain", 0], ["Port_of_Spain", 5], ["Port_of_Spain", 15]]}
+{"id": "335", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "336", "predicted_label": "SUPPORTS", "predicted_evidence": [["Uganda", 11]]}
+{"id": "337", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "338", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "339", "predicted_label": "REFUTES", "predicted_evidence": [["Pocahontas", 1]]}
+{"id": "340", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "341", "predicted_label": "SUPPORTS", "predicted_evidence": [["Syco", 0]]}
+{"id": "342", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "343", "predicted_label": "REFUTES", "predicted_evidence": [["Ed_Decter", 0]]}
+{"id": "344", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "345", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "346", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "347", "predicted_label": "REFUTES", "predicted_evidence": [["The_SpongeBob_SquarePants_Movie", 1]]}
+{"id": "348", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "349", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "350", "predicted_label": "REFUTES", "predicted_evidence": [["Eurotas_-LRB-river-RRB-", 0]]}
+{"id": "351", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "352", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "353", "predicted_label": "SUPPORTS", "predicted_evidence": [["Kung_Fu_Panda", 17]]}
+{"id": "354", "predicted_label": "SUPPORTS", "predicted_evidence": [["Babur", 0]]}
+{"id": "355", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "356", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "357", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "358", "predicted_label": "REFUTES", "predicted_evidence": [["Wolfgang_Amadeus_Mozart", 12]]}
+{"id": "359", "predicted_label": "REFUTES", "predicted_evidence": [["Matt_Bomer", 0]]}
+{"id": "360", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "361", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "362", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "363", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "364", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jamie_Lee_Curtis", 1]]}
+{"id": "365", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "366", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "367", "predicted_label": "SUPPORTS", "predicted_evidence": [["Warcraft_-LRB-film-RRB-", 7]]}
+{"id": "368", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ed_Decter", 0]]}
+{"id": "369", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "370", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "371", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "372", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "373", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "374", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "375", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "376", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "377", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "378", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "379", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "380", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "381", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "382", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "383", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "384", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "385", "predicted_label": "SUPPORTS", "predicted_evidence": [["Aldous_Huxley", 1], ["Aldous_Huxley", 5], ["Aldous_Huxley", 6]]}
+{"id": "386", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "387", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "388", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "389", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "390", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "391", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "392", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "393", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "394", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "395", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "396", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "397", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mamata_Banerjee", 0]]}
+{"id": "398", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "399", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "400", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "401", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "402", "predicted_label": "REFUTES", "predicted_evidence": [["Nawaz_Sharif", 0]]}
+{"id": "403", "predicted_label": "REFUTES", "predicted_evidence": [["Augustus_Prew", 1], ["Augustus_Prew", 2], ["Augustus_Prew", 5]]}
+{"id": "404", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "405", "predicted_label": "REFUTES", "predicted_evidence": [["Kenny_Chesney", 0]]}
+{"id": "406", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "407", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "408", "predicted_label": "SUPPORTS", "predicted_evidence": [["Coins_of_the_Swiss_franc", 0]]}
+{"id": "409", "predicted_label": "REFUTES", "predicted_evidence": [["Bob_Ross", 0]]}
+{"id": "410", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "411", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "412", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "413", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "414", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "415", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "416", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "417", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "418", "predicted_label": "SUPPORTS", "predicted_evidence": [["Raksi", 5]]}
+{"id": "419", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "420", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "421", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "422", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "423", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "424", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "425", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "426", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6], ["Samsung", 8]]}
+{"id": "427", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "428", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "429", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "430", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "431", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "432", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "433", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "434", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "435", "predicted_label": "REFUTES", "predicted_evidence": [["Scream_2", 0]]}
+{"id": "436", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "437", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "438", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "439", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "440", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "441", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "442", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "443", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "444", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "445", "predicted_label": "SUPPORTS", "predicted_evidence": [["Faye_Resnick", 0], ["Faye_Resnick", 1]]}
+{"id": "446", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ed_Gein", 1]]}
+{"id": "447", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "448", "predicted_label": "SUPPORTS", "predicted_evidence": [["John_Goodman", 0], ["John_Goodman", 1], ["John_Goodman", 4], ["John_Goodman", 8]]}
+{"id": "449", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "450", "predicted_label": "SUPPORTS", "predicted_evidence": [["Paul_von_Hindenburg", 0]]}
+{"id": "451", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "452", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "453", "predicted_label": "SUPPORTS", "predicted_evidence": [["Legendary_Entertainment", 2]]}
+{"id": "454", "predicted_label": "SUPPORTS", "predicted_evidence": [["FC_Bayern_Munich", 4]]}
+{"id": "455", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "456", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "457", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "458", "predicted_label": "REFUTES", "predicted_evidence": [["Mikhail_Prokhorov", 3]]}
+{"id": "459", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "460", "predicted_label": "REFUTES", "predicted_evidence": [["Granite", 3]]}
+{"id": "461", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "462", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "463", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "464", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "465", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "466", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "467", "predicted_label": "REFUTES", "predicted_evidence": [["Loretta_Sanchez", 0]]}
+{"id": "468", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "469", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "470", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "471", "predicted_label": "SUPPORTS", "predicted_evidence": [["Natasha_Lyonne", 0]]}
+{"id": "472", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "473", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "474", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "475", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "476", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "477", "predicted_label": "SUPPORTS", "predicted_evidence": [["Edward_Cullen", 1]]}
+{"id": "478", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "479", "predicted_label": "SUPPORTS", "predicted_evidence": [["Corsica", 0]]}
+{"id": "480", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "481", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "482", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "483", "predicted_label": "REFUTES", "predicted_evidence": [["Absinthe", 0], ["Absinthe", 1], ["Absinthe", 14]]}
+{"id": "484", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "485", "predicted_label": "SUPPORTS", "predicted_evidence": [["Benjamin_Franklin", 1], ["Benjamin_Franklin", 7]]}
+{"id": "486", "predicted_label": "SUPPORTS", "predicted_evidence": [["American_Civil_War", 0]]}
+{"id": "487", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "488", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "489", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "490", "predicted_label": "REFUTES", "predicted_evidence": [["Kevin_Bacon", 6]]}
+{"id": "491", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "492", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "493", "predicted_label": "SUPPORTS", "predicted_evidence": [["Yin_and_yang", 0], ["Yin_and_yang", 7], ["Yin_and_yang", 10]]}
+{"id": "494", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vincent_D'Onofrio", 4]]}
+{"id": "495", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "496", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "497", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "498", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "499", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "500", "predicted_label": "SUPPORTS", "predicted_evidence": [["Zac_Efron", 0], ["Zac_Efron", 1], ["Zac_Efron", 2], ["Zac_Efron", 3]]}
+{"id": "501", "predicted_label": "REFUTES", "predicted_evidence": [["Catherine_Hardwicke", 0]]}
+{"id": "502", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "503", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "504", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "505", "predicted_label": "REFUTES", "predicted_evidence": [["Hyksos", 18]]}
+{"id": "506", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "507", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "508", "predicted_label": "REFUTES", "predicted_evidence": [["Brian_De_Palma", 4], ["Brian_De_Palma", 5]]}
+{"id": "509", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "510", "predicted_label": "REFUTES", "predicted_evidence": [["Watertown,_Massachusetts", 0]]}
+{"id": "511", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "512", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "513", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "514", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "515", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "516", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "517", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Beverly_Hillbillies", 0]]}
+{"id": "518", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "519", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "520", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "521", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "522", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "523", "predicted_label": "REFUTES", "predicted_evidence": [["Emperor_Norton", 19]]}
+{"id": "524", "predicted_label": "SUPPORTS", "predicted_evidence": [["Absinthe", 0]]}
+{"id": "525", "predicted_label": "SUPPORTS", "predicted_evidence": [["Amancio_Ortega", 1]]}
+{"id": "526", "predicted_label": "REFUTES", "predicted_evidence": [["Jed_Whedon", 0]]}
+{"id": "527", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "528", "predicted_label": "SUPPORTS", "predicted_evidence": [["Paul_von_Hindenburg", 0]]}
+{"id": "529", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "530", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "531", "predicted_label": "SUPPORTS", "predicted_evidence": [["Nawaz_Sharif", 0]]}
+{"id": "532", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "533", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "534", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "535", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "536", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "537", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "538", "predicted_label": "SUPPORTS", "predicted_evidence": [["Natasha_Lyonne", 0]]}
+{"id": "539", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "540", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "541", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "542", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "543", "predicted_label": "SUPPORTS", "predicted_evidence": [["Port_of_Spain", 5]]}
+{"id": "544", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "545", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "546", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "547", "predicted_label": "SUPPORTS", "predicted_evidence": [["Uranium", 0]]}
+{"id": "548", "predicted_label": "REFUTES", "predicted_evidence": [["Michael_Hutchence", 0], ["Michael_Hutchence", 15]]}
+{"id": "549", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "550", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "551", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "552", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "553", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "554", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "555", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "556", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "557", "predicted_label": "SUPPORTS", "predicted_evidence": [["Port_of_Spain", 5]]}
+{"id": "558", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "559", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "560", "predicted_label": "SUPPORTS", "predicted_evidence": [["Icelandic_Coast_Guard", 0]]}
+{"id": "561", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Chaperone_-LRB-film-RRB-", 0]]}
+{"id": "562", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "563", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "564", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "565", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "566", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "567", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "568", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "569", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "570", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "571", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "572", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "573", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "574", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "575", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "576", "predicted_label": "SUPPORTS", "predicted_evidence": [["L._Ron_Hubbard", 0]]}
+{"id": "577", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "578", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "579", "predicted_label": "REFUTES", "predicted_evidence": [["Meghan_Markle", 0]]}
+{"id": "580", "predicted_label": "REFUTES", "predicted_evidence": [["Dodo", 10]]}
+{"id": "581", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "582", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "583", "predicted_label": "SUPPORTS", "predicted_evidence": [["Port_of_Spain", 5]]}
+{"id": "584", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "585", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mike_Friedrich", 0]]}
+{"id": "586", "predicted_label": "SUPPORTS", "predicted_evidence": [["Yin_and_yang", 0], ["Yin_and_yang", 10]]}
+{"id": "587", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "588", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "589", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "590", "predicted_label": "SUPPORTS", "predicted_evidence": [["Andrea_Pirlo", 0]]}
+{"id": "591", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "592", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "593", "predicted_label": "REFUTES", "predicted_evidence": [["Port_of_Spain", 0], ["Port_of_Spain", 15], ["Port_of_Spain", 18]]}
+{"id": "594", "predicted_label": "REFUTES", "predicted_evidence": [["Shomu_Mukherjee", 9]]}
+{"id": "595", "predicted_label": "SUPPORTS", "predicted_evidence": [["Elizabeth_I_of_England", 4]]}
+{"id": "596", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "597", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "598", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "599", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "600", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "601", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "602", "predicted_label": "REFUTES", "predicted_evidence": [["Andrea_Pirlo", 0]]}
+{"id": "603", "predicted_label": "SUPPORTS", "predicted_evidence": [["Pakistan", 0]]}
+{"id": "604", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "605", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "606", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "607", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "608", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "609", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "610", "predicted_label": "REFUTES", "predicted_evidence": [["Jerome_Flynn", 0]]}
+{"id": "611", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "612", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "613", "predicted_label": "REFUTES", "predicted_evidence": [["Port_of_Spain", 0]]}
+{"id": "614", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "615", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "616", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "617", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "618", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "619", "predicted_label": "REFUTES", "predicted_evidence": [["Levoamphetamine", 0]]}
+{"id": "620", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "621", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "622", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "623", "predicted_label": "REFUTES", "predicted_evidence": [["Barbarella_-LRB-film-RRB-", 0]]}
+{"id": "624", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "625", "predicted_label": "SUPPORTS", "predicted_evidence": [["Uranium", 0], ["Uranium", 23]]}
+{"id": "626", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "627", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "628", "predicted_label": "REFUTES", "predicted_evidence": [["Balibo_-LRB-film-RRB-", 0]]}
+{"id": "629", "predicted_label": "REFUTES", "predicted_evidence": [["Unison_-LRB-Celine_Dion_album-RRB-", 1]]}
+{"id": "630", "predicted_label": "SUPPORTS", "predicted_evidence": [["Andrew_Carnegie", 3]]}
+{"id": "631", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "632", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "633", "predicted_label": "REFUTES", "predicted_evidence": [["Chris_Benoit", 0], ["Chris_Benoit", 14]]}
+{"id": "634", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "635", "predicted_label": "SUPPORTS", "predicted_evidence": [["Doxycycline", 6]]}
+{"id": "636", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "637", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "638", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "639", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "640", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "641", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "642", "predicted_label": "REFUTES", "predicted_evidence": [["Levoamphetamine", 0]]}
+{"id": "643", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "644", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "645", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "646", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "647", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "648", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "649", "predicted_label": "SUPPORTS", "predicted_evidence": [["Chris_Mullin_-LRB-basketball-RRB-", 11]]}
+{"id": "650", "predicted_label": "SUPPORTS", "predicted_evidence": [["Rick_Ross", 3]]}
+{"id": "651", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "652", "predicted_label": "SUPPORTS", "predicted_evidence": [["Islamabad", 0], ["Islamabad", 1]]}
+{"id": "653", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "654", "predicted_label": "SUPPORTS", "predicted_evidence": [["Yemen", 2], ["Yemen", 5]]}
+{"id": "655", "predicted_label": "SUPPORTS", "predicted_evidence": [["Amancio_Ortega", 1]]}
+{"id": "656", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "657", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "658", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "659", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "660", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "661", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "662", "predicted_label": "REFUTES", "predicted_evidence": [["Fort_Stanwix", 0]]}
+{"id": "663", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "664", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "665", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tangled", 0]]}
+{"id": "666", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "667", "predicted_label": "REFUTES", "predicted_evidence": [["Levoamphetamine", 0]]}
+{"id": "668", "predicted_label": "SUPPORTS", "predicted_evidence": [["Dan_Brown", 0], ["Dan_Brown", 1], ["Dan_Brown", 2], ["Dan_Brown", 6]]}
+{"id": "669", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "670", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "671", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "672", "predicted_label": "REFUTES", "predicted_evidence": [["Anna_Nicole_Smith", 0], ["Anna_Nicole_Smith", 11]]}
+{"id": "673", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "674", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "675", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "676", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "677", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "678", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "679", "predicted_label": "REFUTES", "predicted_evidence": [["Virginia", 19]]}
+{"id": "680", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "681", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "682", "predicted_label": "SUPPORTS", "predicted_evidence": [["Levoamphetamine", 0]]}
+{"id": "683", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "684", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "685", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "686", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "687", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "688", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "689", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "690", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "691", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "692", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "693", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "694", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "695", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "696", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "697", "predicted_label": "REFUTES", "predicted_evidence": [["Tennessee", 0], ["Tennessee_-LRB-film-RRB-", 0]]}
+{"id": "698", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "699", "predicted_label": "SUPPORTS", "predicted_evidence": [["Natasha_Lyonne", 0]]}
+{"id": "700", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "701", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "702", "predicted_label": "REFUTES", "predicted_evidence": [["Sausage_Party", 0]]}
+{"id": "703", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "704", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "705", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "706", "predicted_label": "REFUTES", "predicted_evidence": [["Shomu_Mukherjee", 9]]}
+{"id": "707", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "708", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "709", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "710", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mike_Friedrich", 0]]}
+{"id": "711", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "712", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "713", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "714", "predicted_label": "REFUTES", "predicted_evidence": [["Amancio_Ortega", 0]]}
+{"id": "715", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "716", "predicted_label": "REFUTES", "predicted_evidence": [["The_SpongeBob_SquarePants_Movie", 0]]}
+{"id": "717", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "718", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "719", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ayananka_Bose", 0]]}
+{"id": "720", "predicted_label": "SUPPORTS", "predicted_evidence": [["Adidas", 10]]}
+{"id": "721", "predicted_label": "SUPPORTS", "predicted_evidence": [["Python_-LRB-programming_language-RRB-", 5]]}
+{"id": "722", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "723", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "724", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "725", "predicted_label": "REFUTES", "predicted_evidence": [["Yin_and_yang", 13]]}
+{"id": "726", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "727", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "728", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "729", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "730", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "731", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "732", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "733", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "734", "predicted_label": "REFUTES", "predicted_evidence": [["Uganda", 11]]}
+{"id": "735", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "736", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "737", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "738", "predicted_label": "REFUTES", "predicted_evidence": [["William_Cohen", 0]]}
+{"id": "739", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "740", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "741", "predicted_label": "SUPPORTS", "predicted_evidence": [["Temple_Grandin_-LRB-film-RRB-", 0]]}
+{"id": "742", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "743", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "744", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "745", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "746", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "747", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "748", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "749", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "750", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "751", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "752", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "753", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "754", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "755", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "756", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "757", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "758", "predicted_label": "REFUTES", "predicted_evidence": [["Anna_Nicole_Smith", 2]]}
+{"id": "759", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "760", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "761", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "762", "predicted_label": "SUPPORTS", "predicted_evidence": [["Babur", 0]]}
+{"id": "763", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "764", "predicted_label": "SUPPORTS", "predicted_evidence": [["Dawood_Ibrahim", 0]]}
+{"id": "765", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "766", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "767", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "768", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "769", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "770", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "771", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "772", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "773", "predicted_label": "REFUTES", "predicted_evidence": [["Port_of_Spain", 0], ["Port_of_Spain", 5]]}
+{"id": "774", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "775", "predicted_label": "REFUTES", "predicted_evidence": [["Burj_Khalifa", 20]]}
+{"id": "776", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "777", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "778", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "779", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "780", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "781", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "782", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "783", "predicted_label": "REFUTES", "predicted_evidence": [["Georges_Gilles_de_la_Tourette", 11]]}
+{"id": "784", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "785", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "786", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "787", "predicted_label": "REFUTES", "predicted_evidence": [["Emperor_Norton", 19]]}
+{"id": "788", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "789", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "790", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "791", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "792", "predicted_label": "REFUTES", "predicted_evidence": [["Loretta_Sanchez", 0]]}
+{"id": "793", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "794", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "795", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "796", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "797", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "798", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "799", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "800", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "801", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "802", "predicted_label": "SUPPORTS", "predicted_evidence": [["Joni_Mitchell", 20]]}
+{"id": "803", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "804", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "805", "predicted_label": "REFUTES", "predicted_evidence": [["Balibo_-LRB-film-RRB-", 0]]}
+{"id": "806", "predicted_label": "SUPPORTS", "predicted_evidence": [["Faye_Resnick", 0], ["Faye_Resnick", 1]]}
+{"id": "807", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "808", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "809", "predicted_label": "SUPPORTS", "predicted_evidence": [["Coins_of_the_Swiss_franc", 0]]}
+{"id": "810", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "811", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "812", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "813", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "814", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "815", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "816", "predicted_label": "REFUTES", "predicted_evidence": [["Augustus", 10], ["Augustus", 17], ["Augustus", 43]]}
+{"id": "817", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "818", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "819", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "820", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "821", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "822", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "823", "predicted_label": "SUPPORTS", "predicted_evidence": [["Yin_and_yang", 0], ["Yin_and_yang", 7], ["Yin_and_yang", 10]]}
+{"id": "824", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "825", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "826", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "827", "predicted_label": "SUPPORTS", "predicted_evidence": [["Africa_Cup", 0], ["Africa_Cup_of_Nations", 0]]}
+{"id": "828", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "829", "predicted_label": "SUPPORTS", "predicted_evidence": [["Temple_Mount", 1], ["Temple_Mount", 24], ["Temple_Mount", 36]]}
+{"id": "830", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "831", "predicted_label": "SUPPORTS", "predicted_evidence": [["KGB", 7]]}
+{"id": "832", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "833", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "834", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "835", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "836", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "837", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "838", "predicted_label": "SUPPORTS", "predicted_evidence": [["Michael_Hutchence", 15]]}
+{"id": "839", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "840", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "841", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "842", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "843", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "844", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "845", "predicted_label": "REFUTES", "predicted_evidence": [["Netscape_Browser", 1], ["AOL", 5]]}
+{"id": "846", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "847", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "848", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "849", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "850", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "851", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "852", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "853", "predicted_label": "REFUTES", "predicted_evidence": [["Fort_Stanwix", 0]]}
+{"id": "854", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "855", "predicted_label": "SUPPORTS", "predicted_evidence": [["Gory_Guerrero", 0]]}
+{"id": "856", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "857", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "858", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "859", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "860", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "861", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "862", "predicted_label": "REFUTES", "predicted_evidence": [["Adobe_Photoshop", 0]]}
+{"id": "863", "predicted_label": "REFUTES", "predicted_evidence": [["Ned_Stark", 1]]}
+{"id": "864", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "865", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "866", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "867", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "868", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "869", "predicted_label": "SUPPORTS", "predicted_evidence": [["Gory_Guerrero", 0]]}
+{"id": "870", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "871", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "872", "predicted_label": "REFUTES", "predicted_evidence": [["Augustus", 10]]}
+{"id": "873", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "874", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "875", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "876", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "877", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "878", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "879", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "880", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "881", "predicted_label": "REFUTES", "predicted_evidence": [["Jenny_McCarthy", 1]]}
+{"id": "882", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "883", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "884", "predicted_label": "SUPPORTS", "predicted_evidence": [["Woodrow_Wilson", 3]]}
+{"id": "885", "predicted_label": "REFUTES", "predicted_evidence": [["Antigua", 0]]}
+{"id": "886", "predicted_label": "SUPPORTS", "predicted_evidence": [["Monosodium_glutamate", 4]]}
+{"id": "887", "predicted_label": "SUPPORTS", "predicted_evidence": [["Edison_James", 11]]}
+{"id": "888", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "889", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "890", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "891", "predicted_label": "REFUTES", "predicted_evidence": [["Port_of_Spain", 0], ["Port_of_Spain", 15]]}
+{"id": "892", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "893", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "894", "predicted_label": "SUPPORTS", "predicted_evidence": [["Half_Girlfriend_-LRB-film-RRB-", 4]]}
+{"id": "895", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "896", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "897", "predicted_label": "SUPPORTS", "predicted_evidence": [["Romani_people", 18]]}
+{"id": "898", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "899", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "900", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "901", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "902", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "903", "predicted_label": "REFUTES", "predicted_evidence": [["Lorelai_Gilmore", 3]]}
+{"id": "904", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "905", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "906", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "907", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "908", "predicted_label": "SUPPORTS", "predicted_evidence": [["Burj_Khalifa", 20]]}
+{"id": "909", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "910", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "911", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "912", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "913", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "914", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "915", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "916", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "917", "predicted_label": "SUPPORTS", "predicted_evidence": [["Caleb_McLaughlin", 0]]}
+{"id": "918", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "919", "predicted_label": "SUPPORTS", "predicted_evidence": [["Fred_Seibert", 3]]}
+{"id": "920", "predicted_label": "SUPPORTS", "predicted_evidence": [["Brown_University", 19]]}
+{"id": "921", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "922", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "923", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "924", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "925", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "926", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "927", "predicted_label": "REFUTES", "predicted_evidence": [["Islamabad", 0], ["Islamabad", 16]]}
+{"id": "928", "predicted_label": "REFUTES", "predicted_evidence": [["Vincent_D'Onofrio", 4]]}
+{"id": "929", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "930", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "931", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "932", "predicted_label": "SUPPORTS", "predicted_evidence": [["Andrew_Carnegie", 3]]}
+{"id": "933", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "934", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "935", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "936", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "937", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "938", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "939", "predicted_label": "REFUTES", "predicted_evidence": [["Java", 9]]}
+{"id": "940", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "941", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "942", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "943", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "944", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "945", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "946", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "947", "predicted_label": "SUPPORTS", "predicted_evidence": [["Samsung", 6]]}
+{"id": "948", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "949", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "950", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "951", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "952", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "953", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "954", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "955", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "956", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "957", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "958", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "959", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "960", "predicted_label": "REFUTES", "predicted_evidence": [["Samsung", 6]]}
+{"id": "961", "predicted_label": "SUPPORTS", "predicted_evidence": [["Doxycycline", 6]]}
+{"id": "962", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "963", "predicted_label": "REFUTES", "predicted_evidence": [["Shomu_Mukherjee", 9]]}
+{"id": "964", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sky_UK", 0]]}
+{"id": "965", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "966", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "967", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "968", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "969", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "970", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "971", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "972", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "973", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "974", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "975", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "976", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "977", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "978", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "979", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "980", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "981", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "982", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "983", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "984", "predicted_label": "REFUTES", "predicted_evidence": [["Jenny_McCarthy", 1]]}
+{"id": "985", "predicted_label": "SUPPORTS", "predicted_evidence": [["Pocahontas", 9]]}
+{"id": "986", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "987", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "988", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "989", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "990", "predicted_label": "SUPPORTS", "predicted_evidence": [["Legendary_Entertainment", 2]]}
+{"id": "991", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "992", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "993", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "994", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "995", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "996", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "997", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "998", "predicted_label": "REFUTES", "predicted_evidence": [["Fiji_Hindi", 1]]}

@@ -1,0 +1,6 @@
+fever-allennlp-reader
+fever-scorer
+fever-allennlp
+prettytable
+sklearn
+tqdm

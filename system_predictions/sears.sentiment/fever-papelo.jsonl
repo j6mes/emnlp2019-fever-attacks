@@ -1,0 +1,999 @@
+{"id": "0", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "1", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "2", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "3", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "4", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Chaperone_-LRB-film-RRB-", 0]]}
+{"id": "5", "predicted_label": "REFUTES", "predicted_evidence": [["Michaela_Watkins", 0], ["Michaela_Watkins", 1]]}
+{"id": "6", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "7", "predicted_label": "REFUTES", "predicted_evidence": [["The_Little_Prince_-LRB-2015_film-RRB-", 0], ["The_Little_Prince_-LRB-2015_film-RRB-", 5]]}
+{"id": "8", "predicted_label": "SUPPORTS", "predicted_evidence": [["Buffy_Summers", 1], ["Buffy_Summers", 3], ["Buffy_Summers", 8]]}
+{"id": "9", "predicted_label": "REFUTES", "predicted_evidence": [["The_Bassoon_King", 0]]}
+{"id": "10", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "11", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "12", "predicted_label": "REFUTES", "predicted_evidence": [["One_True_Thing", 0], ["One_True_Thing_-LRB-band-RRB-", 0]]}
+{"id": "13", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "14", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "15", "predicted_label": "REFUTES", "predicted_evidence": [["Eva_Green", 1]]}
+{"id": "16", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "17", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "18", "predicted_label": "SUPPORTS", "predicted_evidence": [["Working_animal", 0]]}
+{"id": "19", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "20", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "21", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tottenham_Hotspur_F.C.", 0], ["Tottenham_Hotspur_F.C.", 5]]}
+{"id": "22", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "23", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "24", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "25", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "26", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "27", "predicted_label": "REFUTES", "predicted_evidence": [["The_Closer", 8]]}
+{"id": "28", "predicted_label": "REFUTES", "predicted_evidence": [["Beaverton,_Oregon", 0]]}
+{"id": "29", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "30", "predicted_label": "SUPPORTS", "predicted_evidence": [["Fuller_House_-LRB-TV_series-RRB-", 0]]}
+{"id": "31", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "32", "predicted_label": "REFUTES", "predicted_evidence": [["Veeram_-LRB-2014_film-RRB-", 0]]}
+{"id": "33", "predicted_label": "REFUTES", "predicted_evidence": [["Nottingham_Forest_F.C.", 0]]}
+{"id": "34", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Invisible_Man_-LRB-film-RRB-", 0]]}
+{"id": "35", "predicted_label": "SUPPORTS", "predicted_evidence": [["Matthew_Vaughn", 0], ["Matthew_Vaughn", 1]]}
+{"id": "36", "predicted_label": "REFUTES", "predicted_evidence": [["The_Mod_Squad", 0]]}
+{"id": "37", "predicted_label": "SUPPORTS", "predicted_evidence": [["Monk", 0]]}
+{"id": "38", "predicted_label": "REFUTES", "predicted_evidence": [["Ed_Decter", 0]]}
+{"id": "39", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "40", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "41", "predicted_label": "REFUTES", "predicted_evidence": [["The_Adventures_of_Pluto_Nash", 0]]}
+{"id": "42", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "43", "predicted_label": "REFUTES", "predicted_evidence": [["Alexandra_Daddario", 0]]}
+{"id": "44", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "45", "predicted_label": "SUPPORTS", "predicted_evidence": [["Larry_the_Cable_Guy", 14]]}
+{"id": "46", "predicted_label": "SUPPORTS", "predicted_evidence": [["Akon", 0]]}
+{"id": "47", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "48", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Daily_Show", 2]]}
+{"id": "49", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "50", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "51", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "52", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "53", "predicted_label": "SUPPORTS", "predicted_evidence": [["Hanford_Site", 23]]}
+{"id": "54", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "55", "predicted_label": "SUPPORTS", "predicted_evidence": [["New_Orleans_Pelicans", 1]]}
+{"id": "56", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Nice_Guys", 0]]}
+{"id": "57", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eurotas_-LRB-river-RRB-", 0]]}
+{"id": "58", "predicted_label": "REFUTES", "predicted_evidence": [["Tilda_Swinton", 0]]}
+{"id": "59", "predicted_label": "SUPPORTS", "predicted_evidence": [["English_people", 7]]}
+{"id": "60", "predicted_label": "SUPPORTS", "predicted_evidence": [["Taran_Killam", 0]]}
+{"id": "61", "predicted_label": "REFUTES", "predicted_evidence": [["Argentina", 0], ["Argentina", 3], ["Argentina", 12]]}
+{"id": "62", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "63", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "64", "predicted_label": "SUPPORTS", "predicted_evidence": [["Congressional_Space_Medal_of_Honor", 1]]}
+{"id": "65", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "66", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "67", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "68", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sarah_Hyland", 0]]}
+{"id": "69", "predicted_label": "REFUTES", "predicted_evidence": [["Eva_Green", 1]]}
+{"id": "70", "predicted_label": "SUPPORTS", "predicted_evidence": [["Dan_Trachtenberg", 0]]}
+{"id": "71", "predicted_label": "REFUTES", "predicted_evidence": [["Tremont_Street_Subway", 2], ["Tremont_Street_Subway", 5]]}
+{"id": "72", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "73", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "74", "predicted_label": "REFUTES", "predicted_evidence": [["Pulmonary_embolism", 3]]}
+{"id": "75", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Good_Wife", 0], ["The_Good_Wife", 9], ["The_Good_Wife", 12]]}
+{"id": "76", "predicted_label": "SUPPORTS", "predicted_evidence": [["Saturn_Corporation", 0]]}
+{"id": "77", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "78", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "79", "predicted_label": "SUPPORTS", "predicted_evidence": [["Pearl_-LRB-Steven_Universe-RRB-", 1]]}
+{"id": "80", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "81", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Lion_King", 6]]}
+{"id": "82", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sancho_Panza", 0]]}
+{"id": "83", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "84", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "85", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "86", "predicted_label": "REFUTES", "predicted_evidence": [["Stomp_the_Yard", 0]]}
+{"id": "87", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "88", "predicted_label": "REFUTES", "predicted_evidence": [["The_Love_Club_EP", 0]]}
+{"id": "89", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "90", "predicted_label": "REFUTES", "predicted_evidence": [["The_Nice_Guys", 0]]}
+{"id": "91", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "92", "predicted_label": "REFUTES", "predicted_evidence": [["The_Winds_of_Winter", 0]]}
+{"id": "93", "predicted_label": "REFUTES", "predicted_evidence": [["Premier_League_Asia_Trophy", 0]]}
+{"id": "94", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "95", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "96", "predicted_label": "SUPPORTS", "predicted_evidence": [["Middle-earth", 0]]}
+{"id": "97", "predicted_label": "SUPPORTS", "predicted_evidence": [["Palo_Alto,_California", 0]]}
+{"id": "98", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "99", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "100", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "101", "predicted_label": "REFUTES", "predicted_evidence": [["Prescott,_Arizona", 0]]}
+{"id": "102", "predicted_label": "SUPPORTS", "predicted_evidence": [["Lyon", 4]]}
+{"id": "103", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "104", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "105", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "106", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "107", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "108", "predicted_label": "REFUTES", "predicted_evidence": [["Wentworth_Miller", 2]]}
+{"id": "109", "predicted_label": "SUPPORTS", "predicted_evidence": [["Larry_Wilmore", 0], ["Larry_Wilmore", 2]]}
+{"id": "110", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "111", "predicted_label": "SUPPORTS", "predicted_evidence": [["Swordfish_-LRB-film-RRB-", 1]]}
+{"id": "112", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "113", "predicted_label": "SUPPORTS", "predicted_evidence": [["Human_trafficking", 0]]}
+{"id": "114", "predicted_label": "SUPPORTS", "predicted_evidence": [["Marvel_vs._Capcom-COLON-_Infinite", 1]]}
+{"id": "115", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tamerlan_Tsarnaev", 8]]}
+{"id": "116", "predicted_label": "SUPPORTS", "predicted_evidence": [["Dan_Trachtenberg", 0]]}
+{"id": "117", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "118", "predicted_label": "SUPPORTS", "predicted_evidence": [["Happiness_in_Slavery", 0]]}
+{"id": "119", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "120", "predicted_label": "SUPPORTS", "predicted_evidence": [["Reign_Over_Me", 0], ["Reign_Over_Me", 4]]}
+{"id": "121", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "122", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "123", "predicted_label": "REFUTES", "predicted_evidence": [["Brazzers", 0]]}
+{"id": "124", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "125", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "126", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "127", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jerome_Flynn", 0]]}
+{"id": "128", "predicted_label": "REFUTES", "predicted_evidence": [["Brad_Wilk", 4]]}
+{"id": "129", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "130", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "131", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "132", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "133", "predicted_label": "REFUTES", "predicted_evidence": [["The_Challenge_XXX-COLON-_Dirty_30", 0]]}
+{"id": "134", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Walking_Dead_-LRB-comic_book-RRB-", 12]]}
+{"id": "135", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "136", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "137", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "138", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Mod_Squad", 0]]}
+{"id": "139", "predicted_label": "REFUTES", "predicted_evidence": [["Marvel_vs._Capcom-COLON-_Infinite", 0]]}
+{"id": "140", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "141", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "142", "predicted_label": "SUPPORTS", "predicted_evidence": [["Meteora_-LRB-album-RRB-", 0]]}
+{"id": "143", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "144", "predicted_label": "SUPPORTS", "predicted_evidence": [["Touch_My_Body", 2], ["Touch_My_Body", 7]]}
+{"id": "145", "predicted_label": "REFUTES", "predicted_evidence": [["Angelsberg", 0]]}
+{"id": "146", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "147", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "148", "predicted_label": "SUPPORTS", "predicted_evidence": [["Buffy_Summers", 1], ["Buffy_Summers", 8]]}
+{"id": "149", "predicted_label": "REFUTES", "predicted_evidence": [["Endometrial_cancer", 26]]}
+{"id": "150", "predicted_label": "REFUTES", "predicted_evidence": [["Easy_A", 0]]}
+{"id": "151", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "152", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "153", "predicted_label": "REFUTES", "predicted_evidence": [["Practical_Magic", 0]]}
+{"id": "154", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "155", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "156", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "157", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "158", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Times", 0]]}
+{"id": "159", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "160", "predicted_label": "SUPPORTS", "predicted_evidence": [["Wish_Upon", 0]]}
+{"id": "161", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "162", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "163", "predicted_label": "SUPPORTS", "predicted_evidence": [["Live_Nation_Entertainment", 0]]}
+{"id": "164", "predicted_label": "REFUTES", "predicted_evidence": [["Grateful_Dead", 15]]}
+{"id": "165", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "166", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "167", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "168", "predicted_label": "REFUTES", "predicted_evidence": [["Danger_UXB", 0]]}
+{"id": "169", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "170", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ice-T", 1]]}
+{"id": "171", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "172", "predicted_label": "SUPPORTS", "predicted_evidence": [["Harris_Jayaraj", 0]]}
+{"id": "173", "predicted_label": "REFUTES", "predicted_evidence": [["Reign_Over_Me", 0]]}
+{"id": "174", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "175", "predicted_label": "REFUTES", "predicted_evidence": [["Reign_Over_Me", 0]]}
+{"id": "176", "predicted_label": "REFUTES", "predicted_evidence": [["Brick_-LRB-film-RRB-", 0]]}
+{"id": "177", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "178", "predicted_label": "SUPPORTS", "predicted_evidence": [["Murda_Beatz", 0]]}
+{"id": "179", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "180", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "181", "predicted_label": "SUPPORTS", "predicted_evidence": [["Despacito", 12]]}
+{"id": "182", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "183", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "184", "predicted_label": "SUPPORTS", "predicted_evidence": [["Middle-earth", 0]]}
+{"id": "185", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "186", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "187", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Bahamas", 0], ["The_Bahamas", 3]]}
+{"id": "188", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "189", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "190", "predicted_label": "REFUTES", "predicted_evidence": [["Practical_Magic", 0]]}
+{"id": "191", "predicted_label": "SUPPORTS", "predicted_evidence": [["Calcaneal_spur", 1]]}
+{"id": "192", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "193", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "194", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "195", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "196", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "197", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "198", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "199", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "200", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "201", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "202", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "203", "predicted_label": "REFUTES", "predicted_evidence": [["Morgan_Fairchild", 1], ["Morgan_Fairchild", 5], ["Morgan_Fairchild", 6], ["Morgan_Fairchild", 7]]}
+{"id": "204", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "205", "predicted_label": "REFUTES", "predicted_evidence": [["Fuller_House_-LRB-TV_series-RRB-", 0]]}
+{"id": "206", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "207", "predicted_label": "REFUTES", "predicted_evidence": [["Danger_UXB", 0], ["Danger_UXD", 1], ["Danger_UXB", 11]]}
+{"id": "208", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jenny_McCarthy", 1]]}
+{"id": "209", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "210", "predicted_label": "SUPPORTS", "predicted_evidence": [["Randy_Savage", 0]]}
+{"id": "211", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "212", "predicted_label": "REFUTES", "predicted_evidence": [["Horse", 2]]}
+{"id": "213", "predicted_label": "SUPPORTS", "predicted_evidence": [["Blade_Runner_2049", 0], ["Blade_Runner_2049", 1], ["Blade_Runner_2049", 2]]}
+{"id": "214", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "215", "predicted_label": "SUPPORTS", "predicted_evidence": [["Fabian_Nicieza", 0]]}
+{"id": "216", "predicted_label": "SUPPORTS", "predicted_evidence": [["CHiPs_-LRB-film-RRB-", 0]]}
+{"id": "217", "predicted_label": "SUPPORTS", "predicted_evidence": [["Nymphomaniac_-LRB-film-RRB-", 13]]}
+{"id": "218", "predicted_label": "SUPPORTS", "predicted_evidence": [["Beaverton,_Oregon", 0]]}
+{"id": "219", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "220", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mike_Friedrich", 0]]}
+{"id": "221", "predicted_label": "REFUTES", "predicted_evidence": [["Alexandra_Daddario", 0], ["Alexandra_Daddario", 1]]}
+{"id": "222", "predicted_label": "REFUTES", "predicted_evidence": [["Michigan", 0]]}
+{"id": "223", "predicted_label": "SUPPORTS", "predicted_evidence": [["Matt_Bomer", 0], ["Matt_Bomer", 1], ["Matt_Bomer", 2], ["Matt_Bomer", 3], ["Matt_Bomer", 4]]}
+{"id": "224", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "225", "predicted_label": "REFUTES", "predicted_evidence": [["Camden,_New_Jersey", 0]]}
+{"id": "226", "predicted_label": "REFUTES", "predicted_evidence": [["Andrew_Kevin_Walker", 0]]}
+{"id": "227", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mohra", 4]]}
+{"id": "228", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "229", "predicted_label": "REFUTES", "predicted_evidence": [["Salt_River_Valley", 0]]}
+{"id": "230", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "231", "predicted_label": "SUPPORTS", "predicted_evidence": [["Victoria_Palace_Theatre", 0]]}
+{"id": "232", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "233", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "234", "predicted_label": "REFUTES", "predicted_evidence": [["Brad_Wilk", 4]]}
+{"id": "235", "predicted_label": "SUPPORTS", "predicted_evidence": [["Indian_Army", 16]]}
+{"id": "236", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "237", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "238", "predicted_label": "SUPPORTS", "predicted_evidence": [["PBS", 0]]}
+{"id": "239", "predicted_label": "REFUTES", "predicted_evidence": [["IPhone_4", 0]]}
+{"id": "240", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "241", "predicted_label": "SUPPORTS", "predicted_evidence": [["Overexposed_-LRB-album-RRB-", 1], ["Overexposed_-LRB-album-RRB-", 8]]}
+{"id": "242", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "243", "predicted_label": "REFUTES", "predicted_evidence": [["Brick_-LRB-film-RRB-", 0]]}
+{"id": "244", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "245", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "246", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "247", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "248", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "249", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "250", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sabbir_Khan", 1]]}
+{"id": "251", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vietnam", 7]]}
+{"id": "252", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "253", "predicted_label": "REFUTES", "predicted_evidence": [["The_Disaster_Artist_-LRB-film-RRB-", 5]]}
+{"id": "254", "predicted_label": "SUPPORTS", "predicted_evidence": [["Meteora_-LRB-album-RRB-", 0]]}
+{"id": "255", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "256", "predicted_label": "REFUTES", "predicted_evidence": [["Taarak_Mehta_Ka_Ooltah_Chashmah", 0]]}
+{"id": "257", "predicted_label": "SUPPORTS", "predicted_evidence": [["Balibo_-LRB-film-RRB-", 0], ["Balibo_-LRB-film-RRB-", 4]]}
+{"id": "258", "predicted_label": "SUPPORTS", "predicted_evidence": [["Nobel_Prize", 4], ["Nobel_Prize_in_Chemistry", 6]]}
+{"id": "259", "predicted_label": "SUPPORTS", "predicted_evidence": [["Chile", 0]]}
+{"id": "260", "predicted_label": "REFUTES", "predicted_evidence": [["Corsica", 0]]}
+{"id": "261", "predicted_label": "SUPPORTS", "predicted_evidence": [["Bruce_Shand", 0]]}
+{"id": "262", "predicted_label": "SUPPORTS", "predicted_evidence": [["You_Only_Live_Twice_-LRB-film-RRB-", 12]]}
+{"id": "263", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "264", "predicted_label": "SUPPORTS", "predicted_evidence": [["Colin_Kaepernick", 0], ["Colin_Kaepernick", 1]]}
+{"id": "265", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ludwig_van_Beethoven", 5]]}
+{"id": "266", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "267", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "268", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "269", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "270", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "271", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "272", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Mighty_Ducks", 1]]}
+{"id": "273", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "274", "predicted_label": "REFUTES", "predicted_evidence": [["House_of_Balloons", 0]]}
+{"id": "275", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jason_Bourne_-LRB-film-RRB-", 0], ["Jason_Bourne_-LRB-film-RRB-", 8]]}
+{"id": "276", "predicted_label": "REFUTES", "predicted_evidence": [["Same_Old_Love", 0], ["Same_Old_Love", 5], ["Same_Old_Love", 9], ["Same_Old_Love", 12], ["Same_Old_Love", 16]]}
+{"id": "277", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Thin_Red_Line_-LRB-1998_film-RRB-", 2], ["The_Thin_Red_Line_-LRB-1998_film-RRB-", 3]]}
+{"id": "278", "predicted_label": "SUPPORTS", "predicted_evidence": [["Wilhelmina_Slater", 0], ["Wilhelmina_Slater", 1]]}
+{"id": "279", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "280", "predicted_label": "SUPPORTS", "predicted_evidence": [["American_Library_Association", 1]]}
+{"id": "281", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "282", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "283", "predicted_label": "REFUTES", "predicted_evidence": [["One_Flew_Over_the_Cuckoo's_Nest_-LRB-film-RRB-", 0]]}
+{"id": "284", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "285", "predicted_label": "SUPPORTS", "predicted_evidence": [["LinkedIn", 14]]}
+{"id": "286", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "287", "predicted_label": "REFUTES", "predicted_evidence": [["Therasia", 0]]}
+{"id": "288", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "289", "predicted_label": "REFUTES", "predicted_evidence": [["Princess_Mononoke", 0]]}
+{"id": "290", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "291", "predicted_label": "SUPPORTS", "predicted_evidence": [["Muscarinic_acetylcholine_receptor", 0]]}
+{"id": "292", "predicted_label": "REFUTES", "predicted_evidence": [["Michael_Hutchence", 15]]}
+{"id": "293", "predicted_label": "SUPPORTS", "predicted_evidence": [["Horse", 2]]}
+{"id": "294", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "295", "predicted_label": "SUPPORTS", "predicted_evidence": [["Dulquer_Salmaan", 0], ["Dulquer_Salmaan", 5], ["Dulquer_Salmaan", 7], ["Dulquer_Salmaan", 9]]}
+{"id": "296", "predicted_label": "REFUTES", "predicted_evidence": [["The_Beverly_Hillbillies", 0]]}
+{"id": "297", "predicted_label": "REFUTES", "predicted_evidence": [["Brie_Larson", 10]]}
+{"id": "298", "predicted_label": "SUPPORTS", "predicted_evidence": [["Aleister_Crowley", 0]]}
+{"id": "299", "predicted_label": "SUPPORTS", "predicted_evidence": [["Honeymoon_-LRB-Lana_Del_Rey_album-RRB-", 0]]}
+{"id": "300", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "301", "predicted_label": "REFUTES", "predicted_evidence": [["Qui-Gon_Jinn", 0]]}
+{"id": "302", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "303", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "304", "predicted_label": "SUPPORTS", "predicted_evidence": [["Maximum_Overdrive", 0]]}
+{"id": "305", "predicted_label": "SUPPORTS", "predicted_evidence": [["Rick_Yune", 2]]}
+{"id": "306", "predicted_label": "SUPPORTS", "predicted_evidence": [["Lorelai_Gilmore", 3]]}
+{"id": "307", "predicted_label": "SUPPORTS", "predicted_evidence": [["Emperor_Norton", 19]]}
+{"id": "308", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "309", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "310", "predicted_label": "REFUTES", "predicted_evidence": [["Selma_to_Montgomery_marches", 1]]}
+{"id": "311", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "312", "predicted_label": "REFUTES", "predicted_evidence": [["Padua", 1], ["Padua", 12]]}
+{"id": "313", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "314", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "315", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eric_Church", 0]]}
+{"id": "316", "predicted_label": "REFUTES", "predicted_evidence": [["Marnie_-LRB-film-RRB-", 0]]}
+{"id": "317", "predicted_label": "SUPPORTS", "predicted_evidence": [["Brat_Pack_-LRB-actors-RRB-", 0]]}
+{"id": "318", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "319", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "320", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "321", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "322", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "323", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "324", "predicted_label": "REFUTES", "predicted_evidence": [["Brick_-LRB-film-RRB-", 0]]}
+{"id": "325", "predicted_label": "REFUTES", "predicted_evidence": [["Birmingham", 0]]}
+{"id": "326", "predicted_label": "REFUTES", "predicted_evidence": [["Speech_recognition", 0]]}
+{"id": "327", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "328", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "329", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "330", "predicted_label": "REFUTES", "predicted_evidence": [["Cadet_Kelly", 0]]}
+{"id": "331", "predicted_label": "SUPPORTS", "predicted_evidence": [["Visigoths", 16]]}
+{"id": "332", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "333", "predicted_label": "SUPPORTS", "predicted_evidence": [["Reign_Over_Me", 0]]}
+{"id": "334", "predicted_label": "REFUTES", "predicted_evidence": [["Loretta_Sanchez", 0]]}
+{"id": "335", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "336", "predicted_label": "SUPPORTS", "predicted_evidence": [["Uganda", 11]]}
+{"id": "337", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "338", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "339", "predicted_label": "SUPPORTS", "predicted_evidence": [["Franchising", 8]]}
+{"id": "340", "predicted_label": "REFUTES", "predicted_evidence": [["Reign_Over_Me", 0]]}
+{"id": "341", "predicted_label": "SUPPORTS", "predicted_evidence": [["A_United_Kingdom", 0]]}
+{"id": "342", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "343", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jimi_Hendrix", 0], ["Jimi_Hendrix", 1], ["Jimi_Hendrix", 2], ["Jimi_Hendrix", 5], ["Jimi_Hendrix", 6]]}
+{"id": "344", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "345", "predicted_label": "REFUTES", "predicted_evidence": [["Randy_Savage", 0]]}
+{"id": "346", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "347", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "348", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "349", "predicted_label": "REFUTES", "predicted_evidence": [["The_Beach_-LRB-film-RRB-", 0]]}
+{"id": "350", "predicted_label": "SUPPORTS", "predicted_evidence": [["South_Island", 5]]}
+{"id": "351", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ares", 1]]}
+{"id": "352", "predicted_label": "SUPPORTS", "predicted_evidence": [["Brazzers", 0]]}
+{"id": "353", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "354", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "355", "predicted_label": "REFUTES", "predicted_evidence": [["The_SpongeBob_SquarePants_Movie", 0], ["The_SpongeBob_SquarePants_Movie", 1], ["The_SpongeBob_SquarePants_Movie", 2]]}
+{"id": "356", "predicted_label": "REFUTES", "predicted_evidence": [["Humphrey_Bogart", 0], ["Humphrey_Bogart", 17]]}
+{"id": "357", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "358", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "359", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "360", "predicted_label": "SUPPORTS", "predicted_evidence": [["Frozen_-LRB-2013_film-RRB-", 13]]}
+{"id": "361", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eighth_Doctor", 0]]}
+{"id": "362", "predicted_label": "REFUTES", "predicted_evidence": [["Floppy_disk", 0]]}
+{"id": "363", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "364", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "365", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "366", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "367", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tenth_Doctor", 8]]}
+{"id": "368", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "369", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "370", "predicted_label": "REFUTES", "predicted_evidence": [["The_Adventures_of_Pluto_Nash", 0]]}
+{"id": "371", "predicted_label": "REFUTES", "predicted_evidence": [["Daenerys_Targaryen", 5], ["Daenerys_Targaryen", 10], ["Daenerys_Targaryen", 11], ["Daenerys_Targaryen", 13], ["Daenerys_Targaryen", 14]]}
+{"id": "372", "predicted_label": "REFUTES", "predicted_evidence": [["Cretaceous", 8], ["Cretaceous", 9]]}
+{"id": "373", "predicted_label": "SUPPORTS", "predicted_evidence": [["Noah_Cyrus", 4]]}
+{"id": "374", "predicted_label": "SUPPORTS", "predicted_evidence": [["Angela_Bassett", 6]]}
+{"id": "375", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "376", "predicted_label": "REFUTES", "predicted_evidence": [["English_Wikipedia", 0], ["English_Wikipedia", 1]]}
+{"id": "377", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "378", "predicted_label": "SUPPORTS", "predicted_evidence": [["Duff_McKagan", 0]]}
+{"id": "379", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "380", "predicted_label": "SUPPORTS", "predicted_evidence": [["Daggering", 0]]}
+{"id": "381", "predicted_label": "SUPPORTS", "predicted_evidence": [["Red_Bull_Racing", 0]]}
+{"id": "382", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "383", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "384", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "385", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "386", "predicted_label": "SUPPORTS", "predicted_evidence": [["Bob_Ross", 1]]}
+{"id": "387", "predicted_label": "SUPPORTS", "predicted_evidence": [["Luis_Fonsi", 0]]}
+{"id": "388", "predicted_label": "SUPPORTS", "predicted_evidence": [["Cyprus", 7]]}
+{"id": "389", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "390", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "391", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "392", "predicted_label": "REFUTES", "predicted_evidence": [["Sheryl_Lee", 5], ["Sheryl_Lee", 6]]}
+{"id": "393", "predicted_label": "SUPPORTS", "predicted_evidence": [["Richard_Fortus", 1]]}
+{"id": "394", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "395", "predicted_label": "SUPPORTS", "predicted_evidence": [["Stan_Beeman", 0]]}
+{"id": "396", "predicted_label": "REFUTES", "predicted_evidence": [["Alvin_and_the_Chipmunks_-LRB-film-RRB-", 0]]}
+{"id": "397", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "398", "predicted_label": "SUPPORTS", "predicted_evidence": [["Uranium", 0]]}
+{"id": "399", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "400", "predicted_label": "REFUTES", "predicted_evidence": [["Fantastic_Four_-LRB-2005_film-RRB-", 0], ["Fantastic_Four_-LRB-2005_film-RRB-", 7]]}
+{"id": "401", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "402", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "403", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "404", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "405", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "406", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "407", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "408", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "409", "predicted_label": "REFUTES", "predicted_evidence": [["The_Little_Prince_-LRB-2015_film-RRB-", 0]]}
+{"id": "410", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "411", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "412", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "413", "predicted_label": "REFUTES", "predicted_evidence": [["Salman_Rushdie", 0]]}
+{"id": "414", "predicted_label": "SUPPORTS", "predicted_evidence": [["Port_of_Spain", 5]]}
+{"id": "415", "predicted_label": "REFUTES", "predicted_evidence": [["Basildon", 0]]}
+{"id": "416", "predicted_label": "SUPPORTS", "predicted_evidence": [["Maggie_Q", 1]]}
+{"id": "417", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "418", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "419", "predicted_label": "SUPPORTS", "predicted_evidence": [["Veeru_Devgan", 0]]}
+{"id": "420", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eric_Church", 0]]}
+{"id": "421", "predicted_label": "REFUTES", "predicted_evidence": [["B._R._Ambedkar", 0]]}
+{"id": "422", "predicted_label": "REFUTES", "predicted_evidence": [["Raabta_-LRB-song-RRB-", 0]]}
+{"id": "423", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "424", "predicted_label": "REFUTES", "predicted_evidence": [["Angela_Bassett", 6]]}
+{"id": "425", "predicted_label": "REFUTES", "predicted_evidence": [["Celebrity_Rehab_with_Dr._Drew", 0]]}
+{"id": "426", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "427", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "428", "predicted_label": "REFUTES", "predicted_evidence": [["Meteora_-LRB-album-RRB-", 0]]}
+{"id": "429", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sennacherib", 2]]}
+{"id": "430", "predicted_label": "REFUTES", "predicted_evidence": [["Private_Lives", 0]]}
+{"id": "431", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "432", "predicted_label": "SUPPORTS", "predicted_evidence": [["Robert_Singer_-LRB-producer-RRB-", 1]]}
+{"id": "433", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "434", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "435", "predicted_label": "SUPPORTS", "predicted_evidence": [["SpongeBob_SquarePants", 0], ["SpongeBob_SquarePants", 2], ["SpongeBob_SquarePants", 20]]}
+{"id": "436", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "437", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "438", "predicted_label": "SUPPORTS", "predicted_evidence": [["Cars_3", 0]]}
+{"id": "439", "predicted_label": "SUPPORTS", "predicted_evidence": [["Shinji_Mikami", 0], ["Shinji_Mikami", 2], ["Shinji_Mikami", 8]]}
+{"id": "440", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "441", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "442", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Sugarland_Express", 3]]}
+{"id": "443", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "444", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Hurt_Locker", 0]]}
+{"id": "445", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jamie_Murray", 1], ["Jamie_Murray", 5]]}
+{"id": "446", "predicted_label": "REFUTES", "predicted_evidence": [["Tottenham_Hotspur_F.C.", 0]]}
+{"id": "447", "predicted_label": "REFUTES", "predicted_evidence": [["Heaven_Can_Wait_-LRB-1978_film-RRB-", 1]]}
+{"id": "448", "predicted_label": "REFUTES", "predicted_evidence": [["Danger_UXB", 0]]}
+{"id": "449", "predicted_label": "REFUTES", "predicted_evidence": [["Ted_Cruz", 0]]}
+{"id": "450", "predicted_label": "SUPPORTS", "predicted_evidence": [["Veeru_Devgan", 0]]}
+{"id": "451", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mirny_-LRB-sloop-of-war-RRB-", 0]]}
+{"id": "452", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "453", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "454", "predicted_label": "SUPPORTS", "predicted_evidence": [["Wish_Upon", 0]]}
+{"id": "455", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "456", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "457", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "458", "predicted_label": "REFUTES", "predicted_evidence": [["Brick_Mansions", 0]]}
+{"id": "459", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vincent_D'Onofrio", 4]]}
+{"id": "460", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "461", "predicted_label": "SUPPORTS", "predicted_evidence": [["Nicholas_Brody", 1]]}
+{"id": "462", "predicted_label": "SUPPORTS", "predicted_evidence": [["Easy_A", 0]]}
+{"id": "463", "predicted_label": "REFUTES", "predicted_evidence": [["Stan_Beeman", 0]]}
+{"id": "464", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "465", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "466", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "467", "predicted_label": "REFUTES", "predicted_evidence": [["IPhone_4", 0]]}
+{"id": "468", "predicted_label": "REFUTES", "predicted_evidence": [["Barry_Van_Dyke", 0]]}
+{"id": "469", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "470", "predicted_label": "REFUTES", "predicted_evidence": [["A_Good_Day_to_Die_Hard", 0]]}
+{"id": "471", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "472", "predicted_label": "SUPPORTS", "predicted_evidence": [["Asylum_Records", 0]]}
+{"id": "473", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "474", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "475", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tom_Baker_-LRB-American_actor-RRB-", 0]]}
+{"id": "476", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "477", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "478", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "479", "predicted_label": "REFUTES", "predicted_evidence": [["Fred_Seibert", 0], ["Fred_Seibert", 3]]}
+{"id": "480", "predicted_label": "REFUTES", "predicted_evidence": [["Knocked_Up", 0]]}
+{"id": "481", "predicted_label": "SUPPORTS", "predicted_evidence": [["Smriti_Mandhana", 0]]}
+{"id": "482", "predicted_label": "REFUTES", "predicted_evidence": [["Dakota_Fanning", 6]]}
+{"id": "483", "predicted_label": "SUPPORTS", "predicted_evidence": [["Kendall_Jenner", 0], ["Kendall_Jenner", 1], ["Kendall_Jenner", 6]]}
+{"id": "484", "predicted_label": "REFUTES", "predicted_evidence": [["English_Wikipedia", 0], ["English_Wikipedia", 1]]}
+{"id": "485", "predicted_label": "SUPPORTS", "predicted_evidence": [["No_Strings_Attached_-LRB-film-RRB-", 2]]}
+{"id": "486", "predicted_label": "REFUTES", "predicted_evidence": [["Anthony_Scaramucci", 0]]}
+{"id": "487", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "488", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sarah_Hyland", 1]]}
+{"id": "489", "predicted_label": "SUPPORTS", "predicted_evidence": [["Cretaceous", 8], ["Cretaceous", 9]]}
+{"id": "490", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "491", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "492", "predicted_label": "REFUTES", "predicted_evidence": [["Bones_-LRB-TV_series-RRB-", 5]]}
+{"id": "493", "predicted_label": "REFUTES", "predicted_evidence": [["Raja_Hindustani", 0]]}
+{"id": "494", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "495", "predicted_label": "REFUTES", "predicted_evidence": [["Men_in_Black_II", 0]]}
+{"id": "496", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "497", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "498", "predicted_label": "SUPPORTS", "predicted_evidence": [["Hezbollah", 7], ["Hezbollah", 17]]}
+{"id": "499", "predicted_label": "REFUTES", "predicted_evidence": [["SpongeBob_SquarePants", 0]]}
+{"id": "500", "predicted_label": "REFUTES", "predicted_evidence": [["Practical_Magic", 0]]}
+{"id": "501", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "502", "predicted_label": "REFUTES", "predicted_evidence": [["Islamabad", 18]]}
+{"id": "503", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "504", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "505", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jackpot_-LRB-game_show-RRB-", 1]]}
+{"id": "506", "predicted_label": "REFUTES", "predicted_evidence": [["Pakistan", 21]]}
+{"id": "507", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "508", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "509", "predicted_label": "REFUTES", "predicted_evidence": [["Icelandic_Coast_Guard", 0]]}
+{"id": "510", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "511", "predicted_label": "SUPPORTS", "predicted_evidence": [["Floyd_Mayweather_Jr.", 0]]}
+{"id": "512", "predicted_label": "REFUTES", "predicted_evidence": [["Azithromycin", 0], ["Azithromycin", 2], ["Azithromycin", 3], ["Azithromycin", 4], ["Azithromycin", 7]]}
+{"id": "513", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "514", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "515", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "516", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "517", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "518", "predicted_label": "SUPPORTS", "predicted_evidence": [["Kuching", 0]]}
+{"id": "519", "predicted_label": "SUPPORTS", "predicted_evidence": [["Harris_Jayaraj", 0]]}
+{"id": "520", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "521", "predicted_label": "REFUTES", "predicted_evidence": [["Taran_Killam", 0], ["Taran_Killam", 2]]}
+{"id": "522", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "523", "predicted_label": "SUPPORTS", "predicted_evidence": [["Touch_My_Body", 0]]}
+{"id": "524", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "525", "predicted_label": "REFUTES", "predicted_evidence": [["Albert_S._Ruddy", 0]]}
+{"id": "526", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "527", "predicted_label": "REFUTES", "predicted_evidence": [["IPhone_4", 0]]}
+{"id": "528", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "529", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "530", "predicted_label": "REFUTES", "predicted_evidence": [["Speech_recognition", 2]]}
+{"id": "531", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "532", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "533", "predicted_label": "SUPPORTS", "predicted_evidence": [["Blade_Runner_2049", 0]]}
+{"id": "534", "predicted_label": "SUPPORTS", "predicted_evidence": [["Lady_Gaga", 9]]}
+{"id": "535", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "536", "predicted_label": "SUPPORTS", "predicted_evidence": [["Chadwick_Boseman", 1]]}
+{"id": "537", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "538", "predicted_label": "SUPPORTS", "predicted_evidence": [["Ralph_Fults", 0]]}
+{"id": "539", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "540", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "541", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "542", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "543", "predicted_label": "REFUTES", "predicted_evidence": [["Kesha", 0]]}
+{"id": "544", "predicted_label": "REFUTES", "predicted_evidence": [["The_Nice_Guys", 0]]}
+{"id": "545", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "546", "predicted_label": "SUPPORTS", "predicted_evidence": [["Cyclades", 0]]}
+{"id": "547", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "548", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "549", "predicted_label": "SUPPORTS", "predicted_evidence": [["Monosodium_glutamate", 4]]}
+{"id": "550", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vedam_-LRB-film-RRB-", 0]]}
+{"id": "551", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "552", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sayyeshaa", 1]]}
+{"id": "553", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "554", "predicted_label": "SUPPORTS", "predicted_evidence": [["LinkedIn", 14]]}
+{"id": "555", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "556", "predicted_label": "SUPPORTS", "predicted_evidence": [["Barry_Van_Dyke", 0]]}
+{"id": "557", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "558", "predicted_label": "SUPPORTS", "predicted_evidence": [["Hanford_Site", 23]]}
+{"id": "559", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "560", "predicted_label": "REFUTES", "predicted_evidence": [["Blank_Space", 10]]}
+{"id": "561", "predicted_label": "SUPPORTS", "predicted_evidence": [["Brick_-LRB-film-RRB-", 0]]}
+{"id": "562", "predicted_label": "SUPPORTS", "predicted_evidence": [["Punch-Drunk_Love", 4]]}
+{"id": "563", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "564", "predicted_label": "REFUTES", "predicted_evidence": [["Reign_Over_Me", 0]]}
+{"id": "565", "predicted_label": "REFUTES", "predicted_evidence": [["The_Little_Prince_-LRB-2015_film-RRB-", 0]]}
+{"id": "566", "predicted_label": "REFUTES", "predicted_evidence": [["Sebastian_Vettel", 0]]}
+{"id": "567", "predicted_label": "SUPPORTS", "predicted_evidence": [["Lou_Gehrig", 15]]}
+{"id": "568", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Bassoon_King", 0]]}
+{"id": "569", "predicted_label": "SUPPORTS", "predicted_evidence": [["Marcus_Bentley", 0]]}
+{"id": "570", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "571", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "572", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "573", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "574", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "575", "predicted_label": "SUPPORTS", "predicted_evidence": [["Netscape_Navigator", 0], ["Netscape_Navigator", 1], ["Netscape_Navigator", 2], ["Netscape_Navigator", 6], ["Netscape_Navigator", 9]]}
+{"id": "576", "predicted_label": "REFUTES", "predicted_evidence": [["Vedam_-LRB-film-RRB-", 0]]}
+{"id": "577", "predicted_label": "REFUTES", "predicted_evidence": [["Murda_Beatz", 0]]}
+{"id": "578", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "579", "predicted_label": "REFUTES", "predicted_evidence": [["Argentina", 3], ["Argentina", 12]]}
+{"id": "580", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "581", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "582", "predicted_label": "REFUTES", "predicted_evidence": [["Happiness_in_Slavery", 0]]}
+{"id": "583", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Mod_Squad_-LRB-film-RRB-", 0]]}
+{"id": "584", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "585", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mad_Max-COLON-_Fury_Road", 0]]}
+{"id": "586", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "587", "predicted_label": "SUPPORTS", "predicted_evidence": [["Alice_Cooper", 0]]}
+{"id": "588", "predicted_label": "SUPPORTS", "predicted_evidence": [["Pitch_Perfect_2", 2]]}
+{"id": "589", "predicted_label": "SUPPORTS", "predicted_evidence": [["Stephen_Moyer", 3]]}
+{"id": "590", "predicted_label": "SUPPORTS", "predicted_evidence": [["St._Anger", 0]]}
+{"id": "591", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vera_Wang", 0]]}
+{"id": "592", "predicted_label": "REFUTES", "predicted_evidence": [["Salt_River_Valley", 0]]}
+{"id": "593", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "594", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "595", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "596", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "597", "predicted_label": "REFUTES", "predicted_evidence": [["Awkward_Black_Girl", 0]]}
+{"id": "598", "predicted_label": "SUPPORTS", "predicted_evidence": [["UNICEF_UK", 0]]}
+{"id": "599", "predicted_label": "SUPPORTS", "predicted_evidence": [["Diwali", 0]]}
+{"id": "600", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "601", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "602", "predicted_label": "SUPPORTS", "predicted_evidence": [["St._Anger", 0]]}
+{"id": "603", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "604", "predicted_label": "REFUTES", "predicted_evidence": [["Birmingham", 0]]}
+{"id": "605", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tijuana", 0]]}
+{"id": "606", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "607", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "608", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "609", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "610", "predicted_label": "SUPPORTS", "predicted_evidence": [["Marjorie_Gross", 0]]}
+{"id": "611", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Endless_River", 0]]}
+{"id": "612", "predicted_label": "REFUTES", "predicted_evidence": [["TakePart", 0]]}
+{"id": "613", "predicted_label": "SUPPORTS", "predicted_evidence": [["Cambridgeshire", 8]]}
+{"id": "614", "predicted_label": "REFUTES", "predicted_evidence": [["Uranium", 0]]}
+{"id": "615", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "616", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "617", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "618", "predicted_label": "SUPPORTS", "predicted_evidence": [["Mickey_Rourke", 3], ["Mickey_Rourke", 7], ["Mickey_Rourke", 10], ["Mickey_Rourke", 11], ["Mickey_Rourke", 13]]}
+{"id": "619", "predicted_label": "REFUTES", "predicted_evidence": [["Veeram_-LRB-2014_film-RRB-", 0]]}
+{"id": "620", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "621", "predicted_label": "SUPPORTS", "predicted_evidence": [["Near-Earth_object", 0]]}
+{"id": "622", "predicted_label": "REFUTES", "predicted_evidence": [["Colin_Kaepernick", 7]]}
+{"id": "623", "predicted_label": "REFUTES", "predicted_evidence": [["Premier_League_Asia_Trophy", 0]]}
+{"id": "624", "predicted_label": "REFUTES", "predicted_evidence": [["Julie_Bowen", 0]]}
+{"id": "625", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "626", "predicted_label": "REFUTES", "predicted_evidence": [["Andrew_Kevin_Walker", 0], ["Andrew_Kevin_Walker", 1]]}
+{"id": "627", "predicted_label": "SUPPORTS", "predicted_evidence": [["T2_Trainspotting", 0]]}
+{"id": "628", "predicted_label": "REFUTES", "predicted_evidence": [["Ludwig_van_Beethoven", 0]]}
+{"id": "629", "predicted_label": "REFUTES", "predicted_evidence": [["Two_and_a_Half_Men", 0]]}
+{"id": "630", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "631", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "632", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "633", "predicted_label": "SUPPORTS", "predicted_evidence": [["Despacito", 12]]}
+{"id": "634", "predicted_label": "SUPPORTS", "predicted_evidence": [["Milk_-LRB-film-RRB-", 0]]}
+{"id": "635", "predicted_label": "REFUTES", "predicted_evidence": [["Aunt_May", 9]]}
+{"id": "636", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "637", "predicted_label": "REFUTES", "predicted_evidence": [["Scream_2", 0]]}
+{"id": "638", "predicted_label": "REFUTES", "predicted_evidence": [["Ding_Yanyuhang", 0]]}
+{"id": "639", "predicted_label": "REFUTES", "predicted_evidence": [["One_True_Thing", 0]]}
+{"id": "640", "predicted_label": "REFUTES", "predicted_evidence": [["Mutiny_on_the_Bounty_-LRB-1962_film-RRB-", 0]]}
+{"id": "641", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "642", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "643", "predicted_label": "SUPPORTS", "predicted_evidence": [["Iceland", 11], ["Iceland", 33]]}
+{"id": "644", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "645", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "646", "predicted_label": "SUPPORTS", "predicted_evidence": [["Chrysler_Building", 1]]}
+{"id": "647", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "648", "predicted_label": "SUPPORTS", "predicted_evidence": [["Manchester_United_F.C.", 17]]}
+{"id": "649", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "650", "predicted_label": "REFUTES", "predicted_evidence": [["Penguin_Books", 1]]}
+{"id": "651", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "652", "predicted_label": "SUPPORTS", "predicted_evidence": [["Telephone_-LRB-song-RRB-", 5]]}
+{"id": "653", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "654", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "655", "predicted_label": "REFUTES", "predicted_evidence": [["Advertising", 0]]}
+{"id": "656", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "657", "predicted_label": "REFUTES", "predicted_evidence": [["The_dress", 7]]}
+{"id": "658", "predicted_label": "SUPPORTS", "predicted_evidence": [["John_Krasinski", 2], ["John_Krasinski", 6]]}
+{"id": "659", "predicted_label": "SUPPORTS", "predicted_evidence": [["Aarhus", 1]]}
+{"id": "660", "predicted_label": "REFUTES", "predicted_evidence": [["Yugoslavia", 0]]}
+{"id": "661", "predicted_label": "SUPPORTS", "predicted_evidence": [["Stanford_prison_experiment", 2]]}
+{"id": "662", "predicted_label": "SUPPORTS", "predicted_evidence": [["Salt_River_-LRB-Wyoming-RRB-", 0], ["Salt_River_Valley", 0]]}
+{"id": "663", "predicted_label": "REFUTES", "predicted_evidence": [["Raabta_-LRB-song-RRB-", 0]]}
+{"id": "664", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "665", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "666", "predicted_label": "REFUTES", "predicted_evidence": [["Chris_Eubank", 0], ["Chris_Eubank_Jr.", 0]]}
+{"id": "667", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "668", "predicted_label": "REFUTES", "predicted_evidence": [["Mogadishu", 0]]}
+{"id": "669", "predicted_label": "SUPPORTS", "predicted_evidence": [["Rupert_Murdoch", 3]]}
+{"id": "670", "predicted_label": "SUPPORTS", "predicted_evidence": [["Simon_Pegg", 0]]}
+{"id": "671", "predicted_label": "SUPPORTS", "predicted_evidence": [["Weekly_Idol", 1]]}
+{"id": "672", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sean_Gunn", 0]]}
+{"id": "673", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "674", "predicted_label": "REFUTES", "predicted_evidence": [["Dark_matter", 0]]}
+{"id": "675", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "676", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "677", "predicted_label": "SUPPORTS", "predicted_evidence": [["Swordfish_-LRB-film-RRB-", 1]]}
+{"id": "678", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "679", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "680", "predicted_label": "REFUTES", "predicted_evidence": [["Rwanda", 26]]}
+{"id": "681", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "682", "predicted_label": "SUPPORTS", "predicted_evidence": [["Premier_League_Asia_Trophy", 0]]}
+{"id": "683", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "684", "predicted_label": "SUPPORTS", "predicted_evidence": [["Jack_Falahee", 0], ["Jack_Falahee", 1]]}
+{"id": "685", "predicted_label": "REFUTES", "predicted_evidence": [["Michigan", 13]]}
+{"id": "686", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "687", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Pelican_Brief_-LRB-film-RRB-", 0]]}
+{"id": "688", "predicted_label": "REFUTES", "predicted_evidence": [["Bad_Romance", 12]]}
+{"id": "689", "predicted_label": "SUPPORTS", "predicted_evidence": [["Melancholia_-LRB-2011_film-RRB-", 0]]}
+{"id": "690", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "691", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "692", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "693", "predicted_label": "REFUTES", "predicted_evidence": [["Estonia", 0]]}
+{"id": "694", "predicted_label": "REFUTES", "predicted_evidence": [["LinkedIn", 14]]}
+{"id": "695", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "696", "predicted_label": "REFUTES", "predicted_evidence": [["Practical_Magic", 0]]}
+{"id": "697", "predicted_label": "SUPPORTS", "predicted_evidence": [["Swordfish_-LRB-film-RRB-", 1]]}
+{"id": "698", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "699", "predicted_label": "SUPPORTS", "predicted_evidence": [["Colin_Kaepernick", 0], ["Colin_Kaepernick", 1]]}
+{"id": "700", "predicted_label": "REFUTES", "predicted_evidence": [["2_Hearts_-LRB-Kylie_Minogue_song-RRB-", 0]]}
+{"id": "701", "predicted_label": "REFUTES", "predicted_evidence": [["Premier_League_Asia_Trophy", 0]]}
+{"id": "702", "predicted_label": "SUPPORTS", "predicted_evidence": [["Player-coach", 0]]}
+{"id": "703", "predicted_label": "REFUTES", "predicted_evidence": [["A_Milli", 0], ["A_Milli", 1]]}
+{"id": "704", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "705", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "706", "predicted_label": "SUPPORTS", "predicted_evidence": [["Michaela_Watkins", 0]]}
+{"id": "707", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "708", "predicted_label": "SUPPORTS", "predicted_evidence": [["Akon", 0]]}
+{"id": "709", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "710", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "711", "predicted_label": "SUPPORTS", "predicted_evidence": [["Punch-Drunk_Love", 4]]}
+{"id": "712", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "713", "predicted_label": "SUPPORTS", "predicted_evidence": [["Stephen_Moyer", 3]]}
+{"id": "714", "predicted_label": "REFUTES", "predicted_evidence": [["Roland_Emmerich", 3]]}
+{"id": "715", "predicted_label": "SUPPORTS", "predicted_evidence": [["Topman", 0]]}
+{"id": "716", "predicted_label": "REFUTES", "predicted_evidence": [["Marnie", 0], ["Marnie_-LRB-film-RRB-", 0]]}
+{"id": "717", "predicted_label": "REFUTES", "predicted_evidence": [["Raja_Hindustani", 0]]}
+{"id": "718", "predicted_label": "REFUTES", "predicted_evidence": [["William_Cohen", 0]]}
+{"id": "719", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "720", "predicted_label": "REFUTES", "predicted_evidence": [["Blue_Jasmine", 0], ["Blue_Jasmine", 1], ["Blue_Jasmine", 2], ["Blue_Jasmine", 6], ["Blue_Jasmine", 8]]}
+{"id": "721", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "722", "predicted_label": "SUPPORTS", "predicted_evidence": [["Derek_Hough", 6]]}
+{"id": "723", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "724", "predicted_label": "REFUTES", "predicted_evidence": [["T2_Trainspotting", 0]]}
+{"id": "725", "predicted_label": "SUPPORTS", "predicted_evidence": [["Happiness_in_Slavery", 0]]}
+{"id": "726", "predicted_label": "REFUTES", "predicted_evidence": [["Calcaneal_spur", 1]]}
+{"id": "727", "predicted_label": "SUPPORTS", "predicted_evidence": [["Pulmonary_embolism", 3]]}
+{"id": "728", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "729", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "730", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "731", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "732", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "733", "predicted_label": "REFUTES", "predicted_evidence": [["Jack_Lowden", 0], ["Jack_Lowden", 1], ["Jack_Lowden", 9]]}
+{"id": "734", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "735", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "736", "predicted_label": "SUPPORTS", "predicted_evidence": [["Bloods", 2]]}
+{"id": "737", "predicted_label": "REFUTES", "predicted_evidence": [["Ann_Biderman", 0]]}
+{"id": "738", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "739", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "740", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "741", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "742", "predicted_label": "REFUTES", "predicted_evidence": [["Ron_Dennis", 1], ["Ron_Dennis", 2], ["Ron_Dennis", 14]]}
+{"id": "743", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "744", "predicted_label": "SUPPORTS", "predicted_evidence": [["Raja_Hindustani", 0]]}
+{"id": "745", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "746", "predicted_label": "REFUTES", "predicted_evidence": [["Dan_Brown", 0]]}
+{"id": "747", "predicted_label": "REFUTES", "predicted_evidence": [["Miranda_Otto", 1]]}
+{"id": "748", "predicted_label": "REFUTES", "predicted_evidence": [["The_Church_of_Jesus_Christ_of_Latter-day_Saints", 24]]}
+{"id": "749", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "750", "predicted_label": "REFUTES", "predicted_evidence": [["Adobe_Photoshop", 20]]}
+{"id": "751", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "752", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "753", "predicted_label": "REFUTES", "predicted_evidence": [["Scream_2", 0]]}
+{"id": "754", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "755", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "756", "predicted_label": "SUPPORTS", "predicted_evidence": [["Email_filtering", 5]]}
+{"id": "757", "predicted_label": "SUPPORTS", "predicted_evidence": [["Stanford_prison_experiment", 2]]}
+{"id": "758", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "759", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "760", "predicted_label": "SUPPORTS", "predicted_evidence": [["Veeram_-LRB-2016_film-RRB-", 0]]}
+{"id": "761", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "762", "predicted_label": "REFUTES", "predicted_evidence": [["Reign_Over_Me", 0]]}
+{"id": "763", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "764", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "765", "predicted_label": "SUPPORTS", "predicted_evidence": [["An_Education", 0]]}
+{"id": "766", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "767", "predicted_label": "REFUTES", "predicted_evidence": [["Renato_Balestra", 3]]}
+{"id": "768", "predicted_label": "REFUTES", "predicted_evidence": [["Latvian_Soviet_Socialist_Republic", 0]]}
+{"id": "769", "predicted_label": "REFUTES", "predicted_evidence": [["Kerplunk_-LRB-album-RRB-", 0]]}
+{"id": "770", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "771", "predicted_label": "REFUTES", "predicted_evidence": [["Balibo_-LRB-film-RRB-", 0]]}
+{"id": "772", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Pelican_Brief_-LRB-film-RRB-", 0]]}
+{"id": "773", "predicted_label": "SUPPORTS", "predicted_evidence": [["Granite", 0], ["Granite", 3], ["Granite", 7]]}
+{"id": "774", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "775", "predicted_label": "REFUTES", "predicted_evidence": [["Gray_Matter_Interactive", 0]]}
+{"id": "776", "predicted_label": "REFUTES", "predicted_evidence": [["Natural_Born_Killers", 5]]}
+{"id": "777", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "778", "predicted_label": "REFUTES", "predicted_evidence": [["Morse_code", 0]]}
+{"id": "779", "predicted_label": "REFUTES", "predicted_evidence": [["Jerome_Flynn", 0]]}
+{"id": "780", "predicted_label": "SUPPORTS", "predicted_evidence": [["James_VI_and_I", 0]]}
+{"id": "781", "predicted_label": "REFUTES", "predicted_evidence": [["Sancho_Panza", 0]]}
+{"id": "782", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sabbir_Khan", 1]]}
+{"id": "783", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "784", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "785", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eric_Church", 0]]}
+{"id": "786", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "787", "predicted_label": "REFUTES", "predicted_evidence": [["Taarak_Mehta_Ka_Ooltah_Chashmah", 0]]}
+{"id": "788", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "789", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "790", "predicted_label": "SUPPORTS", "predicted_evidence": [["Absinthe", 16]]}
+{"id": "791", "predicted_label": "SUPPORTS", "predicted_evidence": [["Gray_Matter_Interactive", 0]]}
+{"id": "792", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "793", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "794", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "795", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "796", "predicted_label": "REFUTES", "predicted_evidence": [["Rwanda", 26]]}
+{"id": "797", "predicted_label": "SUPPORTS", "predicted_evidence": [["Maggie_Q", 1]]}
+{"id": "798", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "799", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Little_Prince_-LRB-2015_film-RRB-", 0]]}
+{"id": "800", "predicted_label": "REFUTES", "predicted_evidence": [["Boeing_767", 17], ["Boeing_767", 19]]}
+{"id": "801", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "802", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "803", "predicted_label": "SUPPORTS", "predicted_evidence": [["A_Milli", 0]]}
+{"id": "804", "predicted_label": "SUPPORTS", "predicted_evidence": [["Edgar_Wright", 0], ["Edgar_Wright", 5], ["Edgar_Wright", 6]]}
+{"id": "805", "predicted_label": "SUPPORTS", "predicted_evidence": [["Overexposed_-LRB-album-RRB-", 0], ["Overexposed_-LRB-album-RRB-", 10], ["Overexposed_-LRB-album-RRB-", 12]]}
+{"id": "806", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "807", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "808", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "809", "predicted_label": "REFUTES", "predicted_evidence": [["Miracle_at_St._Anna", 2]]}
+{"id": "810", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "811", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "812", "predicted_label": "SUPPORTS", "predicted_evidence": [["Moscovium", 0]]}
+{"id": "813", "predicted_label": "SUPPORTS", "predicted_evidence": [["Invasion_literature", 0]]}
+{"id": "814", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "815", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "816", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "817", "predicted_label": "REFUTES", "predicted_evidence": [["Veeru_Devgan", 0]]}
+{"id": "818", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "819", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "820", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "821", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sancho_Panza", 0]]}
+{"id": "822", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "823", "predicted_label": "SUPPORTS", "predicted_evidence": [["Advertising", 0]]}
+{"id": "824", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "825", "predicted_label": "REFUTES", "predicted_evidence": [["The_Little_Prince_-LRB-2015_film-RRB-", 0]]}
+{"id": "826", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "827", "predicted_label": "SUPPORTS", "predicted_evidence": [["Shinji_Mikami", 0], ["Shinji_Mikami", 12]]}
+{"id": "828", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "829", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "830", "predicted_label": "REFUTES", "predicted_evidence": [["Northwestern_University", 0]]}
+{"id": "831", "predicted_label": "SUPPORTS", "predicted_evidence": [["Lorelai_Gilmore", 3]]}
+{"id": "832", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Incredibles_2", 0]]}
+{"id": "833", "predicted_label": "REFUTES", "predicted_evidence": [["Matt_Bomer", 0]]}
+{"id": "834", "predicted_label": "SUPPORTS", "predicted_evidence": [["China", 15]]}
+{"id": "835", "predicted_label": "SUPPORTS", "predicted_evidence": [["Azithromycin", 0], ["Azithromycin", 1], ["Azithromycin", 2]]}
+{"id": "836", "predicted_label": "SUPPORTS", "predicted_evidence": [["Janelle_Mona\u0301e", 0]]}
+{"id": "837", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Sugarland_Express", 3]]}
+{"id": "838", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "839", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sarah_Hyland", 1]]}
+{"id": "840", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "841", "predicted_label": "REFUTES", "predicted_evidence": [["Saturn", 0], ["Saturn", 1]]}
+{"id": "842", "predicted_label": "REFUTES", "predicted_evidence": [["Prescott,_Arizona", 0]]}
+{"id": "843", "predicted_label": "REFUTES", "predicted_evidence": [["Brick_Mansions", 0]]}
+{"id": "844", "predicted_label": "SUPPORTS", "predicted_evidence": [["Angelsberg", 0], ["Angelsberg", 1]]}
+{"id": "845", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "846", "predicted_label": "REFUTES", "predicted_evidence": [["Chris_Benoit", 0]]}
+{"id": "847", "predicted_label": "SUPPORTS", "predicted_evidence": [["John_Goodman", 4], ["John_Goodman", 7]]}
+{"id": "848", "predicted_label": "REFUTES", "predicted_evidence": [["The_Tracey_Fragments_-LRB-film-RRB-", 6]]}
+{"id": "849", "predicted_label": "SUPPORTS", "predicted_evidence": [["Icelandic_Coast_Guard", 0]]}
+{"id": "850", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "851", "predicted_label": "SUPPORTS", "predicted_evidence": [["Watchmen_-LRB-film-RRB-", 2]]}
+{"id": "852", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "853", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "854", "predicted_label": "SUPPORTS", "predicted_evidence": [["Quran", 0]]}
+{"id": "855", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "856", "predicted_label": "SUPPORTS", "predicted_evidence": [["Vedam_-LRB-film-RRB-", 0]]}
+{"id": "857", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "858", "predicted_label": "REFUTES", "predicted_evidence": [["Dave_Gibbons", 0]]}
+{"id": "859", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "860", "predicted_label": "SUPPORTS", "predicted_evidence": [["Meghan_Markle", 0], ["Meghan_Markle", 2]]}
+{"id": "861", "predicted_label": "SUPPORTS", "predicted_evidence": [["Invasion_literature", 3]]}
+{"id": "862", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "863", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "864", "predicted_label": "SUPPORTS", "predicted_evidence": [["Castlevania", 0]]}
+{"id": "865", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "866", "predicted_label": "SUPPORTS", "predicted_evidence": [["A_View_to_a_Kill", 6]]}
+{"id": "867", "predicted_label": "REFUTES", "predicted_evidence": [["Saturn", 0]]}
+{"id": "868", "predicted_label": "SUPPORTS", "predicted_evidence": [["Gin", 0], ["Gin", 3]]}
+{"id": "869", "predicted_label": "SUPPORTS", "predicted_evidence": [["Bullitt", 0]]}
+{"id": "870", "predicted_label": "REFUTES", "predicted_evidence": [["The_Love_Club_EP", 0]]}
+{"id": "871", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "872", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "873", "predicted_label": "SUPPORTS", "predicted_evidence": [["Fidaa", 0]]}
+{"id": "874", "predicted_label": "REFUTES", "predicted_evidence": [["Sancho_Panza", 0]]}
+{"id": "875", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "876", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "877", "predicted_label": "REFUTES", "predicted_evidence": [["Frozen_-LRB-2013_film-RRB-", 0]]}
+{"id": "878", "predicted_label": "REFUTES", "predicted_evidence": [["One_True_Thing", 0], ["One_True_Thing_-LRB-band-RRB-", 0]]}
+{"id": "879", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "880", "predicted_label": "SUPPORTS", "predicted_evidence": [["Baz_Luhrmann", 2]]}
+{"id": "881", "predicted_label": "SUPPORTS", "predicted_evidence": [["Sebastian_Stan", 1], ["Sebastian_Stan", 2]]}
+{"id": "882", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "883", "predicted_label": "REFUTES", "predicted_evidence": [["Edgar_Wright", 0]]}
+{"id": "884", "predicted_label": "REFUTES", "predicted_evidence": [["The_X-Files", 0], ["The_X-Files", 1], ["The_X-Files", 2], ["The_X-Files", 21]]}
+{"id": "885", "predicted_label": "SUPPORTS", "predicted_evidence": [["Visigoths", 16]]}
+{"id": "886", "predicted_label": "REFUTES", "predicted_evidence": [["Bloods", 0]]}
+{"id": "887", "predicted_label": "SUPPORTS", "predicted_evidence": [["Blue_Jasmine", 1]]}
+{"id": "888", "predicted_label": "SUPPORTS", "predicted_evidence": [["David_Packouz", 0], ["David_Packouz", 13]]}
+{"id": "889", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "890", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "891", "predicted_label": "REFUTES", "predicted_evidence": [["Arizona", 0]]}
+{"id": "892", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "893", "predicted_label": "SUPPORTS", "predicted_evidence": [["Michael_Vick", 0]]}
+{"id": "894", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "895", "predicted_label": "SUPPORTS", "predicted_evidence": [["Eva_Green", 1]]}
+{"id": "896", "predicted_label": "SUPPORTS", "predicted_evidence": [["Touch_My_Body", 18], ["Touch_My_Body", 21], ["Touch_My_Body", 22]]}
+{"id": "897", "predicted_label": "SUPPORTS", "predicted_evidence": [["2_Hearts_-LRB-Kylie_Minogue_song-RRB-", 0]]}
+{"id": "898", "predicted_label": "REFUTES", "predicted_evidence": [["Pink_-LRB-singer-RRB-", 0]]}
+{"id": "899", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "900", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "901", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "902", "predicted_label": "REFUTES", "predicted_evidence": [["West_Ham_United_F.C.", 0]]}
+{"id": "903", "predicted_label": "SUPPORTS", "predicted_evidence": [["Maltese_language", 0]]}
+{"id": "904", "predicted_label": "REFUTES", "predicted_evidence": [["T2_Trainspotting", 0]]}
+{"id": "905", "predicted_label": "REFUTES", "predicted_evidence": [["Nicholas_Brody", 1]]}
+{"id": "906", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Endless_River", 0]]}
+{"id": "907", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "908", "predicted_label": "SUPPORTS", "predicted_evidence": [["Rick_Yune", 2]]}
+{"id": "909", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "910", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "911", "predicted_label": "REFUTES", "predicted_evidence": [["Maximum_Overdrive", 0]]}
+{"id": "912", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tinker_Tailor_Soldier_Spy_-LRB-film-RRB-", 2]]}
+{"id": "913", "predicted_label": "REFUTES", "predicted_evidence": [["Golf", 0]]}
+{"id": "914", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "915", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "916", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "917", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "918", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "919", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "920", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "921", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "922", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "923", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "924", "predicted_label": "SUPPORTS", "predicted_evidence": [["Padua", 1]]}
+{"id": "925", "predicted_label": "REFUTES", "predicted_evidence": [["Cthulhu", 0]]}
+{"id": "926", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "927", "predicted_label": "SUPPORTS", "predicted_evidence": [["Practical_Magic", 0]]}
+{"id": "928", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "929", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "930", "predicted_label": "SUPPORTS", "predicted_evidence": [["Cadet_Kelly", 0]]}
+{"id": "931", "predicted_label": "SUPPORTS", "predicted_evidence": [["Qui-Gon_Jinn", 0]]}
+{"id": "932", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "933", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "934", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "935", "predicted_label": "SUPPORTS", "predicted_evidence": [["Chumlee", 0]]}
+{"id": "936", "predicted_label": "REFUTES", "predicted_evidence": [["Yvonne_Strahovski", 0]]}
+{"id": "937", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Punisher_-LRB-TV_series-RRB-", 5]]}
+{"id": "938", "predicted_label": "SUPPORTS", "predicted_evidence": [["Loretta_Sanchez", 0]]}
+{"id": "939", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "940", "predicted_label": "SUPPORTS", "predicted_evidence": [["Africa_Cup", 0]]}
+{"id": "941", "predicted_label": "SUPPORTS", "predicted_evidence": [["Nicholas_Brody", 1]]}
+{"id": "942", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "943", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "944", "predicted_label": "SUPPORTS", "predicted_evidence": [["Syco", 0], ["Syco", 2], ["Syco", 3]]}
+{"id": "945", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "946", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "947", "predicted_label": "SUPPORTS", "predicted_evidence": [["Derek_Hough", 5], ["Derek_Hough", 6]]}
+{"id": "948", "predicted_label": "SUPPORTS", "predicted_evidence": [["Monster", 0]]}
+{"id": "949", "predicted_label": "REFUTES", "predicted_evidence": [["Ian_Gillan", 0]]}
+{"id": "950", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "951", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "952", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "953", "predicted_label": "SUPPORTS", "predicted_evidence": [["Blue_Jasmine", 1], ["Cate_Blanchett", 4]]}
+{"id": "954", "predicted_label": "SUPPORTS", "predicted_evidence": [["Uranium", 0], ["Uranium", 2], ["Uranium", 3], ["Uranium", 4], ["Uranium", 5]]}
+{"id": "955", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "956", "predicted_label": "REFUTES", "predicted_evidence": [["Augustus_Prew", 5]]}
+{"id": "957", "predicted_label": "SUPPORTS", "predicted_evidence": [["The_Endless_River", 0], ["The_Endless_River", 2], ["The_Endless_River", 5]]}
+{"id": "958", "predicted_label": "REFUTES", "predicted_evidence": [["Saturn_Corporation", 0]]}
+{"id": "959", "predicted_label": "REFUTES", "predicted_evidence": [["Therasia", 0]]}
+{"id": "960", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "961", "predicted_label": "REFUTES", "predicted_evidence": [["Hot_Right_Now", 0]]}
+{"id": "962", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "963", "predicted_label": "REFUTES", "predicted_evidence": [["Dilwale_Dulhania_Le_Jayenge", 4]]}
+{"id": "964", "predicted_label": "SUPPORTS", "predicted_evidence": [["Adidas", 0]]}
+{"id": "965", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "966", "predicted_label": "REFUTES", "predicted_evidence": [["The_Adventures_of_Pluto_Nash", 0]]}
+{"id": "967", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "968", "predicted_label": "SUPPORTS", "predicted_evidence": [["Moscovium", 0]]}
+{"id": "969", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "970", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "971", "predicted_label": "SUPPORTS", "predicted_evidence": [["Edmund_H._North", 0], ["Edmund_H._North", 3]]}
+{"id": "972", "predicted_label": "REFUTES", "predicted_evidence": [["Bessie_Smith", 0]]}
+{"id": "973", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "974", "predicted_label": "REFUTES", "predicted_evidence": [["Shane_McMahon", 0], ["Shane_McMahon", 1], ["Shane_McMahon", 4], ["Shane_McMahon", 6], ["Shane_McMahon", 10]]}
+{"id": "975", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "976", "predicted_label": "REFUTES", "predicted_evidence": [["Guillermo_del_Toro", 0]]}
+{"id": "977", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "978", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "979", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "980", "predicted_label": "REFUTES", "predicted_evidence": [["Jamie_Murray", 1]]}
+{"id": "981", "predicted_label": "REFUTES", "predicted_evidence": [["Michigan", 2]]}
+{"id": "982", "predicted_label": "SUPPORTS", "predicted_evidence": [["Tijuana", 0], ["Tijuana", 2], ["Tijuana", 19]]}
+{"id": "983", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "984", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "985", "predicted_label": "REFUTES", "predicted_evidence": [["Weekly_Idol", 1]]}
+{"id": "986", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "987", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "988", "predicted_label": "REFUTES", "predicted_evidence": [["The_Chaperone_-LRB-film-RRB-", 0]]}
+{"id": "989", "predicted_label": "REFUTES", "predicted_evidence": [["Brubaker", 0]]}
+{"id": "990", "predicted_label": "SUPPORTS", "predicted_evidence": [["Scream_2", 0]]}
+{"id": "991", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "992", "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": []}
+{"id": "993", "predicted_label": "SUPPORTS", "predicted_evidence": [["Camden,_New_Jersey", 40], ["Camden,_New_Jersey", 41]]}
+{"id": "994", "predicted_label": "SUPPORTS", "predicted_evidence": [["Connie_Nielsen", 0]]}
+{"id": "995", "predicted_label": "SUPPORTS", "predicted_evidence": [["Henry_III_of_England", 1]]}
+{"id": "996", "predicted_label": "REFUTES", "predicted_evidence": [["Renato_Balestra", 3]]}
+{"id": "997", "predicted_label": "REFUTES", "predicted_evidence": [["Kenneth_Lonergan", 0], ["Kenneth_Lonergan", 1], ["Kenneth_Lonergan", 2], ["Kenneth_Lonergan", 3]]}
+{"id": "998", "predicted_label": "SUPPORTS", "predicted_evidence": [["Croatia", 22], ["Croatia", 27], ["Croatia", 29], ["Croatia", 31]]}
